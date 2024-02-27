@@ -235,6 +235,7 @@ CP00,GB,128.3,All-items HICP,104.4,119.1,01/04/2023
 CP00,GB,126.8,All-items HICP,104.4,119.1,01/03/2023
 CP00,GB,126,All-items HICP,104.4,119.1,01/02/2023
 CP00,GB,124.8,All-items HICP,104.4,119.1,01/01/2023
+CP00,GB,130,All-items HICP,104.4,117.2,01/01/2024
 CP00,AT,104.12,All-items HICP,104.12,28,01/10/2017
 CP00,AT,104.27,All-items HICP,104.12,28,01/11/2017
 CP00,AT,104.94,All-items HICP,104.12,28,01/12/2017
@@ -5181,6 +5182,7 @@ CP0118,GB,125,"Sugar, jam, honey, chocolate and confectionery",99.3,119.1,01/04/
 CP0118,GB,123.4,"Sugar, jam, honey, chocolate and confectionery",99.3,119.1,01/03/2023
 CP0118,GB,121.1,"Sugar, jam, honey, chocolate and confectionery",99.3,119.1,01/02/2023
 CP0118,GB,120.2,"Sugar, jam, honey, chocolate and confectionery",99.3,119.1,01/01/2023
+CP0118,GB,131.5,"Sugar, jam, honey, chocolate and confectionery",99.3,117.2,01/01/2024
 CP0118,HR,102.85,"Sugar, jam, honey, chocolate and confectionery",102.85,13.3,01/10/2017
 CP0118,HR,101.94,"Sugar, jam, honey, chocolate and confectionery",102.85,13.3,01/11/2017
 CP0118,HR,100.36,"Sugar, jam, honey, chocolate and confectionery",102.85,13.3,01/12/2017
@@ -5417,6 +5419,7 @@ CP01181,GB,160.4,Sugar,104.1,119.1,01/04/2023
 CP01181,GB,154.5,Sugar,104.1,119.1,01/03/2023
 CP01181,GB,150.1,Sugar,104.1,119.1,01/02/2023
 CP01181,GB,149.6,Sugar,104.1,119.1,01/01/2023
+CP01181,GB,176.6,Sugar,104.1,117.2,01/01/2024
 CP01181,AT,95.24,Sugar,95.24,28,01/10/2017
 CP01181,AT,92.14,Sugar,95.24,28,01/11/2017
 CP01181,AT,91.35,Sugar,95.24,28,01/12/2017
@@ -10515,6 +10518,7 @@ CP01182,GB,140.3,"Jams, marmalades and honey",103.5,119.1,01/04/2023
 CP01182,GB,139.7,"Jams, marmalades and honey",103.5,119.1,01/03/2023
 CP01182,GB,139.1,"Jams, marmalades and honey",103.5,119.1,01/02/2023
 CP01182,GB,139.2,"Jams, marmalades and honey",103.5,119.1,01/01/2023
+CP01182,GB,137.7,"Jams, marmalades and honey",103.5,117.2,01/01/2024
 CP01184,BE,97.85,Confectionery products,97.85,50.5,01/10/2017
 CP01184,BE,99.67,Confectionery products,97.85,50.5,01/11/2017
 CP01184,BE,100.43,Confectionery products,97.85,50.5,01/12/2017
@@ -10751,6 +10755,7 @@ CP01184,GB,125.1,Confectionery products,103.7,119.1,01/04/2023
 CP01184,GB,122.1,Confectionery products,103.7,119.1,01/03/2023
 CP01184,GB,120,Confectionery products,103.7,119.1,01/02/2023
 CP01184,GB,116.5,Confectionery products,103.7,119.1,01/01/2023
+CP01184,GB,129.2,Confectionery products,103.7,117.2,01/01/2024
 CP01184,AT,101.53,Confectionery products,101.53,28,01/10/2017
 CP01184,AT,100.52,Confectionery products,101.53,28,01/11/2017
 CP01184,AT,102.14,Confectionery products,101.53,28,01/12/2017
@@ -15545,6 +15550,7 @@ CP01185,GB,135.6,Edible ices and ice cream,100.5,119.1,01/04/2023
 CP01185,GB,138.5,Edible ices and ice cream,100.5,119.1,01/03/2023
 CP01185,GB,134,Edible ices and ice cream,100.5,119.1,01/02/2023
 CP01185,GB,134.7,Edible ices and ice cream,100.5,119.1,01/01/2023
+CP01185,GB,147.1,Edible ices and ice cream,100.5,117.2,01/01/2024
 CP01185,SI,101.74,Edible ices and ice cream,101.74,9.6,01/10/2017
 CP01185,SI,101.74,Edible ices and ice cream,101.74,9.6,01/11/2017
 CP01185,SI,101.74,Edible ices and ice cream,101.74,9.6,01/12/2017
@@ -15933,6 +15939,7 @@ CP01222,GB,134.7,Soft drinks,97.3,119.1,01/04/2023
 CP01222,GB,134.2,Soft drinks,97.3,119.1,01/03/2023
 CP01222,GB,134.9,Soft drinks,97.3,119.1,01/02/2023
 CP01222,GB,133.9,Soft drinks,97.3,119.1,01/01/2023
+CP01222,GB,138.6,Soft drinks,97.3,117.2,01/01/2024
 CP01222,AT,104.55,Soft drinks,104.55,28,01/10/2017
 CP01222,AT,104.62,Soft drinks,104.55,28,01/11/2017
 CP01222,AT,104.41,Soft drinks,104.55,28,01/12/2017
@@ -20879,6 +20886,7 @@ CP01144,GB,143.5,Yoghurt,101.8,119.1,01/04/2023
 CP01144,GB,136.3,Yoghurt,101.8,119.1,01/03/2023
 CP01144,GB,136.8,Yoghurt,101.8,119.1,01/02/2023
 CP01144,GB,129.9,Yoghurt,101.8,119.1,01/01/2023
+CP01144,GB,142.7,Yoghurt,101.8,117.2,01/01/2024
 CP01117,AT,99.68,Breakfast cereals,99.68,28,01/10/2017
 CP01117,AT,96.31,Breakfast cereals,99.68,28,01/11/2017
 CP01117,AT,99.64,Breakfast cereals,99.68,28,01/12/2017
@@ -27032,11 +27040,11 @@ CP01186,NL,117.8,Artificial sugar substitutes,102.03,55.2,01/02/2023
 CP01186,NL,118.03,Artificial sugar substitutes,102.03,55.2,01/03/2023
 CP01186,NL,115.79,Artificial sugar substitutes,102.03,55.2,01/04/2023
 CP01186,NL,115.54,Artificial sugar substitutes,102.03,55.2,01/05/2023
-CP01186,NL,115.64,Artificial sugar substitutes,102.03,55.2,01/06/2023
-CP01186,NL,115.72,Artificial sugar substitutes,102.03,55.2,01/07/2023
-CP01186,NL,116.71,Artificial sugar substitutes,102.03,55.2,01/08/2023
-CP01186,NL,112.55,Artificial sugar substitutes,102.03,55.2,01/09/2023
-CP01186,NL,111.88,Artificial sugar substitutes,102.03,55.2,01/10/2023
-CP01186,NL,114.22,Artificial sugar substitutes,102.03,55.2,01/11/2023
-CP01186,NL,117.38,Artificial sugar substitutes,102.03,55.2,01/12/2023
-CP01186,NL,118.87,Artificial sugar substitutes,102.03,54.8,01/01/2024
+CP01186,NL,115.64,Artificial sugar substitutes,102.03,55.2,45078
+CP01186,NL,115.72,Artificial sugar substitutes,102.03,55.2,45108
+CP01186,NL,116.71,Artificial sugar substitutes,102.03,55.2,45139
+CP01186,NL,112.55,Artificial sugar substitutes,102.03,55.2,45170
+CP01186,NL,111.88,Artificial sugar substitutes,102.03,55.2,45200
+CP01186,NL,114.22,Artificial sugar substitutes,102.03,55.2,45231
+CP01186,NL,117.38,Artificial sugar substitutes,102.03,55.2,45261
+CP01186,NL,118.87,Artificial sugar substitutes,102.03,54.8,45292
