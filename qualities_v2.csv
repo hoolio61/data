@@ -1,186 +1,169 @@
-CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC,,"Use this for ""filter CN"""
-12091000,"Sugar beet seed, for sowing",Seeds,Sugar beet seed,,Why the fuck doesn't the lookup work if you change it?
-12091100,"Sugar beet seed, for sowing",Seeds,Sugar beet seed,,
-12092960,"Fodder beet seed ""Beta vulgaris var. alba"", for sowing",Seeds,Sugar beet seed,,
-12129110,Fresh sugar beet,Sugar beet,Sugar beet,,
-12129120,"Sugar beet, dried, whether or not ground",Sugar beet,Sugar beet,,
-12129180,"Sugar beet, fresh, chilled or frozen",Sugar beet,Sugar beet,,
-12129190,Dried or powdered sugar beet,Sugar beet,Sugar beet,,
-12129300,"Sugar cane, fresh, chilled, frozen or dried, whether or not ground",Sugar cane,Sugar cane,,
-12129920,"Sugar cane, fresh, chilled, frozen or dried, whether or not ground",Sugar cane,Sugar cane,,
-17011110,"Raw cane sugar, for refining (excl. added flavouring or colouring)",Sugar,Raw sugar for refining,,
-17011190,Raw cane sugar (excl. for refining and added flavouring or colouring),Sugar,DC raw sugar,,
-17011210,"Raw beet sugar, for refining (excl. added flavouring or colouring)",Sugar,Raw sugar for refining,,
-17011290,Raw beet sugar (excl. for refining and added flavouring or colouring),Sugar,DC raw sugar,,
-17011310,"Raw cane sugar for refining, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.]",Sugar,Raw sugar for refining,,
-17011390,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.] (excl. for refining)",Sugar,DC raw sugar,,
-17011410,"Raw cane sugar for refining, in solid form, not containing added flavouring or colouring matter (excl. cane sugar of 1701 13)",Sugar,Raw sugar for refining,,
-17011490,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter (excl. for refining, and cane sugar of 1701 13)",Sugar,DC raw sugar,,
-17019100,"Refined cane or beet sugar, containing added flavouring or colouring, in solid form",Sugar,White sugar,,
-17019910,"White sugar, containing in dry state>= 99,5% sucrose (excl. flavoured or coloured)",Sugar,White sugar,,
-17019990,"Cane or beet sugar and chemically pure sucrose, in solid form (excl. cane and beet sugar containing added flavouring or colouring, raw sugar and white sugar)",Sugar,White sugar,,
-17021010,"Lactose in solid form and lactose syrup not containing added flavouring or colouring matter, containing, in the dry state, >= 99% by weight of the pure product",Other sugars,Lactose,,
-17021090,"Lactose in solid form and lactose syrup not containing added flavouring or colouring matter, containing, in the dry state, < 99% by weight of the pure product",Other sugars,Lactose,,
-17021100,"Lactose in solid form and lactose syrup, not containing added flavouring or colouring matter, containing by weight >= 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",Other sugars,Lactose,,
-17021900,"Lactose in solid form and lactose syrup, not containing added flavouring or colouring matter, containing by weight < 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",Other sugars,Lactose,,
-17022010,"Maple sugar, in solid form, flavoured or coloured",Other sugars,Maple sugar,,
-17022090,"Maple sugar, in solid form, and maple syrup (excl. flavoured or coloured)",Other sugars,Maple sugar,,
-17023010,"Isoglucose, containing in the dry state >= 10% and < 20% by weight of fructose",Other sugars,Isoglucose,,
-17023050,"Glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated, not containing fructose or containing in the dry state < 20% by weight of glucose (excl. isoglucose)",Other sugars,Glucose,,
-17023051,"Glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated, not containing fructose or containing in the dry state < 20% by weight of glucose and containing in the dry state >= 99% by weight of glucose (excl. isoglucose)",Other sugars,Glucose,,
-17023059,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter and not containing fructose or containing in the dry state < 20% by weight of fructose and containing in the dry state >= 99% by weight of glucose (excl. isoglucose and glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated)",Other sugars,Glucose,,
-17023090,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter and not containing fructose or containing in the dry state < 20% by weight of fructose (excl. isoglucose and glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated)",Other sugars,Glucose,,
-17023091,"Glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated, not containing fructose or containing in the dry state < 20% by weight of glucose and containing in the dry state < 99% by weight of glucose (excl. isoglucose)",Other sugars,Glucose,,
-17023099,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter and not containing fructose or containing in the dry state < 20% by weight of fructose and < 99% by weight of glucose (excl. isoglucose and glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated)",Other sugars,Glucose,,
-17024010,"Isoglucose, containing in the dry state >= 20% and < 50% by weight of fructose (excl. invert sugar)",Other sugars,Isoglucose,,
-17024090,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter, and containing in the dry state >= 20% and < 50% by weight of fructose (excl. isoglucose and invert sugar)",Other sugars,Glucose,,
-17025000,Chemically pure fructose in solid form,Other sugars,Fructose,,
-17026010,"Isoglucose, containing in the dry state > 50% by weight of fructose (excl. chemically pure fructose and invert sugar)",Other sugars,Isoglucose,,
-17026080,"Inulin syrup obtained directly by hydrolysis of inulin or oligofructoses, containing in the dry state > 50% by weight of fructose in free form or as sucrose",Other sugars,Inulin,,
-17026090,"Fructose in solid form and fructose syrup not containing added flavouring or colouring matter and containing, in the dry state, > 50% by weight of fructose (excl. isoglucose and chemically pure fructose)",Other sugars,Fructose,,
-17026095,"Fructose in solid form and fructose syrup not containing added flavouring or colouring matter and containing in the dry state > 50% by weight of fructose (excl. isoglucose, inulin syrup, chemically pure fructose and invert sugar)",Other sugars,Fructose,,
-17029010,"Chemically pure maltose, in solid form",Other sugars,Maltose,,
-17029030,"Isoglucose, containing in the dry state 50% by weight of fructose",Other sugars,Isoglucose,,
-17029050,Maltodextrine in solid form and maltodextrine syrup (excl. flavoured or coloured),Other sugars,Maltodextrine,,
-17029060,"Artificial honey, whether or not mixed with natural honey",Other sugars,Artificial honey,,
-17029071,"Sugar and molasses, caramelised, containing in the dry state >= 50% by weight of sucrose",Other sugars,Caramel,,
-17029075,"Sugar and molasses, caramelised, containing in the dry state < 50% by weight of sucrose, in powder form, whether or not agglomerated",Other sugars,Caramel,,
-17029079,"Sugar and molasses, caramelised, containing in the dry state < 50% by weight of sucrose (excl. sugar and molasses in powder form, whether or not agglomerated)",Other sugars,Caramel,,
-17029080,"Inulin syrup, obtained directly by hydrolysis of inulin or oligofructoses, containing in the dry state >= 10% but <= 50% by weight of fructose in free form or as sucrose",Other sugars,Inulin,,
-17029090,"Sugars in solid forms, sugar syrup (excl. flavoured or coloured), (excl. 1702.10-10 to 1702.90-79)",Other sugars,Other sugars,,
-17029095,"Sugars in solid form, incl. invert sugar, and sugar and sugar syrup blends containing in the dry state 50% by weight of fructose, not containing added flavouring or colouring matter (excl. cane or beet sugar, chemically pure sucrose and maltose, lactose, maple sugar, glucose, fructose, maltodextrine, and syrups thereof, isoglucose, inulin syrup and caramel)",Other sugars,Invert sugars,,
-17029099,"Sugars in solid form, incl. invert sugar, and sugar and sugar syrup blends containing in the dry state 50% by weight of fructose, not containing added flavouring or colouring matter (excl. cane or beet sugar, chemically pure sucrose and maltose, lactose, maple sugar, glucose, fructose, maltodextrine, and syrups thereof, isoglucose, inulin syrup, artificial honey and caramel)",Other sugars,Invert sugars,,
-1702S061,Confidential trade of heading 1702 and SITC group 061,Other,Confidential,,
-17031000,Cane molasses resulting from the extraction or refining of sugar,Molasses,Cane molasses,,
-17039000,Beet molasses resulting from the extraction or refining of sugar,Molasses,Beet molasses,,
-17041010,"Chewing gum, whether or not sugar-coated, containing < 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum,,
-17041011,"Chewing gum, whether or not sugar-coated, in strips, containing < 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum,,
-17041019,"Chewing gum, whether or not sugar-coated, containing < 60% sucrose, incl. invert sugar expressed as sucrose (excl. in strips)",Other,Chewing gum,,
-17041090,"Chewing gum, whether or not sugar-coated, containing >= 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum,,
-17041091,"Chewing gum, whether or not sugar-coated, in strips, containing >= 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum,,
-17041099,"Chewing gum, whether or not sugar-coated, containing >= 60% sucrose, incl. invert sugar expressed as sucrose (excl. in strips)",Other,Chewing gum,,
-17049010,"Liquorice extract containing > 10% sucrose, without other added substances",Other,Liquorice extract,,
-17049030,White chocolate,Other,White chocolate,,
-17049051,"Pastes, incl. marzipan, in immediate packings of >= 1 kg",Other,Marzipan,,
-17049055,Throat pastilles and cough drops,Other,Throat pastilles and cough drops,,
-17049061,"Sugar-coated ""panned"" goods, not containing cocoa",Other,Panned goods,,
-17049065,"Gum and jelly confectionery, incl. fruit pastes in the form of sugar confectionery",Other,Gum and jelly confectionery,,
-17049071,"Boiled sweets, whether or not filled",Other,Boiled sweets,,
-17049075,"Toffees, caramels and similar sweets",Other,Toffees,,
-17049081,"Compressed tablets of sugar confectionery, whether or not manufactured with binding agents, not containing cocoa (excl. chewing gum, white chocolate, throat pastilles and cough drops, gum confectionery and jelly confectionery incl. fruit pastes in the form of sugar confectionery, boiled sweets, whether or not filled, pastes, incl. marzipan, in immediate packings of a net content of >= 1 kg)",Other,Other sugar confections,,
-17049099,"Pastes, marzipan, nougat and other prepared sugar confectionery, not containing cocoa (excl. chewing gum, white chocolate, throat pastilles and cough drops, gum and jelly confectionery incl. fruit pastes in the form of sugar confectionery, boiled sweets, toffees, caramels and similar sweets, compressed tablets, and pastes incl. marzipan in immediate packings of >= 1 kg)",Other,Marzipan,,
-1704S062,Confidential trade of heading 1704 and SITC group 062,Other,Confidential,,
-17CCC000,Corrections due to erroneous codes belonging to chapter 17,Other,Confidential,,
-17MMM000,Trade broken down at chapter level only,Other,Confidential,,
-17SSS061,Confidential trade of chapter 17 and SITC group 061,Other,Confidential,,
-17SSS062,Confidential trade of chapter 17 and SITC group 062,Other,Confidential,,
-17SSS516,Confidential trade of chapter 17 and SITC group 516,Other,Confidential,,
-17SSS999,Confidential trade of chapter 17 and SITC group 999,Other,Confidential,,
-18061030,"Sweetened cocoa powder, containing >= 65% but < 80% sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Other,Cocoa powder,,
-18061090,"Sweetened cocoa powder, containing >= 80% sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Other,Cocoa powder,,
-18062095,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing < 18% by weight of cocoa butter (excl. cocoa powder, chocolate flavour coating and chocolate milk crumb)",Other,Chocolate,,
-18069090,"Preparations containing cocoa, in containers or immediate packings of <= 2 kg (excl. chocolate, chocolates and other chocolate products, sugar confectionery and substitutes therefor made from sugar substitution products, spreads and preparations containing cocoa for making beverages, and cocoa powder)",Other,Chocolate,,
-19019099,"Food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing cocoa in a proportion by weight of < 40%, calculated on a totally defatted basis, and food preparations of milk, cream, butter milk, sour milk, sour cream, whey, yogurt, kephir or similar goods in heading 0401 to 0404, not containing cocoa or containing cocoa in a proportion by weight of < 5%, calculated on a totally defatted basis, n.e.s. (excl. malt extract and preparations for infant food, put up for retail sale, mixes and doughs for preparation of bakers' wares and goods in subheadings 1901.90.91 and 1901.90.95)",Other,Delete,,
-20060031,"Cherries, with a sugar content of > 13%, preserved by sugar, drained, glacé or crystallised",Other,Sweetened fruit,,
-20060038,"Vegetables, fruit, nuts, fruit-peel and other edible parts of plants, preserved by sugar ""drained, glacé or crystallised"", with a sugar content of > 13% by weight (excl. cherries, ginger, guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola, pitahaya, coconuts, cashew nuts, brazil nuts, areca ""betel"" nuts, colanuts and macadamia nuts)",Other,Sweetened fruit,,
-20071010,"Homogenised preparations of jams, fruit jellies, marmalades, fruit or nut purée and pastes, obtained by cooking, put up for retail sale as infant food or for dietetic purposes, in containers of <= 250 g, with sugar content of > 13% by weight",Other,Jam,,
-20079110,"Citrus fruit jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079130,"Citrus fruit jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 13% but <= 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079910,"Plum purée and paste, obtained by cooking, with sugar content of > 30% by weight, in packings of > 100 kg, for industrial processing",Other,Jam,,
-20079920,"Chestnut purée and paste, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079931,"Cherry jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079933,"Strawberry jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079935,"Raspberry jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079939,"Jams, jellies, marmalades, fruit purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. raspberries, strawberries, cherries and citrus fruits, chestnut purée and paste, homogenised preparations of subheading 2007.10, and plum purée and paste, in packings of > 100 kg, for industrial processing)",Other,Jam,,
-20079950,"Jams, fruit jellies, marmalades, fruit purée and fruit pastes, obtained by cooking, with a sugar content of > 13 to 30% by weight (excl. such products made from citrus fruits and homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079951,"Chestnut puree and paste, obtained by cooking, with sugar content of > 13% but <= 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079955,"Apple purée, obtained by cooking, with a sugar content of > 13% but <= 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079957,"Jams, fruit jellies, marmalades, fruit purée and fruit pastes, obtained by cooking, with a sugar content of > 13 to 30% by weight (excl. such products made from citrus fruits, apple purée and homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079958,"Jams, fruit jellies, marmalades, fruit purée and fruit pastes, obtained by cooking, with a sugar content of > 13-30% by weight (excl. such products made from citrus fruits, chestnut purée and paste, apple purée and homogenised preparations of subheading 2007.10)",Other,Jam,,
-20079959,"Jams, jellies, marmalades, fruit purées or pastes, obtained by cooking, with sugar content of > 13 % but =< 30 % (excl. citrus fruits, chestnut purée and paste and homogenized preparations of subheading 2007 10 10)",Other,Jam,,
-20079990,"Jams, jellies, marmalades, fruit purées or pastes, whether or not sweetened (excl. with sugar content of > 13 %, homogenized preparations of subheading 2007 10 90 and citrus fruit)",Other,Jam,,
-20091111,"Frozen orange juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice,,
-20091191,"Frozen orange juice, unfermented, Brix value <= 67 at 20°C, value of <= 30 € per 100 kg, with > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20091911,"Orange juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit and frozen)",Other,Fruit juice,,
-20091991,"Orange juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit and frozen)",Other,Fruit juice,,
-20092911,"Grapefruit juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice,,
-20092991,"Grapefruit juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20093911,"Single citrus fruit juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit, mixtures, orange juice and grapefruit juice)",Other,Fruit juice,,
-20093951,"Lemon juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20093991,"Single citrus fruit juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. or containing spirit, mixtures, lemon, orange and grapefruit juice)",Other,Fruit juice,,
-20094911,"Pineapple juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice,,
-20094991,"Pineapple juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20098011,"Pear juice, unfermented, Brix value > 67 at 20°C, value of <= 22 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice,,
-20098035,"Juice of fruit or vegetables, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter, Brix value > 67 at 20°C, value of <= € 30 per 100 kg (excl. mixtures and juice of citrus fruit, passion fruit, mangoes, mangosteens, papaws ""papayas"", jackfruit, guavas, tamarinds, cashew apples, lychees, sapodillo plums, carambola or pitahaya, pineapples, tomatoes, grapes, apples and pears)",Other,Fruit juice,,
-20098061,"Pear juice, unfermented, Brix value <= 67 at 20°C, value of <= 18 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20098086,"Juice of fruit or vegetables, unfermented, Brix value <= 67 at 20°C, value of <= € 30 per 100 kg, containing > 30% added sugar (excl. mixtures or containing spirit, and juice of citrus fruits, guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola, pitahaya, pineapple juice, tomato juice, grape juice, incl. grape must, apple juice and pear juice)",Other,Fruit juice,,
-20099011,"Mixtures of apple and pear juice, unfermented, Brix value > 67 at 20°C, value of <= 22 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice,,
-20099021,"Mixtures of fruit juices, incl. grape must, and vegetable juices, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit and mixtures of apple and pear juice)",Other,Fruit juice,,
-20099031,"Mixtures of apple and pear juice, unfermented, Brix value <= 67 at 20°C, value of <= 18 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20099071,"Mixtures of citrus and pineapple juice, unfermented, Brix value <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice,,
-20099094,"Mixtures of fruit juices, incl. grape must and juices of vegetables, unfermented, Brix value <= 67 at 20°C, value of <= € 30 per 100 kg, containing > 30% added sugar (excl. containing spirit, mixtures of apple and pear juices or of citrus fruit and pineapple juices and of juices of guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola and pitahaya)",Other,Fruit juice,,
-21011298,Preparations with a basis of coffee,Other,Coffee preparations,,
-21012098,Preparations with a basis of tea or maté,Other,Tea preparations,,
-21069030,Flavoured or coloured isoglucose syrups,Other sugars,Isoglucose,,
-21069059,"Flavoured or coloured sugar syrups (excl. isoglucose, lactose, glucose and maltodextrine syrups)",Other sugars,Isoglucose,,
-21069098,"Food preparations, n.e.s., containing, by weight, >= 1,5% milkfat, >= 5% sucrose or isoglucose, >= 5% glucose or >= 5% starch",Other,Miscl. food preparations,,
-22021000,"Waters, incl. mineral and aerated, with added sugar, sweetener or flavour, for direct consumption as a beverage",Other,Soft drinks,,
-22071000,"Undenatured ethyl alcohol, of actual alcoholic strength of >= 80%",Ethanol,Un-denatured ethanol,,
-22072000,Denatured ethyl alcohol and other spirits of any strength,Ethanol,Denatured ethanol,,
-23032010,Beet-pulp,Biomass,Beet pulp,,
-23032011,Beet-pulp having a dry matter content of >= 87% by weight,Biomass,Very dry beet pulp,,
-23032013,"Beet pulp, of dry matter content of >= 18 % but < 87 %",Biomass,Moist beet pulp,,
-23032018,Beet-pulp having a dry matter content of < 87% by weight,Biomass,Moist beet pulp,,
-23032019,"Beet pulp, of dry matter content of < 18 %",Biomass,Wet beet pulp,,
-23032090,Bagasse and other waste of sugar manufacture (excl. beet pulp),Biomass,Bagasse,,
-23099091,Beef-pulp with added molasses of a kind used in animal feeding,Other,Beet pulp with added molasses,,
-33021029,"Preparations based on odoriferous substances, containing all flavouring agents characterizing a beverage, containing, by weight, >= 1,5% milkfat, >= 5% sucrose or isoglucose, >= 5% glucose or >= 5% starch, of a kind used in the drink industries (excl. of an actual alcoholic strength of > 0,5% vol)",Other,Soft drink concentrate,,
-17010000,Sugar (all qualities of sugar under 1701),Sugar,Sugar (all qualities),,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC
+12091000,"Sugar beet seed, for sowing",Seeds,Sugar beet seed
+12091100,"Sugar beet seed, for sowing",Seeds,Sugar beet seed
+12092960,"Fodder beet seed ""Beta vulgaris var. alba"", for sowing",Seeds,Sugar beet seed
+12129110,Fresh sugar beet,Sugar beet,Sugar beet
+12129120,"Sugar beet, dried, whether or not ground",Sugar beet,Sugar beet
+12129180,"Sugar beet, fresh, chilled or frozen",Sugar beet,Sugar beet
+12129190,Dried or powdered sugar beet,Sugar beet,Sugar beet
+12129300,"Sugar cane, fresh, chilled, frozen or dried, whether or not ground",Sugar cane,Sugar cane
+12129920,"Sugar cane, fresh, chilled, frozen or dried, whether or not ground",Sugar cane,Sugar cane
+17011110,"Raw cane sugar, for refining (excl. added flavouring or colouring)",Sugar,Raw sugar for refining
+17011190,Raw cane sugar (excl. for refining and added flavouring or colouring),Sugar,DC raw sugar
+17011210,"Raw beet sugar, for refining (excl. added flavouring or colouring)",Sugar,Raw sugar for refining
+17011290,Raw beet sugar (excl. for refining and added flavouring or colouring),Sugar,DC raw sugar
+17011310,"Raw cane sugar for refining, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.]",Sugar,Raw sugar for refining
+17011390,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.] (excl. for refining)",Sugar,DC raw sugar
+17011410,"Raw cane sugar for refining, in solid form, not containing added flavouring or colouring matter (excl. cane sugar of 1701 13)",Sugar,Raw sugar for refining
+17011490,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter (excl. for refining, and cane sugar of 1701 13)",Sugar,DC raw sugar
+17019100,"Refined cane or beet sugar, containing added flavouring or colouring, in solid form",Sugar,White sugar
+17019910,"White sugar, containing in dry state>= 99,5% sucrose (excl. flavoured or coloured)",Sugar,White sugar
+17019990,"Cane or beet sugar and chemically pure sucrose, in solid form (excl. cane and beet sugar containing added flavouring or colouring, raw sugar and white sugar)",Sugar,White sugar
+17021010,"Lactose in solid form and lactose syrup not containing added flavouring or colouring matter, containing, in the dry state, >= 99% by weight of the pure product",Other sugars,Lactose
+17021090,"Lactose in solid form and lactose syrup not containing added flavouring or colouring matter, containing, in the dry state, < 99% by weight of the pure product",Other sugars,Lactose
+17021100,"Lactose in solid form and lactose syrup, not containing added flavouring or colouring matter, containing by weight >= 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",Other sugars,Lactose
+17021900,"Lactose in solid form and lactose syrup, not containing added flavouring or colouring matter, containing by weight < 99% lactose, expressed as anhydrous lactose, calculated on the dry matter",Other sugars,Lactose
+17022010,"Maple sugar, in solid form, flavoured or coloured",Other sugars,Maple sugar
+17022090,"Maple sugar, in solid form, and maple syrup (excl. flavoured or coloured)",Other sugars,Maple sugar
+17023010,"Isoglucose, containing in the dry state >= 10% and < 20% by weight of fructose",Other sugars,Isoglucose
+17023050,"Glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated, not containing fructose or containing in the dry state < 20% by weight of glucose (excl. isoglucose)",Other sugars,Glucose
+17023051,"Glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated, not containing fructose or containing in the dry state < 20% by weight of glucose and containing in the dry state >= 99% by weight of glucose (excl. isoglucose)",Other sugars,Glucose
+17023059,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter and not containing fructose or containing in the dry state < 20% by weight of fructose and containing in the dry state >= 99% by weight of glucose (excl. isoglucose and glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated)",Other sugars,Glucose
+17023090,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter and not containing fructose or containing in the dry state < 20% by weight of fructose (excl. isoglucose and glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated)",Other sugars,Glucose
+17023091,"Glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated, not containing fructose or containing in the dry state < 20% by weight of glucose and containing in the dry state < 99% by weight of glucose (excl. isoglucose)",Other sugars,Glucose
+17023099,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter and not containing fructose or containing in the dry state < 20% by weight of fructose and < 99% by weight of glucose (excl. isoglucose and glucose ""dextrose"" in the form of white crystalline powder, whether or not agglomerated)",Other sugars,Glucose
+17024010,"Isoglucose, containing in the dry state >= 20% and < 50% by weight of fructose (excl. invert sugar)",Other sugars,Isoglucose
+17024090,"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter, and containing in the dry state >= 20% and < 50% by weight of fructose (excl. isoglucose and invert sugar)",Other sugars,Glucose
+17025000,Chemically pure fructose in solid form,Other sugars,Fructose
+17026010,"Isoglucose, containing in the dry state > 50% by weight of fructose (excl. chemically pure fructose and invert sugar)",Other sugars,Isoglucose
+17026080,"Inulin syrup obtained directly by hydrolysis of inulin or oligofructoses, containing in the dry state > 50% by weight of fructose in free form or as sucrose",Other sugars,Inulin
+17026090,"Fructose in solid form and fructose syrup not containing added flavouring or colouring matter and containing, in the dry state, > 50% by weight of fructose (excl. isoglucose and chemically pure fructose)",Other sugars,Fructose
+17026095,"Fructose in solid form and fructose syrup not containing added flavouring or colouring matter and containing in the dry state > 50% by weight of fructose (excl. isoglucose, inulin syrup, chemically pure fructose and invert sugar)",Other sugars,Fructose
+17029010,"Chemically pure maltose, in solid form",Other sugars,Maltose
+17029030,"Isoglucose, containing in the dry state 50% by weight of fructose",Other sugars,Isoglucose
+17029050,Maltodextrine in solid form and maltodextrine syrup (excl. flavoured or coloured),Other sugars,Maltodextrine
+17029060,"Artificial honey, whether or not mixed with natural honey",Other sugars,Artificial honey
+17029071,"Sugar and molasses, caramelised, containing in the dry state >= 50% by weight of sucrose",Other sugars,Caramel
+17029075,"Sugar and molasses, caramelised, containing in the dry state < 50% by weight of sucrose, in powder form, whether or not agglomerated",Other sugars,Caramel
+17029079,"Sugar and molasses, caramelised, containing in the dry state < 50% by weight of sucrose (excl. sugar and molasses in powder form, whether or not agglomerated)",Other sugars,Caramel
+17029080,"Inulin syrup, obtained directly by hydrolysis of inulin or oligofructoses, containing in the dry state >= 10% but <= 50% by weight of fructose in free form or as sucrose",Other sugars,Inulin
+17029090,"Sugars in solid forms, sugar syrup (excl. flavoured or coloured), (excl. 1702.10-10 to 1702.90-79)",Other sugars,Other sugars
+17029095,"Sugars in solid form, incl. invert sugar, and sugar and sugar syrup blends containing in the dry state 50% by weight of fructose, not containing added flavouring or colouring matter (excl. cane or beet sugar, chemically pure sucrose and maltose, lactose, maple sugar, glucose, fructose, maltodextrine, and syrups thereof, isoglucose, inulin syrup and caramel)",Other sugars,Invert sugars
+17029099,"Sugars in solid form, incl. invert sugar, and sugar and sugar syrup blends containing in the dry state 50% by weight of fructose, not containing added flavouring or colouring matter (excl. cane or beet sugar, chemically pure sucrose and maltose, lactose, maple sugar, glucose, fructose, maltodextrine, and syrups thereof, isoglucose, inulin syrup, artificial honey and caramel)",Other sugars,Invert sugars
+1702S061,Confidential trade of heading 1702 and SITC group 061,Other,Confidential
+17031000,Cane molasses resulting from the extraction or refining of sugar,Molasses,Cane molasses
+17039000,Beet molasses resulting from the extraction or refining of sugar,Molasses,Beet molasses
+17041010,"Chewing gum, whether or not sugar-coated, containing < 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum
+17041011,"Chewing gum, whether or not sugar-coated, in strips, containing < 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum
+17041019,"Chewing gum, whether or not sugar-coated, containing < 60% sucrose, incl. invert sugar expressed as sucrose (excl. in strips)",Other,Chewing gum
+17041090,"Chewing gum, whether or not sugar-coated, containing >= 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum
+17041091,"Chewing gum, whether or not sugar-coated, in strips, containing >= 60% sucrose, incl. invert sugar expressed as sucrose",Other,Chewing gum
+17041099,"Chewing gum, whether or not sugar-coated, containing >= 60% sucrose, incl. invert sugar expressed as sucrose (excl. in strips)",Other,Chewing gum
+17049010,"Liquorice extract containing > 10% sucrose, without other added substances",Other,Liquorice extract
+17049030,White chocolate,Other,White chocolate
+17049051,"Pastes, incl. marzipan, in immediate packings of >= 1 kg",Other,Marzipan
+17049055,Throat pastilles and cough drops,Other,Throat pastilles and cough drops
+17049061,"Sugar-coated ""panned"" goods, not containing cocoa",Other,Panned goods
+17049065,"Gum and jelly confectionery, incl. fruit pastes in the form of sugar confectionery",Other,Gum and jelly confectionery
+17049071,"Boiled sweets, whether or not filled",Other,Boiled sweets
+17049075,"Toffees, caramels and similar sweets",Other,Toffees
+17049081,"Compressed tablets of sugar confectionery, whether or not manufactured with binding agents, not containing cocoa (excl. chewing gum, white chocolate, throat pastilles and cough drops, gum confectionery and jelly confectionery incl. fruit pastes in the form of sugar confectionery, boiled sweets, whether or not filled, pastes, incl. marzipan, in immediate packings of a net content of >= 1 kg)",Other,Other sugar confections
+17049099,"Pastes, marzipan, nougat and other prepared sugar confectionery, not containing cocoa (excl. chewing gum, white chocolate, throat pastilles and cough drops, gum and jelly confectionery incl. fruit pastes in the form of sugar confectionery, boiled sweets, toffees, caramels and similar sweets, compressed tablets, and pastes incl. marzipan in immediate packings of >= 1 kg)",Other,Marzipan
+1704S062,Confidential trade of heading 1704 and SITC group 062,Other,Confidential
+17CCC000,Corrections due to erroneous codes belonging to chapter 17,Other,Confidential
+17MMM000,Trade broken down at chapter level only,Other,Confidential
+17SSS061,Confidential trade of chapter 17 and SITC group 061,Other,Confidential
+17SSS062,Confidential trade of chapter 17 and SITC group 062,Other,Confidential
+17SSS516,Confidential trade of chapter 17 and SITC group 516,Other,Confidential
+17SSS999,Confidential trade of chapter 17 and SITC group 999,Other,Confidential
+18010000,"Cocoa beans, whole or broken, raw or roasted",Cocoa,Cocoa beans
+18020000,"Cocoa shells, husks, skins and other cocoa waste",Cocoa,Cocoa husks
+18031000,Cocoa paste (excl. defatted),Cocoa,Cocoa paste
+18032000,"Cocoa paste, wholly or partly defatted",Cocoa,Cocoa paste
+18040000,"Cocoa butter, fat and oil",Cocoa,Cocoa butter
+18050000,"Cocoa powder, not containing added sugar or other sweetening matter",Cocoa,Cocoa powder (unsweetened)
+18061030,"Sweetened cocoa powder, containing >= 65% but < 80% sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+18061090,"Sweetened cocoa powder, containing >= 80% sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+18062010,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing >= 31%, by weight, of cocoa butter or containing a combined weight of >= 31% of cocoa butter and milkfat (excl. cocoa powder)",Chocolate,Chocolate
+18062030,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing a combined weight of >= 25% but < 31% of cocoa butter and milkfat (excl. cocoa powder)",Chocolate,Chocolate
+18062050,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing >= 18% by weight but < 31% by weight of cocoa butter (excl. cocoa powder)",Chocolate,Chocolate
+18062070,Chocolate milk crumb preparations in containers or immediate packings of a content of > 2 kg,Chocolate,Chocolate
+18063100,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg, filled",Chocolate,Chocolate
+18063210,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg, with added cereal, fruit or nuts (excl. filled)",Chocolate,Chocolate
+18063290,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg (excl. filled and with added cereal, fruit or nuts)",Chocolate,Chocolate
+18069011,"Chocolate and chocolate products in the form of chocolates, whether or not filled, containing alcohol",Chocolate,Chocolate
+18069019,"Chocolate and chocolate products in the form of chocolates, whether or not filled, not containing alcohol",Chocolate,Chocolate
+18069031,"Chocolate and chocolate products, filled (excl. in blocks, slabs or bars and chocolates)",Chocolate,Chocolate
+18069039,"Chocolates and chocolate products, unfilled (excl. in blocks, slabs or bars, chocolates)",Chocolate,Chocolate
+18069050,"Sugar confectionery and substitutes therefor made from sugar substitution products, containing cocoa",Confectionery,Confectionery
+18069060,Spreads containing cocoa,Cocoa preparations,Cocoa preparations
+18069070,"Preparations containing cocoa, for making beverages",Cocoa preparations,Cocoa preparations
+18069090,"Preparations containing cocoa, in containers or immediate packings of <= 2 kg (excl. chocolate, chocolates and other chocolate products, sugar confectionery and substitutes therefor made from sugar substitution products, spreads and preparations containing cocoa for making beverages, and cocoa powder)",Cocoa preparations,Cocoa preparations
+18CCC000,Corrections due to erroneous codes belonging to chapter 18,Cocoa,Confidential
+18SSS072,Confidential trade of chapter 18 and SITC group 072,Cocoa,Confidential
+18SSS073,Confidential trade of chapter 18 and SITC group 073,Cocoa,Confidential
+18SSS999,Confidential trade of chapter 18 and SITC group 999,Cocoa,Confidential
+18061015,"Cocoa powder, containing added sugar or other sweetening matter but containing no sucrose or containing < 5% by weight of sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+18061020,"Cocoa powder, containing added sugar or other sweetening matter, containing >= 5% but < 65% by weight of sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+18062080,Chocolate flavour coating in containers or immediate packings of a content > 2 kg,Cocoa,Chocolate coating
+18062095,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing < 18% by weight of cocoa butter (excl. cocoa powder, chocolate flavour coating and chocolate milk crumb)",Chocolate,Chocolate
+18MMM000,Trade broken down at chapter level only,Cocoa,Confidential
+18062090,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of > 2 kg, liquids, pastes, powders, granular or similar, in packings of > 2 kg, containing < 18 % cocoa butter (excl. cocoa powder and chocolate milk crumb preparations)",Cocoa,Sweetened cocoa powder
+18SSS999,Confidential trade of chapter 18 and SITC group 999,Cocoa,Confidential
+18061010,"Sweetened cocoa powder, containing no sucrose or < 65 % sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+19019099,"Food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing cocoa in a proportion by weight of < 40%, calculated on a totally defatted basis, and food preparations of milk, cream, butter milk, sour milk, sour cream, whey, yogurt, kephir or similar goods in heading 0401 to 0404, not containing cocoa or containing cocoa in a proportion by weight of < 5%, calculated on a totally defatted basis, n.e.s. (excl. malt extract and preparations for infant food, put up for retail sale, mixes and doughs for preparation of bakers' wares and goods in subheadings 1901.90.91 and 1901.90.95)",Other,Delete
+20060031,"Cherries, with a sugar content of > 13%, preserved by sugar, drained, glacé or crystallised",Other,Sweetened fruit
+20060038,"Vegetables, fruit, nuts, fruit-peel and other edible parts of plants, preserved by sugar ""drained, glacé or crystallised"", with a sugar content of > 13% by weight (excl. cherries, ginger, guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola, pitahaya, coconuts, cashew nuts, brazil nuts, areca ""betel"" nuts, colanuts and macadamia nuts)",Other,Sweetened fruit
+20071010,"Homogenised preparations of jams, fruit jellies, marmalades, fruit or nut purée and pastes, obtained by cooking, put up for retail sale as infant food or for dietetic purposes, in containers of <= 250 g, with sugar content of > 13% by weight",Other,Jam
+20079110,"Citrus fruit jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079130,"Citrus fruit jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 13% but <= 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079910,"Plum purée and paste, obtained by cooking, with sugar content of > 30% by weight, in packings of > 100 kg, for industrial processing",Other,Jam
+20079920,"Chestnut purée and paste, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079931,"Cherry jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079933,"Strawberry jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079935,"Raspberry jams, jellies, marmalades, purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079939,"Jams, jellies, marmalades, fruit purées or pastes, obtained by cooking, with sugar content of > 30% by weight (excl. raspberries, strawberries, cherries and citrus fruits, chestnut purée and paste, homogenised preparations of subheading 2007.10, and plum purée and paste, in packings of > 100 kg, for industrial processing)",Other,Jam
+20079950,"Jams, fruit jellies, marmalades, fruit purée and fruit pastes, obtained by cooking, with a sugar content of > 13 to 30% by weight (excl. such products made from citrus fruits and homogenised preparations of subheading 2007.10)",Other,Jam
+20079951,"Chestnut puree and paste, obtained by cooking, with sugar content of > 13% but <= 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079955,"Apple purée, obtained by cooking, with a sugar content of > 13% but <= 30% by weight (excl. homogenised preparations of subheading 2007.10)",Other,Jam
+20079957,"Jams, fruit jellies, marmalades, fruit purée and fruit pastes, obtained by cooking, with a sugar content of > 13 to 30% by weight (excl. such products made from citrus fruits, apple purée and homogenised preparations of subheading 2007.10)",Other,Jam
+20079958,"Jams, fruit jellies, marmalades, fruit purée and fruit pastes, obtained by cooking, with a sugar content of > 13-30% by weight (excl. such products made from citrus fruits, chestnut purée and paste, apple purée and homogenised preparations of subheading 2007.10)",Other,Jam
+20079959,"Jams, jellies, marmalades, fruit purées or pastes, obtained by cooking, with sugar content of > 13 % but =< 30 % (excl. citrus fruits, chestnut purée and paste and homogenized preparations of subheading 2007 10 10)",Other,Jam
+20079990,"Jams, jellies, marmalades, fruit purées or pastes, whether or not sweetened (excl. with sugar content of > 13 %, homogenized preparations of subheading 2007 10 90 and citrus fruit)",Other,Jam
+20091111,"Frozen orange juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice
+20091191,"Frozen orange juice, unfermented, Brix value <= 67 at 20°C, value of <= 30 € per 100 kg, with > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20091911,"Orange juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit and frozen)",Other,Fruit juice
+20091991,"Orange juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit and frozen)",Other,Fruit juice
+20092911,"Grapefruit juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice
+20092991,"Grapefruit juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20093911,"Single citrus fruit juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit, mixtures, orange juice and grapefruit juice)",Other,Fruit juice
+20093951,"Lemon juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20093991,"Single citrus fruit juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. or containing spirit, mixtures, lemon, orange and grapefruit juice)",Other,Fruit juice
+20094911,"Pineapple juice, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice
+20094991,"Pineapple juice, unfermented, Brix value > 20 but <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20098011,"Pear juice, unfermented, Brix value > 67 at 20°C, value of <= 22 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice
+20098035,"Juice of fruit or vegetables, unfermented, not containing added spirit, whether or not containing added sugar or other sweetening matter, Brix value > 67 at 20°C, value of <= € 30 per 100 kg (excl. mixtures and juice of citrus fruit, passion fruit, mangoes, mangosteens, papaws ""papayas"", jackfruit, guavas, tamarinds, cashew apples, lychees, sapodillo plums, carambola or pitahaya, pineapples, tomatoes, grapes, apples and pears)",Other,Fruit juice
+20098061,"Pear juice, unfermented, Brix value <= 67 at 20°C, value of <= 18 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20098086,"Juice of fruit or vegetables, unfermented, Brix value <= 67 at 20°C, value of <= € 30 per 100 kg, containing > 30% added sugar (excl. mixtures or containing spirit, and juice of citrus fruits, guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola, pitahaya, pineapple juice, tomato juice, grape juice, incl. grape must, apple juice and pear juice)",Other,Fruit juice
+20099011,"Mixtures of apple and pear juice, unfermented, Brix value > 67 at 20°C, value of <= 22 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit)",Other,Fruit juice
+20099021,"Mixtures of fruit juices, incl. grape must, and vegetable juices, unfermented, Brix value > 67 at 20°C, value of <= 30 € per 100 kg, whether or not containing added sugar or other sweetening matter (excl. containing spirit and mixtures of apple and pear juice)",Other,Fruit juice
+20099031,"Mixtures of apple and pear juice, unfermented, Brix value <= 67 at 20°C, value of <= 18 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20099071,"Mixtures of citrus and pineapple juice, unfermented, Brix value <= 67 at 20°C, value of <= 30 € per 100 kg, containing > 30% added sugar (excl. containing spirit)",Other,Fruit juice
+20099094,"Mixtures of fruit juices, incl. grape must and juices of vegetables, unfermented, Brix value <= 67 at 20°C, value of <= € 30 per 100 kg, containing > 30% added sugar (excl. containing spirit, mixtures of apple and pear juices or of citrus fruit and pineapple juices and of juices of guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola and pitahaya)",Other,Fruit juice
+21011298,Preparations with a basis of coffee,Other,Coffee preparations
+21012098,Preparations with a basis of tea or maté,Other,Tea preparations
+21069030,Flavoured or coloured isoglucose syrups,Other sugars,Isoglucose
+21069059,"Flavoured or coloured sugar syrups (excl. isoglucose, lactose, glucose and maltodextrine syrups)",Other sugars,Isoglucose
+21069098,"Food preparations, n.e.s., containing, by weight, >= 1,5% milkfat, >= 5% sucrose or isoglucose, >= 5% glucose or >= 5% starch",Other,Miscl. food preparations
+22021000,"Waters, incl. mineral and aerated, with added sugar, sweetener or flavour, for direct consumption as a beverage",Other,Soft drinks
+22071000,"Undenatured ethyl alcohol, of actual alcoholic strength of >= 80%",Ethanol,Un-denatured ethanol
+22072000,Denatured ethyl alcohol and other spirits of any strength,Ethanol,Denatured ethanol
+23032010,Beet-pulp,Biomass,Beet pulp
+23032011,Beet-pulp having a dry matter content of >= 87% by weight,Biomass,Very dry beet pulp
+23032013,"Beet pulp, of dry matter content of >= 18 % but < 87 %",Biomass,Moist beet pulp
+23032018,Beet-pulp having a dry matter content of < 87% by weight,Biomass,Moist beet pulp
+23032019,"Beet pulp, of dry matter content of < 18 %",Biomass,Wet beet pulp
+23032090,Bagasse and other waste of sugar manufacture (excl. beet pulp),Biomass,Bagasse
+23099091,Beef-pulp with added molasses of a kind used in animal feeding,Other,Beet pulp with added molasses
+33021029,"Preparations based on odoriferous substances, containing all flavouring agents characterizing a beverage, containing, by weight, >= 1,5% milkfat, >= 5% sucrose or isoglucose, >= 5% glucose or >= 5% starch, of a kind used in the drink industries (excl. of an actual alcoholic strength of > 0,5% vol)",Other,Soft drink concentrate
+17010000,Sugar (all qualities of sugar under 1701),Sugar,Sugar (all qualities)
