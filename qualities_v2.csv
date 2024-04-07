@@ -1,4 +1,5 @@
 CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC
+17010000,Sugar (all qualities of sugar under 1701),Sugar,Sugar (all qualities)
 12091000,"Sugar beet seed, for sowing",Seeds,Sugar beet seed
 12091100,"Sugar beet seed, for sowing",Seeds,Sugar beet seed
 12092960,"Fodder beet seed ""Beta vulgaris var. alba"", for sowing",Seeds,Sugar beet seed
@@ -82,12 +83,18 @@ CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC
 18032000,"Cocoa paste, wholly or partly defatted",Cocoa,Cocoa paste
 18040000,"Cocoa butter, fat and oil",Cocoa,Cocoa butter
 18050000,"Cocoa powder, not containing added sugar or other sweetening matter",Cocoa,Cocoa powder (unsweetened)
+18061010,"Sweetened cocoa powder, containing no sucrose or < 65 % sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+18061015,"Cocoa powder, containing added sugar or other sweetening matter but containing no sucrose or containing < 5% by weight of sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
+18061020,"Cocoa powder, containing added sugar or other sweetening matter, containing >= 5% but < 65% by weight of sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
 18061030,"Sweetened cocoa powder, containing >= 65% but < 80% sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
 18061090,"Sweetened cocoa powder, containing >= 80% sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
 18062010,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing >= 31%, by weight, of cocoa butter or containing a combined weight of >= 31% of cocoa butter and milkfat (excl. cocoa powder)",Chocolate,Chocolate
 18062030,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing a combined weight of >= 25% but < 31% of cocoa butter and milkfat (excl. cocoa powder)",Chocolate,Chocolate
 18062050,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing >= 18% by weight but < 31% by weight of cocoa butter (excl. cocoa powder)",Chocolate,Chocolate
 18062070,Chocolate milk crumb preparations in containers or immediate packings of a content of > 2 kg,Chocolate,Chocolate
+18062080,Chocolate flavour coating in containers or immediate packings of a content > 2 kg,Cocoa,Chocolate coating
+18062090,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of > 2 kg, liquids, pastes, powders, granular or similar, in packings of > 2 kg, containing < 18 % cocoa butter (excl. cocoa powder and chocolate milk crumb preparations)",Cocoa,Sweetened cocoa powder
+18062095,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing < 18% by weight of cocoa butter (excl. cocoa powder, chocolate flavour coating and chocolate milk crumb)",Chocolate,Chocolate
 18063100,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg, filled",Chocolate,Chocolate
 18063210,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg, with added cereal, fruit or nuts (excl. filled)",Chocolate,Chocolate
 18063290,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg (excl. filled and with added cereal, fruit or nuts)",Chocolate,Chocolate
@@ -100,17 +107,10 @@ CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC
 18069070,"Preparations containing cocoa, for making beverages",Cocoa preparations,Cocoa preparations
 18069090,"Preparations containing cocoa, in containers or immediate packings of <= 2 kg (excl. chocolate, chocolates and other chocolate products, sugar confectionery and substitutes therefor made from sugar substitution products, spreads and preparations containing cocoa for making beverages, and cocoa powder)",Cocoa preparations,Cocoa preparations
 18CCC000,Corrections due to erroneous codes belonging to chapter 18,Cocoa,Confidential
+18MMM000,Trade broken down at chapter level only,Cocoa,Confidential
 18SSS072,Confidential trade of chapter 18 and SITC group 072,Cocoa,Confidential
 18SSS073,Confidential trade of chapter 18 and SITC group 073,Cocoa,Confidential
 18SSS999,Confidential trade of chapter 18 and SITC group 999,Cocoa,Confidential
-18061015,"Cocoa powder, containing added sugar or other sweetening matter but containing no sucrose or containing < 5% by weight of sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
-18061020,"Cocoa powder, containing added sugar or other sweetening matter, containing >= 5% but < 65% by weight of sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
-18062080,Chocolate flavour coating in containers or immediate packings of a content > 2 kg,Cocoa,Chocolate coating
-18062095,"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > 2 kg or in liquid, paste, powder, granular or other bulk form, in containers or immediate packings of a content > 2 kg, containing < 18% by weight of cocoa butter (excl. cocoa powder, chocolate flavour coating and chocolate milk crumb)",Chocolate,Chocolate
-18MMM000,Trade broken down at chapter level only,Cocoa,Confidential
-18062090,"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of > 2 kg, liquids, pastes, powders, granular or similar, in packings of > 2 kg, containing < 18 % cocoa butter (excl. cocoa powder and chocolate milk crumb preparations)",Cocoa,Sweetened cocoa powder
-18SSS999,Confidential trade of chapter 18 and SITC group 999,Cocoa,Confidential
-18061010,"Sweetened cocoa powder, containing no sucrose or < 65 % sucrose, incl. inverted sugar expressed as sucrose or isoglucose expressed as sucrose",Cocoa,Sweetened cocoa powder
 19019099,"Food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing cocoa in a proportion by weight of < 40%, calculated on a totally defatted basis, and food preparations of milk, cream, butter milk, sour milk, sour cream, whey, yogurt, kephir or similar goods in heading 0401 to 0404, not containing cocoa or containing cocoa in a proportion by weight of < 5%, calculated on a totally defatted basis, n.e.s. (excl. malt extract and preparations for infant food, put up for retail sale, mixes and doughs for preparation of bakers' wares and goods in subheadings 1901.90.91 and 1901.90.95)",Other,Delete
 20060031,"Cherries, with a sugar content of > 13%, preserved by sugar, drained, glacé or crystallised",Other,Sweetened fruit
 20060038,"Vegetables, fruit, nuts, fruit-peel and other edible parts of plants, preserved by sugar ""drained, glacé or crystallised"", with a sugar content of > 13% by weight (excl. cherries, ginger, guavas, mangoes, mangosteens, papaws ""papayas"", tamarinds, cashew apples, lychees, jackfruit, sapodillo plums, passion fruit, carambola, pitahaya, coconuts, cashew nuts, brazil nuts, areca ""betel"" nuts, colanuts and macadamia nuts)",Other,Sweetened fruit
