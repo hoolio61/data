@@ -124,7 +124,7 @@ Eswatini,SZ,SWZ,393,ISOorg,2,1
 Eswatini (Swaziland),SZ,,,AddList,2,0
 Ethiopia,ET,ETH,334,ISOorg,2,1
 Ethiopia Pdr,ET,,,AddList,2,0
-European Union,EU,EUR,19,EU,1,1
+European Union,EU,EUR,19,EU,2,2
 Falkland Islands,FK,FLK,893,EU,3,2
 Falkland Islands (Malvinas),FK,FLK,529,FAO,3,1
 Faroe Islands,FO,FRO,41,FAO,2,2
@@ -428,3 +428,4 @@ Yugoslavia,RS,SRB,94,EU,7,3
 Zambia,ZM,ZMB,378,ISOorg,1,1
 Zimbabwe,ZW,ZWE,382,ISOorg,1,1
 Zzzzzzzzz,ZZ,ZZZ,,Test,9,0
+EU +,EU,EUR,19,EU,2,2
