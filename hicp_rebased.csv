@@ -24909,360 +24909,360 @@ CP0118,BE,102.47,"Sugar, jam, honey, chocolate and confectionery",99.74,49.8,01/
 CP0118,BG,102.03,"Sugar, jam, honey, chocolate and confectionery",108.27,23.8,01/10/2018
 CP0118,CH,101.03,"Sugar, jam, honey, chocolate and confectionery",98.97,26.1,01/10/2018
 CP0118,CY,102.46,"Sugar, jam, honey, chocolate and confectionery",100.75,2.4,01/10/2018
-CP0118,CZ,101.7,"Sugar, jam, honey, chocolate and confectionery",106.4,41.4,43374
-CP0118,DE,101.5,"Sugar, jam, honey, chocolate and confectionery",100.9,262,43374
-CP0118,DK,100.5,"Sugar, jam, honey, chocolate and confectionery",102.6,21.7,43374
-CP0118,EE,110.27,"Sugar, jam, honey, chocolate and confectionery",109.33,5.4,43374
-CP0118,ES,101.91,"Sugar, jam, honey, chocolate and confectionery",101.14,109.8,43374
-CP0118,FI,90.33,"Sugar, jam, honey, chocolate and confectionery",89.64,17.2,43374
-CP0118,FR,101.16,"Sugar, jam, honey, chocolate and confectionery",100.65,208.7,43374
-CP0118,HU,104.24,"Sugar, jam, honey, chocolate and confectionery",108.18,20.5,43374
-CP0118,IE,87.8,"Sugar, jam, honey, chocolate and confectionery",92.6,11.3,43374
-CP0118,IS,100.69,"Sugar, jam, honey, chocolate and confectionery",100.86,0.8,43374
-CP0118,IT,100,"Sugar, jam, honey, chocolate and confectionery",100.1,142.7,43374
-CP0118,LT,100.17,"Sugar, jam, honey, chocolate and confectionery",105.35,7.1,43374
-CP0118,LU,107.75,"Sugar, jam, honey, chocolate and confectionery",106.74,0.6,43374
-CP0118,LV,101.76,"Sugar, jam, honey, chocolate and confectionery",106.99,5.3,43374
-CP0118,MK,103.05,"Sugar, jam, honey, chocolate and confectionery",106.85,6.5,43374
-CP0118,MT,103.25,"Sugar, jam, honey, chocolate and confectionery",103.75,2,43374
-CP0118,NL,98.35,"Sugar, jam, honey, chocolate and confectionery",98.85,59.2,43374
-CP0118,NO,103.9,"Sugar, jam, honey, chocolate and confectionery",100.2,10.1,43374
-CP0118,PL,105.2,"Sugar, jam, honey, chocolate and confectionery",107.9,145.2,43374
-CP0118,PT,102,"Sugar, jam, honey, chocolate and confectionery",100.96,25.5,43374
-CP0118,RO,100.74,"Sugar, jam, honey, chocolate and confectionery",102.34,50.4,43374
-CP0118,GB,100.3,"Sugar, jam, honey, chocolate and confectionery",99.3,135.8,43374
-CP0118,AL,103.2,"Sugar, jam, honey, chocolate and confectionery",103.1,6.9,43374
-CP0118,TR,142.04,"Sugar, jam, honey, chocolate and confectionery",118.28,218.2,43374
-CP0118,SK,106.46,"Sugar, jam, honey, chocolate and confectionery",106.37,20.4,43374
-CP0118,SI,101.17,"Sugar, jam, honey, chocolate and confectionery",102.36,9.5,43374
-CP0118,SE,102.48,"Sugar, jam, honey, chocolate and confectionery",101.45,32.4,43374
-CP0118,RS,103.9,"Sugar, jam, honey, chocolate and confectionery",110.5,25.1,43374
-CP00,RS,107.5,All-items HICP,105.1,25.1,43374
-CP00,SE,105.89,All-items HICP,103.4,32.4,43374
-CP00,SI,104.21,All-items HICP,101.87,9.5,43374
-CP00,SK,103.9,All-items HICP,101.4,20.4,43374
-CP00,TR,153.79,All-items HICP,122.79,218.2,43374
-CP00,AL,105.91,All-items HICP,104.61,6.9,43374
-CP00,GB,106.7,All-items HICP,104.4,135.8,43374
-CP00,RO,105.26,All-items HICP,101.03,50.4,43374
-CP00,PT,104.49,All-items HICP,103.64,25.5,43374
-CP00,NO,110.1,All-items HICP,106.3,10.1,43374
-CP00,NL,103.89,All-items HICP,101.97,59.2,43374
-CP00,MT,105.45,All-items HICP,103.33,2,43374
-CP00,MK,105.62,All-items HICP,103.2,6.5,43374
-CP00,LV,106.75,All-items HICP,103.44,5.3,43374
-CP00,LU,105.64,All-items HICP,102.79,0.6,43374
-CP00,LT,108.42,All-items HICP,105.42,7.1,43374
-CP00,IT,103.7,All-items HICP,102,142.7,43374
-CP00,IS,100.08,All-items HICP,99.16,0.8,43374
-CP00,IE,101.2,All-items HICP,100.1,11.3,43374
-CP00,HU,107.35,All-items HICP,103.34,20.5,43374
-CP00,HR,103.12,All-items HICP,101.43,13.2,43374
-CP00,FR,104.24,All-items HICP,101.7,208.7,43374
-CP00,FI,103.05,All-items HICP,101.32,17.2,43374
-CP00,ES,104.77,All-items HICP,102.4,109.8,43374
-CP00,EE,109.86,All-items HICP,105.16,5.4,43374
-CP00,DE,105.4,All-items HICP,102.7,262,43374
-CP00,CZ,105.7,All-items HICP,103.6,41.4,43374
-CP00,CY,101.78,All-items HICP,99.84,2.4,43374
-CP00,CH,101.65,All-items HICP,100.5,26.1,43374
-CP00,BG,103.55,All-items HICP,99.94,23.8,43374
-CP00,BE,107.8,All-items HICP,104.44,49.8,43374
-CP00,AT,106.62,All-items HICP,104.12,27.7,43374
-CP00,PL,103.1,All-items HICP,101.6,145.2,43374
-CP00,DK,102.3,All-items HICP,101.6,21.7,43374
-CP00,EL,103.59,All-items HICP,101.8,26.7,43374
-CP00,EL,103.59,All-items HICP,101.8,26.7,43374
-CP01144,EL,94.98,Yoghurt,96.27,26.7,43374
-CP01144,EL,94.98,Yoghurt,96.27,26.7,43374
-CP01144,AT,98.5,Yoghurt,96.44,27.7,43374
-CP01144,BE,104.56,Yoghurt,103.83,49.8,43374
-CP01144,BG,107.66,Yoghurt,105.14,23.8,43374
-CP01144,CH,101.59,Yoghurt,100.3,26.1,43374
-CP01144,CY,99.94,Yoghurt,97.95,2.4,43374
-CP01144,CZ,105.7,Yoghurt,101.7,41.4,43374
-CP01144,DE,106.2,Yoghurt,103.6,262,43374
-CP01144,DK,97,Yoghurt,101,21.7,43374
-CP01144,EE,107.33,Yoghurt,106.89,5.4,43374
-CP01144,ES,100.84,Yoghurt,99.58,109.8,43374
-CP01144,FI,97.67,Yoghurt,95.93,17.2,43374
-CP01144,FR,100.31,Yoghurt,98.69,208.7,43374
-CP01144,HR,102.67,Yoghurt,99.29,13.2,43374
-CP01144,HU,111.11,Yoghurt,104.63,20.5,43374
-CP01144,IE,99.9,Yoghurt,96.6,11.3,43374
-CP01144,IS,119.2,Yoghurt,109,0.8,43374
-CP01144,IT,98.2,Yoghurt,99.8,142.7,43374
-CP01144,LT,125.5,Yoghurt,123,7.1,43374
-CP01144,LU,101.27,Yoghurt,100.34,0.6,43374
-CP01144,LV,104.51,Yoghurt,105.03,5.3,43374
-CP01144,MK,101.04,Yoghurt,100.02,6.5,43374
-CP01144,MT,113.97,Yoghurt,100,2,43374
-CP01144,NL,102.37,Yoghurt,101.54,59.2,43374
-CP01144,NO,99.6,Yoghurt,99.3,10.1,43374
-CP01144,PL,113.2,Yoghurt,108.5,145.2,43374
-CP01144,PT,96.4,Yoghurt,96.39,25.5,43374
-CP01144,GB,94.4,Yoghurt,101.8,135.8,43374
-CP01144,AL,99.36,Yoghurt,99.63,6.9,43374
-CP01144,SK,102.08,Yoghurt,101.46,20.4,43374
-CP01144,SI,100.79,Yoghurt,102.36,9.5,43374
-CP01144,SE,101.42,Yoghurt,102.79,32.4,43374
-CP01144,RS,102.7,Yoghurt,100.4,25.1,43374
-CP01144,RO,101.03,Yoghurt,97.29,50.4,43374
-CP01181,RO,97.11,Sugar,107.94,50.4,43374
-CP01181,RS,86.8,Sugar,124.7,25.1,43374
-CP01181,SE,100.77,Sugar,97.82,32.4,43374
-CP01181,SI,86.79,Sugar,98.85,9.5,43374
-CP01181,SK,91.94,Sugar,115.69,20.4,43374
-CP01181,AL,99.6,Sugar,103.4,6.9,43374
-CP01181,GB,104.7,Sugar,104.1,135.8,43374
-CP01181,PT,99.92,Sugar,103.56,25.5,43374
-CP01181,PL,93.4,Sugar,128.8,145.2,43374
-CP01181,NO,115.9,Sugar,118.2,10.1,43374
-CP01181,NL,98.72,Sugar,101.8,59.2,43374
-CP01181,MT,87.78,Sugar,96.71,2,43374
-CP01181,MK,96.57,Sugar,118.75,6.5,43374
-CP01181,LV,76.28,Sugar,99.75,5.3,43374
-CP01181,LU,110.85,Sugar,110.71,0.6,43374
-CP01181,LT,84.75,Sugar,106.04,7.1,43374
-CP01181,IT,97.3,Sugar,98.5,142.7,43374
-CP01181,IS,78.59,Sugar,81.57,0.8,43374
-CP01181,IE,97.4,Sugar,102.3,11.3,43374
-CP01181,HU,97.95,Sugar,122.75,20.5,43374
-CP01181,HR,97.37,Sugar,111.12,13.2,43374
-CP01181,FR,95.02,Sugar,94.82,208.7,43374
-CP01181,FI,90.74,Sugar,97.53,17.2,43374
-CP01181,ES,96.95,Sugar,98.18,109.8,43374
-CP01181,EE,102.61,Sugar,130.52,5.4,43374
-CP01181,DK,96.2,Sugar,102.2,21.7,43374
-CP01181,DE,93.8,Sugar,99.5,262,43374
-CP01181,CZ,79.5,Sugar,114.4,41.4,43374
-CP01181,CY,81.96,Sugar,95.81,2.4,43374
-CP01181,CH,98.83,Sugar,98.78,26.1,43374
-CP01181,BG,94.29,Sugar,116.52,23.8,43374
-CP01181,BE,97.78,Sugar,96.54,49.8,43374
-CP01181,AT,89.78,Sugar,95.24,27.7,43374
-CP01181,EL,92.51,Sugar,101.43,26.7,43374
-CP01181,EL,92.51,Sugar,101.43,26.7,43374
-CP01184,EL,103.31,Confectionery products,103.21,26.7,43374
-CP01184,EL,103.31,Confectionery products,103.21,26.7,43374
-CP01184,BE,99.48,Confectionery products,97.85,49.8,43374
-CP01184,NL,97.16,Confectionery products,97.85,59.2,43374
-CP01184,AT,101.93,Confectionery products,101.53,27.7,43374
-CP01184,BG,107.42,Confectionery products,102.78,23.8,43374
-CP01184,CH,100.32,Confectionery products,100.42,26.1,43374
-CP01184,CY,98.98,Confectionery products,99.5,2.4,43374
-CP01184,CZ,111.8,Confectionery products,105.5,41.4,43374
-CP01184,DE,99.6,Confectionery products,99.4,262,43374
-CP01184,DK,99.5,Confectionery products,99.8,21.7,43374
-CP01184,EE,110.91,Confectionery products,110.48,5.4,43374
-CP01184,ES,103.15,Confectionery products,102.32,109.8,43374
-CP01184,FI,88.35,Confectionery products,88.73,17.2,43374
-CP01184,FR,98.77,Confectionery products,98.56,208.7,43374
-CP01184,HR,102.13,Confectionery products,101.61,13.2,43374
-CP01184,HU,107.63,Confectionery products,103.51,20.5,43374
-CP01184,IE,86.8,Confectionery products,90.8,11.3,43374
-CP01184,IS,103.32,Confectionery products,106.97,0.8,43374
-CP01184,IT,100.9,Confectionery products,100.6,142.7,43374
-CP01184,LT,99.1,Confectionery products,102.09,7.1,43374
-CP01184,LU,105.65,Confectionery products,105.26,0.6,43374
-CP01184,LV,,Confectionery products,,5.3,43374
-CP01184,MK,100.87,Confectionery products,103.02,6.5,43374
-CP01184,MT,103.61,Confectionery products,100.22,2,43374
-CP01184,NO,105.1,Confectionery products,101.3,10.1,43374
-CP01184,PL,103.6,Confectionery products,101.9,145.2,43374
-CP01184,GB,105.2,Confectionery products,103.7,135.8,43374
-CP01184,AL,101.34,Confectionery products,101.48,6.9,43374
-CP01184,SK,101.74,Confectionery products,99.85,20.4,43374
-CP01184,SI,101.27,Confectionery products,100.14,9.5,43374
-CP01184,SE,101.4,Confectionery products,100.46,32.4,43374
-CP01184,RS,104.5,Confectionery products,101.5,25.1,43374
-CP01184,RO,99.41,Confectionery products,97.82,50.4,43374
-CP01184,PT,99.81,Confectionery products,101.22,25.5,43374
-CP01182,PL,108.9,"Jams, marmalades and honey",106.3,145.2,43374
-CP01182,PT,101.45,"Jams, marmalades and honey",96.52,25.5,43374
-CP01182,RO,105.92,"Jams, marmalades and honey",103.18,50.4,43374
-CP01182,RS,111.8,"Jams, marmalades and honey",109.8,25.1,43374
-CP01182,SE,109.11,"Jams, marmalades and honey",104.9,32.4,43374
-CP01182,SI,107.36,"Jams, marmalades and honey",104.61,9.5,43374
-CP01182,AL,107.58,"Jams, marmalades and honey",105.46,6.9,43374
-CP01182,SK,102.88,"Jams, marmalades and honey",105.68,20.4,43374
-CP01182,NO,118.7,"Jams, marmalades and honey",112.7,10.1,43374
-CP01182,NL,101.32,"Jams, marmalades and honey",97.58,59.2,43374
-CP01182,MT,108.22,"Jams, marmalades and honey",105.13,2,43374
-CP01182,MK,109.67,"Jams, marmalades and honey",108.76,6.5,43374
-CP01182,LV,110.43,"Jams, marmalades and honey",111.29,5.3,43374
-CP01182,LU,106.79,"Jams, marmalades and honey",104.06,0.6,43374
-CP01182,LT,114.77,"Jams, marmalades and honey",112.44,7.1,43374
-CP01182,IT,101.3,"Jams, marmalades and honey",100.8,142.7,43374
-CP01182,IS,89.59,"Jams, marmalades and honey",90.05,0.8,43374
-CP01182,IE,89.7,"Jams, marmalades and honey",97.6,11.3,43374
-CP01182,HU,98.55,"Jams, marmalades and honey",99.34,20.5,43374
-CP01182,FR,102.74,"Jams, marmalades and honey",101.21,208.7,43374
-CP01182,FI,109.08,"Jams, marmalades and honey",99.24,17.2,43374
-CP01182,ES,103.28,"Jams, marmalades and honey",101.02,109.8,43374
-CP01182,EE,110.11,"Jams, marmalades and honey",106.38,5.4,43374
-CP01182,DK,108.1,"Jams, marmalades and honey",108.8,21.7,43374
-CP01182,DE,103.4,"Jams, marmalades and honey",102.9,262,43374
-CP01182,CZ,98.9,"Jams, marmalades and honey",100.6,41.4,43374
-CP01182,CY,100.77,"Jams, marmalades and honey",98.28,2.4,43374
-CP01182,CH,97.93,"Jams, marmalades and honey",87.47,26.1,43374
-CP01182,BG,102.1,"Jams, marmalades and honey",102.58,23.8,43374
-CP01182,BE,103.57,"Jams, marmalades and honey",101.1,49.8,43374
-CP01182,AT,105.07,"Jams, marmalades and honey",106.17,27.7,43374
-CP01182,GB,102.2,"Jams, marmalades and honey",103.5,135.8,43374
-CP01182,HR,102.17,"Jams, marmalades and honey",103.5,13.2,43374
-CP01182,EL,98.75,"Jams, marmalades and honey",99.84,26.7,43374
-CP01182,EL,98.75,"Jams, marmalades and honey",99.84,26.7,43374
-CP01222,BE,112.84,Soft drinks,104.96,49.8,43374
-CP01222,EE,111.2,Soft drinks,104.96,5.4,43374
-CP01222,EL,99.77,Soft drinks,99.88,26.7,43374
-CP01222,EL,99.77,Soft drinks,99.88,26.7,43374
-CP01222,AT,104.85,Soft drinks,104.55,27.7,43374
-CP01222,BG,106.69,Soft drinks,102.66,23.8,43374
-CP01222,CH,101.26,Soft drinks,98.39,26.1,43374
-CP01222,CY,100.86,Soft drinks,88.07,2.4,43374
-CP01222,CZ,100.7,Soft drinks,96.4,41.4,43374
-CP01222,DE,106.7,Soft drinks,102,262,43374
-CP01222,DK,99.2,Soft drinks,96.9,21.7,43374
-CP01222,ES,105.34,Soft drinks,103.14,109.8,43374
-CP01222,FI,97.88,Soft drinks,98.45,17.2,43374
-CP01222,FR,105.17,Soft drinks,100.42,208.7,43374
-CP01222,HR,105.69,Soft drinks,104.16,13.2,43374
-CP01222,HU,106.11,Soft drinks,102.97,20.5,43374
-CP01222,IE,97.6,Soft drinks,97.9,11.3,43374
-CP01222,IS,109.47,Soft drinks,101.04,0.8,43374
-CP01222,IT,100.1,Soft drinks,98.9,142.7,43374
-CP01222,LT,108.85,Soft drinks,108,7.1,43374
-CP01222,LU,104.68,Soft drinks,102.74,0.6,43374
-CP01222,LV,105.55,Soft drinks,101.34,5.3,43374
-CP01222,MK,97.64,Soft drinks,98.1,6.5,43374
-CP01222,MT,109.66,Soft drinks,108.02,2,43374
-CP01222,NL,109.35,Soft drinks,105.68,59.2,43374
-CP01222,NO,117.1,Soft drinks,109.9,10.1,43374
-CP01222,PL,98.4,Soft drinks,97.5,145.2,43374
-CP01222,GB,105.2,Soft drinks,97.3,135.8,43374
-CP01222,AL,97.05,Soft drinks,97.87,6.9,43374
-CP01222,SK,94.66,Soft drinks,100,20.4,43374
-CP01222,SI,99.5,Soft drinks,101.41,9.5,43374
-CP01222,SE,102,Soft drinks,100.45,32.4,43374
-CP01222,RS,104.2,Soft drinks,100.8,25.1,43374
-CP01222,RO,99.57,Soft drinks,97.16,50.4,43374
-CP01222,PT,120.94,Soft drinks,123.75,25.5,43374
-CP01185,PL,110.4,Edible ices and ice cream,105.5,145.2,43374
-CP01185,PT,106.33,Edible ices and ice cream,100.89,25.5,43374
-CP01185,RO,103.43,Edible ices and ice cream,99.15,50.4,43374
-CP01185,RS,103.8,Edible ices and ice cream,103.2,25.1,43374
-CP01185,SE,108.51,Edible ices and ice cream,105.99,32.4,43374
-CP01185,SK,109.88,Edible ices and ice cream,104.96,20.4,43374
-CP01185,AL,104.48,Edible ices and ice cream,103.71,6.9,43374
-CP01185,GB,102.9,Edible ices and ice cream,100.5,135.8,43374
-CP01185,NO,109.6,Edible ices and ice cream,105.6,10.1,43374
-CP01185,NL,92.84,Edible ices and ice cream,94.98,59.2,43374
-CP01185,MT,104.39,Edible ices and ice cream,105.41,2,43374
-CP01185,MK,99.34,Edible ices and ice cream,99.22,6.5,43374
-CP01185,LU,109.66,Edible ices and ice cream,106.43,0.6,43374
-CP01185,LT,110.05,Edible ices and ice cream,107.26,7.1,43374
-CP01185,IT,97.3,Edible ices and ice cream,97.8,142.7,43374
-CP01185,IS,100.48,Edible ices and ice cream,94.36,0.8,43374
-CP01185,IE,84.8,Edible ices and ice cream,90.5,11.3,43374
-CP01185,HU,103.7,Edible ices and ice cream,102.29,20.5,43374
-CP01185,HR,102.34,Edible ices and ice cream,100.53,13.2,43374
-CP01185,FR,100.35,Edible ices and ice cream,100.41,208.7,43374
-CP01185,FI,86.24,Edible ices and ice cream,85.77,17.2,43374
-CP01185,ES,99.89,Edible ices and ice cream,98.64,109.8,43374
-CP01185,EE,108.39,Edible ices and ice cream,101.77,5.4,43374
-CP01185,DK,100.1,Edible ices and ice cream,103.8,21.7,43374
-CP01185,DE,100.8,Edible ices and ice cream,99.4,262,43374
-CP01185,CZ,101.8,Edible ices and ice cream,100.8,41.4,43374
-CP01185,CY,99.75,Edible ices and ice cream,97.61,2.4,43374
-CP01185,CH,101.65,Edible ices and ice cream,101.38,26.1,43374
-CP01185,BG,100.3,Edible ices and ice cream,102.13,23.8,43374
-CP01185,BE,104.27,Edible ices and ice cream,100.82,49.8,43374
-CP01185,AT,101.56,Edible ices and ice cream,100.79,27.7,43374
-CP01185,SI,101.76,Edible ices and ice cream,101.74,9.5,43374
-CP01185,LV,104.44,Edible ices and ice cream,101.74,5.3,43374
-CP01185,EL,99.45,Edible ices and ice cream,102.09,26.7,43374
-CP01185,EL,99.45,Edible ices and ice cream,102.09,26.7,43374
-CP01117,EL,105.43,Breakfast cereals,108.12,26.7,43374
-CP01117,EL,105.43,Breakfast cereals,108.12,26.7,43374
-CP01117,AT,101.48,Breakfast cereals,99.68,27.7,43374
-CP01117,BE,98.08,Breakfast cereals,95.44,49.8,43374
-CP01117,BG,98.01,Breakfast cereals,98.58,23.8,43374
-CP01117,CH,100.91,Breakfast cereals,100.16,26.1,43374
-CP01117,CY,105.42,Breakfast cereals,90.91,2.4,43374
-CP01117,CZ,105.4,Breakfast cereals,104.2,41.4,43374
-CP01117,DE,103.1,Breakfast cereals,102.2,262,43374
-CP01117,DK,98.7,Breakfast cereals,102.7,21.7,43374
-CP01117,EE,104.73,Breakfast cereals,105.07,5.4,43374
-CP01117,ES,101.35,Breakfast cereals,100.46,109.8,43374
-CP01117,FI,98.28,Breakfast cereals,98.16,17.2,43374
-CP01117,FR,97.26,Breakfast cereals,97.66,208.7,43374
-CP01117,HR,106.9,Breakfast cereals,103.68,13.2,43374
-CP01117,HU,107.63,Breakfast cereals,107.26,20.5,43374
-CP01117,IE,90.1,Breakfast cereals,92.4,11.3,43374
-CP01117,IS,85.88,Breakfast cereals,84.63,0.8,43374
-CP01117,IT,96,Breakfast cereals,97.3,142.7,43374
-CP01117,LT,103.73,Breakfast cereals,102.75,7.1,43374
-CP01117,LU,107.55,Breakfast cereals,99.53,0.6,43374
-CP01117,LV,101.28,Breakfast cereals,97.98,5.3,43374
-CP01117,MK,101,Breakfast cereals,102.98,6.5,43374
-CP01117,MT,102.6,Breakfast cereals,100.58,2,43374
-CP01117,NL,99.49,Breakfast cereals,99.28,59.2,43374
-CP01117,NO,107.8,Breakfast cereals,109.2,10.1,43374
-CP01117,SK,103.34,Breakfast cereals,101.79,20.4,43374
-CP01117,AL,100.62,Breakfast cereals,102.6,6.9,43374
-CP01117,SI,101.87,Breakfast cereals,101.18,9.5,43374
-CP01117,SE,102.95,Breakfast cereals,104.68,32.4,43374
-CP01117,RS,107.1,Breakfast cereals,103.3,25.1,43374
-CP01117,RO,100.29,Breakfast cereals,98.52,50.4,43374
-CP01117,PT,99.24,Breakfast cereals,97.48,25.5,43374
-CP01117,PL,101.1,Breakfast cereals,99.6,145.2,43374
-CP01191,NO,102.2,"Sauces, condiments",107.2,10.1,43374
-CP01191,PT,100.07,"Sauces, condiments",97.86,25.5,43374
-CP01191,RO,100.14,"Sauces, condiments",97.67,50.4,43374
-CP01191,RS,113.8,"Sauces, condiments",110.4,25.1,43374
-CP01191,SE,101.73,"Sauces, condiments",100.01,32.4,43374
-CP01191,SI,100.67,"Sauces, condiments",99.27,9.5,43374
-CP01191,AL,101.77,"Sauces, condiments",101.07,6.9,43374
-CP01191,SK,106.61,"Sauces, condiments",103.71,20.4,43374
-CP01191,NL,99.67,"Sauces, condiments",100.68,59.2,43374
-CP01191,MT,122.35,"Sauces, condiments",110.16,2,43374
-CP01191,MK,102.43,"Sauces, condiments",103.17,6.5,43374
-CP01191,LU,99.57,"Sauces, condiments",98.28,0.6,43374
-CP01191,LT,110.15,"Sauces, condiments",108.68,7.1,43374
-CP01191,IT,100.5,"Sauces, condiments",99.8,142.7,43374
-CP01191,IS,99.23,"Sauces, condiments",96.69,0.8,43374
-CP01191,IE,94.4,"Sauces, condiments",97.4,11.3,43374
-CP01191,HU,105.2,"Sauces, condiments",103.34,20.5,43374
-CP01191,HR,103.49,"Sauces, condiments",103.41,13.2,43374
-CP01191,FR,98.18,"Sauces, condiments",97.75,208.7,43374
-CP01191,FI,96.09,"Sauces, condiments",95.66,17.2,43374
-CP01191,ES,100.1,"Sauces, condiments",99.02,109.8,43374
-CP01191,EE,106.65,"Sauces, condiments",101.89,5.4,43374
-CP01191,DK,98.4,"Sauces, condiments",98,21.7,43374
-CP01191,CZ,108.6,"Sauces, condiments",105.6,41.4,43374
-CP01191,CY,89.13,"Sauces, condiments",95.55,2.4,43374
-CP01191,CH,100.48,"Sauces, condiments",100.05,26.1,43374
-CP01191,BE,104.79,"Sauces, condiments",104.21,49.8,43374
-CP01191,AT,108.23,"Sauces, condiments",103.25,27.7,43374
-CP01191,PL,103.8,"Sauces, condiments",103.1,145.2,43374
-CP01191,DE,104.3,"Sauces, condiments",103.1,262,43374
-CP01191,BG,107.47,"Sauces, condiments",105.69,23.8,43374
-CP01191,LV,105.78,"Sauces, condiments",105.69,5.3,43374
-CP01191,EL,108,"Sauces, condiments",103.9,26.7,43374
-CP01191,EL,108,"Sauces, condiments",103.9,26.7,43374
-CP01186,SI,102.85,Artificial sugar substitutes,,9.5,43374
-CP01186,EL,101.83,Artificial sugar substitutes,104.24,26.7,43374
-CP01186,EL,101.83,Artificial sugar substitutes,104.24,26.7,43374
-CP01186,DE,100.3,Artificial sugar substitutes,100.3,262,43374
-CP01186,FR,98.2,Artificial sugar substitutes,98.2,208.7,43374
-CP01186,HR,98.82,Artificial sugar substitutes,98.35,13.2,43374
-CP01186,HU,96.22,Artificial sugar substitutes,94.52,20.5,43374
-CP01186,RS,109.7,Artificial sugar substitutes,110,25.1,43374
-CP01186,AL,103.96,Artificial sugar substitutes,101.21,6.9,43374
-CP01186,RO,102.77,Artificial sugar substitutes,101.3,50.4,43374
-CP01186,PL,102.7,Artificial sugar substitutes,102.9,145.2,43374
-CP01186,NO,112.6,Artificial sugar substitutes,112.6,10.1,43374
-CP01186,NL,101.17,Artificial sugar substitutes,102.03,59.2,43374
-CP01186,MK,106.64,Artificial sugar substitutes,105.23,6.5,43374
-CP01186,IE,95.1,Artificial sugar substitutes,100.7,11.3,43374
+CP0118,CZ,101.7,"Sugar, jam, honey, chocolate and confectionery",106.4,41.4,01/10/2018
+CP0118,DE,101.5,"Sugar, jam, honey, chocolate and confectionery",100.9,262,01/10/2018
+CP0118,DK,100.5,"Sugar, jam, honey, chocolate and confectionery",102.6,21.7,01/10/2018
+CP0118,EE,110.27,"Sugar, jam, honey, chocolate and confectionery",109.33,5.4,01/10/2018
+CP0118,ES,101.91,"Sugar, jam, honey, chocolate and confectionery",101.14,109.8,01/10/2018
+CP0118,FI,90.33,"Sugar, jam, honey, chocolate and confectionery",89.64,17.2,01/10/2018
+CP0118,FR,101.16,"Sugar, jam, honey, chocolate and confectionery",100.65,208.7,01/10/2018
+CP0118,HU,104.24,"Sugar, jam, honey, chocolate and confectionery",108.18,20.5,01/10/2018
+CP0118,IE,87.8,"Sugar, jam, honey, chocolate and confectionery",92.6,11.3,01/10/2018
+CP0118,IS,100.69,"Sugar, jam, honey, chocolate and confectionery",100.86,0.8,01/10/2018
+CP0118,IT,100,"Sugar, jam, honey, chocolate and confectionery",100.1,142.7,01/10/2018
+CP0118,LT,100.17,"Sugar, jam, honey, chocolate and confectionery",105.35,7.1,01/10/2018
+CP0118,LU,107.75,"Sugar, jam, honey, chocolate and confectionery",106.74,0.6,01/10/2018
+CP0118,LV,101.76,"Sugar, jam, honey, chocolate and confectionery",106.99,5.3,01/10/2018
+CP0118,MK,103.05,"Sugar, jam, honey, chocolate and confectionery",106.85,6.5,01/10/2018
+CP0118,MT,103.25,"Sugar, jam, honey, chocolate and confectionery",103.75,2,01/10/2018
+CP0118,NL,98.35,"Sugar, jam, honey, chocolate and confectionery",98.85,59.2,01/10/2018
+CP0118,NO,103.9,"Sugar, jam, honey, chocolate and confectionery",100.2,10.1,01/10/2018
+CP0118,PL,105.2,"Sugar, jam, honey, chocolate and confectionery",107.9,145.2,01/10/2018
+CP0118,PT,102,"Sugar, jam, honey, chocolate and confectionery",100.96,25.5,01/10/2018
+CP0118,RO,100.74,"Sugar, jam, honey, chocolate and confectionery",102.34,50.4,01/10/2018
+CP0118,GB,100.3,"Sugar, jam, honey, chocolate and confectionery",99.3,135.8,01/10/2018
+CP0118,AL,103.2,"Sugar, jam, honey, chocolate and confectionery",103.1,6.9,01/10/2018
+CP0118,TR,142.04,"Sugar, jam, honey, chocolate and confectionery",118.28,218.2,01/10/2018
+CP0118,SK,106.46,"Sugar, jam, honey, chocolate and confectionery",106.37,20.4,01/10/2018
+CP0118,SI,101.17,"Sugar, jam, honey, chocolate and confectionery",102.36,9.5,01/10/2018
+CP0118,SE,102.48,"Sugar, jam, honey, chocolate and confectionery",101.45,32.4,01/10/2018
+CP0118,RS,103.9,"Sugar, jam, honey, chocolate and confectionery",110.5,25.1,01/10/2018
+CP00,RS,107.5,All-items HICP,105.1,25.1,01/10/2018
+CP00,SE,105.89,All-items HICP,103.4,32.4,01/10/2018
+CP00,SI,104.21,All-items HICP,101.87,9.5,01/10/2018
+CP00,SK,103.9,All-items HICP,101.4,20.4,01/10/2018
+CP00,TR,153.79,All-items HICP,122.79,218.2,01/10/2018
+CP00,AL,105.91,All-items HICP,104.61,6.9,01/10/2018
+CP00,GB,106.7,All-items HICP,104.4,135.8,01/10/2018
+CP00,RO,105.26,All-items HICP,101.03,50.4,01/10/2018
+CP00,PT,104.49,All-items HICP,103.64,25.5,01/10/2018
+CP00,NO,110.1,All-items HICP,106.3,10.1,01/10/2018
+CP00,NL,103.89,All-items HICP,101.97,59.2,01/10/2018
+CP00,MT,105.45,All-items HICP,103.33,2,01/10/2018
+CP00,MK,105.62,All-items HICP,103.2,6.5,01/10/2018
+CP00,LV,106.75,All-items HICP,103.44,5.3,01/10/2018
+CP00,LU,105.64,All-items HICP,102.79,0.6,01/10/2018
+CP00,LT,108.42,All-items HICP,105.42,7.1,01/10/2018
+CP00,IT,103.7,All-items HICP,102,142.7,01/10/2018
+CP00,IS,100.08,All-items HICP,99.16,0.8,01/10/2018
+CP00,IE,101.2,All-items HICP,100.1,11.3,01/10/2018
+CP00,HU,107.35,All-items HICP,103.34,20.5,01/10/2018
+CP00,HR,103.12,All-items HICP,101.43,13.2,01/10/2018
+CP00,FR,104.24,All-items HICP,101.7,208.7,01/10/2018
+CP00,FI,103.05,All-items HICP,101.32,17.2,01/10/2018
+CP00,ES,104.77,All-items HICP,102.4,109.8,01/10/2018
+CP00,EE,109.86,All-items HICP,105.16,5.4,01/10/2018
+CP00,DE,105.4,All-items HICP,102.7,262,01/10/2018
+CP00,CZ,105.7,All-items HICP,103.6,41.4,01/10/2018
+CP00,CY,101.78,All-items HICP,99.84,2.4,01/10/2018
+CP00,CH,101.65,All-items HICP,100.5,26.1,01/10/2018
+CP00,BG,103.55,All-items HICP,99.94,23.8,01/10/2018
+CP00,BE,107.8,All-items HICP,104.44,49.8,01/10/2018
+CP00,AT,106.62,All-items HICP,104.12,27.7,01/10/2018
+CP00,PL,103.1,All-items HICP,101.6,145.2,01/10/2018
+CP00,DK,102.3,All-items HICP,101.6,21.7,01/10/2018
+CP00,EL,103.59,All-items HICP,101.8,26.7,01/10/2018
+CP00,EL,103.59,All-items HICP,101.8,26.7,01/10/2018
+CP01144,EL,94.98,Yoghurt,96.27,26.7,01/10/2018
+CP01144,EL,94.98,Yoghurt,96.27,26.7,01/10/2018
+CP01144,AT,98.5,Yoghurt,96.44,27.7,01/10/2018
+CP01144,BE,104.56,Yoghurt,103.83,49.8,01/10/2018
+CP01144,BG,107.66,Yoghurt,105.14,23.8,01/10/2018
+CP01144,CH,101.59,Yoghurt,100.3,26.1,01/10/2018
+CP01144,CY,99.94,Yoghurt,97.95,2.4,01/10/2018
+CP01144,CZ,105.7,Yoghurt,101.7,41.4,01/10/2018
+CP01144,DE,106.2,Yoghurt,103.6,262,01/10/2018
+CP01144,DK,97,Yoghurt,101,21.7,01/10/2018
+CP01144,EE,107.33,Yoghurt,106.89,5.4,01/10/2018
+CP01144,ES,100.84,Yoghurt,99.58,109.8,01/10/2018
+CP01144,FI,97.67,Yoghurt,95.93,17.2,01/10/2018
+CP01144,FR,100.31,Yoghurt,98.69,208.7,01/10/2018
+CP01144,HR,102.67,Yoghurt,99.29,13.2,01/10/2018
+CP01144,HU,111.11,Yoghurt,104.63,20.5,01/10/2018
+CP01144,IE,99.9,Yoghurt,96.6,11.3,01/10/2018
+CP01144,IS,119.2,Yoghurt,109,0.8,01/10/2018
+CP01144,IT,98.2,Yoghurt,99.8,142.7,01/10/2018
+CP01144,LT,125.5,Yoghurt,123,7.1,01/10/2018
+CP01144,LU,101.27,Yoghurt,100.34,0.6,01/10/2018
+CP01144,LV,104.51,Yoghurt,105.03,5.3,01/10/2018
+CP01144,MK,101.04,Yoghurt,100.02,6.5,01/10/2018
+CP01144,MT,113.97,Yoghurt,100,2,01/10/2018
+CP01144,NL,102.37,Yoghurt,101.54,59.2,01/10/2018
+CP01144,NO,99.6,Yoghurt,99.3,10.1,01/10/2018
+CP01144,PL,113.2,Yoghurt,108.5,145.2,01/10/2018
+CP01144,PT,96.4,Yoghurt,96.39,25.5,01/10/2018
+CP01144,GB,94.4,Yoghurt,101.8,135.8,01/10/2018
+CP01144,AL,99.36,Yoghurt,99.63,6.9,01/10/2018
+CP01144,SK,102.08,Yoghurt,101.46,20.4,01/10/2018
+CP01144,SI,100.79,Yoghurt,102.36,9.5,01/10/2018
+CP01144,SE,101.42,Yoghurt,102.79,32.4,01/10/2018
+CP01144,RS,102.7,Yoghurt,100.4,25.1,01/10/2018
+CP01144,RO,101.03,Yoghurt,97.29,50.4,01/10/2018
+CP01181,RO,97.11,Sugar,107.94,50.4,01/10/2018
+CP01181,RS,86.8,Sugar,124.7,25.1,01/10/2018
+CP01181,SE,100.77,Sugar,97.82,32.4,01/10/2018
+CP01181,SI,86.79,Sugar,98.85,9.5,01/10/2018
+CP01181,SK,91.94,Sugar,115.69,20.4,01/10/2018
+CP01181,AL,99.6,Sugar,103.4,6.9,01/10/2018
+CP01181,GB,104.7,Sugar,104.1,135.8,01/10/2018
+CP01181,PT,99.92,Sugar,103.56,25.5,01/10/2018
+CP01181,PL,93.4,Sugar,128.8,145.2,01/10/2018
+CP01181,NO,115.9,Sugar,118.2,10.1,01/10/2018
+CP01181,NL,98.72,Sugar,101.8,59.2,01/10/2018
+CP01181,MT,87.78,Sugar,96.71,2,01/10/2018
+CP01181,MK,96.57,Sugar,118.75,6.5,01/10/2018
+CP01181,LV,76.28,Sugar,99.75,5.3,01/10/2018
+CP01181,LU,110.85,Sugar,110.71,0.6,01/10/2018
+CP01181,LT,84.75,Sugar,106.04,7.1,01/10/2018
+CP01181,IT,97.3,Sugar,98.5,142.7,01/10/2018
+CP01181,IS,78.59,Sugar,81.57,0.8,01/10/2018
+CP01181,IE,97.4,Sugar,102.3,11.3,01/10/2018
+CP01181,HU,97.95,Sugar,122.75,20.5,01/10/2018
+CP01181,HR,97.37,Sugar,111.12,13.2,01/10/2018
+CP01181,FR,95.02,Sugar,94.82,208.7,01/10/2018
+CP01181,FI,90.74,Sugar,97.53,17.2,01/10/2018
+CP01181,ES,96.95,Sugar,98.18,109.8,01/10/2018
+CP01181,EE,102.61,Sugar,130.52,5.4,01/10/2018
+CP01181,DK,96.2,Sugar,102.2,21.7,01/10/2018
+CP01181,DE,93.8,Sugar,99.5,262,01/10/2018
+CP01181,CZ,79.5,Sugar,114.4,41.4,01/10/2018
+CP01181,CY,81.96,Sugar,95.81,2.4,01/10/2018
+CP01181,CH,98.83,Sugar,98.78,26.1,01/10/2018
+CP01181,BG,94.29,Sugar,116.52,23.8,01/10/2018
+CP01181,BE,97.78,Sugar,96.54,49.8,01/10/2018
+CP01181,AT,89.78,Sugar,95.24,27.7,01/10/2018
+CP01181,EL,92.51,Sugar,101.43,26.7,01/10/2018
+CP01181,EL,92.51,Sugar,101.43,26.7,01/10/2018
+CP01184,EL,103.31,Confectionery products,103.21,26.7,01/10/2018
+CP01184,EL,103.31,Confectionery products,103.21,26.7,01/10/2018
+CP01184,BE,99.48,Confectionery products,97.85,49.8,01/10/2018
+CP01184,NL,97.16,Confectionery products,97.85,59.2,01/10/2018
+CP01184,AT,101.93,Confectionery products,101.53,27.7,01/10/2018
+CP01184,BG,107.42,Confectionery products,102.78,23.8,01/10/2018
+CP01184,CH,100.32,Confectionery products,100.42,26.1,01/10/2018
+CP01184,CY,98.98,Confectionery products,99.5,2.4,01/10/2018
+CP01184,CZ,111.8,Confectionery products,105.5,41.4,01/10/2018
+CP01184,DE,99.6,Confectionery products,99.4,262,01/10/2018
+CP01184,DK,99.5,Confectionery products,99.8,21.7,01/10/2018
+CP01184,EE,110.91,Confectionery products,110.48,5.4,01/10/2018
+CP01184,ES,103.15,Confectionery products,102.32,109.8,01/10/2018
+CP01184,FI,88.35,Confectionery products,88.73,17.2,01/10/2018
+CP01184,FR,98.77,Confectionery products,98.56,208.7,01/10/2018
+CP01184,HR,102.13,Confectionery products,101.61,13.2,01/10/2018
+CP01184,HU,107.63,Confectionery products,103.51,20.5,01/10/2018
+CP01184,IE,86.8,Confectionery products,90.8,11.3,01/10/2018
+CP01184,IS,103.32,Confectionery products,106.97,0.8,01/10/2018
+CP01184,IT,100.9,Confectionery products,100.6,142.7,01/10/2018
+CP01184,LT,99.1,Confectionery products,102.09,7.1,01/10/2018
+CP01184,LU,105.65,Confectionery products,105.26,0.6,01/10/2018
+CP01184,LV,,Confectionery products,,5.3,01/10/2018
+CP01184,MK,100.87,Confectionery products,103.02,6.5,01/10/2018
+CP01184,MT,103.61,Confectionery products,100.22,2,01/10/2018
+CP01184,NO,105.1,Confectionery products,101.3,10.1,01/10/2018
+CP01184,PL,103.6,Confectionery products,101.9,145.2,01/10/2018
+CP01184,GB,105.2,Confectionery products,103.7,135.8,01/10/2018
+CP01184,AL,101.34,Confectionery products,101.48,6.9,01/10/2018
+CP01184,SK,101.74,Confectionery products,99.85,20.4,01/10/2018
+CP01184,SI,101.27,Confectionery products,100.14,9.5,01/10/2018
+CP01184,SE,101.4,Confectionery products,100.46,32.4,01/10/2018
+CP01184,RS,104.5,Confectionery products,101.5,25.1,01/10/2018
+CP01184,RO,99.41,Confectionery products,97.82,50.4,01/10/2018
+CP01184,PT,99.81,Confectionery products,101.22,25.5,01/10/2018
+CP01182,PL,108.9,"Jams, marmalades and honey",106.3,145.2,01/10/2018
+CP01182,PT,101.45,"Jams, marmalades and honey",96.52,25.5,01/10/2018
+CP01182,RO,105.92,"Jams, marmalades and honey",103.18,50.4,01/10/2018
+CP01182,RS,111.8,"Jams, marmalades and honey",109.8,25.1,01/10/2018
+CP01182,SE,109.11,"Jams, marmalades and honey",104.9,32.4,01/10/2018
+CP01182,SI,107.36,"Jams, marmalades and honey",104.61,9.5,01/10/2018
+CP01182,AL,107.58,"Jams, marmalades and honey",105.46,6.9,01/10/2018
+CP01182,SK,102.88,"Jams, marmalades and honey",105.68,20.4,01/10/2018
+CP01182,NO,118.7,"Jams, marmalades and honey",112.7,10.1,01/10/2018
+CP01182,NL,101.32,"Jams, marmalades and honey",97.58,59.2,01/10/2018
+CP01182,MT,108.22,"Jams, marmalades and honey",105.13,2,01/10/2018
+CP01182,MK,109.67,"Jams, marmalades and honey",108.76,6.5,01/10/2018
+CP01182,LV,110.43,"Jams, marmalades and honey",111.29,5.3,01/10/2018
+CP01182,LU,106.79,"Jams, marmalades and honey",104.06,0.6,01/10/2018
+CP01182,LT,114.77,"Jams, marmalades and honey",112.44,7.1,01/10/2018
+CP01182,IT,101.3,"Jams, marmalades and honey",100.8,142.7,01/10/2018
+CP01182,IS,89.59,"Jams, marmalades and honey",90.05,0.8,01/10/2018
+CP01182,IE,89.7,"Jams, marmalades and honey",97.6,11.3,01/10/2018
+CP01182,HU,98.55,"Jams, marmalades and honey",99.34,20.5,01/10/2018
+CP01182,FR,102.74,"Jams, marmalades and honey",101.21,208.7,01/10/2018
+CP01182,FI,109.08,"Jams, marmalades and honey",99.24,17.2,01/10/2018
+CP01182,ES,103.28,"Jams, marmalades and honey",101.02,109.8,01/10/2018
+CP01182,EE,110.11,"Jams, marmalades and honey",106.38,5.4,01/10/2018
+CP01182,DK,108.1,"Jams, marmalades and honey",108.8,21.7,01/10/2018
+CP01182,DE,103.4,"Jams, marmalades and honey",102.9,262,01/10/2018
+CP01182,CZ,98.9,"Jams, marmalades and honey",100.6,41.4,01/10/2018
+CP01182,CY,100.77,"Jams, marmalades and honey",98.28,2.4,01/10/2018
+CP01182,CH,97.93,"Jams, marmalades and honey",87.47,26.1,01/10/2018
+CP01182,BG,102.1,"Jams, marmalades and honey",102.58,23.8,01/10/2018
+CP01182,BE,103.57,"Jams, marmalades and honey",101.1,49.8,01/10/2018
+CP01182,AT,105.07,"Jams, marmalades and honey",106.17,27.7,01/10/2018
+CP01182,GB,102.2,"Jams, marmalades and honey",103.5,135.8,01/10/2018
+CP01182,HR,102.17,"Jams, marmalades and honey",103.5,13.2,01/10/2018
+CP01182,EL,98.75,"Jams, marmalades and honey",99.84,26.7,01/10/2018
+CP01182,EL,98.75,"Jams, marmalades and honey",99.84,26.7,01/10/2018
+CP01222,BE,112.84,Soft drinks,104.96,49.8,01/10/2018
+CP01222,EE,111.2,Soft drinks,104.96,5.4,01/10/2018
+CP01222,EL,99.77,Soft drinks,99.88,26.7,01/10/2018
+CP01222,EL,99.77,Soft drinks,99.88,26.7,01/10/2018
+CP01222,AT,104.85,Soft drinks,104.55,27.7,01/10/2018
+CP01222,BG,106.69,Soft drinks,102.66,23.8,01/10/2018
+CP01222,CH,101.26,Soft drinks,98.39,26.1,01/10/2018
+CP01222,CY,100.86,Soft drinks,88.07,2.4,01/10/2018
+CP01222,CZ,100.7,Soft drinks,96.4,41.4,01/10/2018
+CP01222,DE,106.7,Soft drinks,102,262,01/10/2018
+CP01222,DK,99.2,Soft drinks,96.9,21.7,01/10/2018
+CP01222,ES,105.34,Soft drinks,103.14,109.8,01/10/2018
+CP01222,FI,97.88,Soft drinks,98.45,17.2,01/10/2018
+CP01222,FR,105.17,Soft drinks,100.42,208.7,01/10/2018
+CP01222,HR,105.69,Soft drinks,104.16,13.2,01/10/2018
+CP01222,HU,106.11,Soft drinks,102.97,20.5,01/10/2018
+CP01222,IE,97.6,Soft drinks,97.9,11.3,01/10/2018
+CP01222,IS,109.47,Soft drinks,101.04,0.8,01/10/2018
+CP01222,IT,100.1,Soft drinks,98.9,142.7,01/10/2018
+CP01222,LT,108.85,Soft drinks,108,7.1,01/10/2018
+CP01222,LU,104.68,Soft drinks,102.74,0.6,01/10/2018
+CP01222,LV,105.55,Soft drinks,101.34,5.3,01/10/2018
+CP01222,MK,97.64,Soft drinks,98.1,6.5,01/10/2018
+CP01222,MT,109.66,Soft drinks,108.02,2,01/10/2018
+CP01222,NL,109.35,Soft drinks,105.68,59.2,01/10/2018
+CP01222,NO,117.1,Soft drinks,109.9,10.1,01/10/2018
+CP01222,PL,98.4,Soft drinks,97.5,145.2,01/10/2018
+CP01222,GB,105.2,Soft drinks,97.3,135.8,01/10/2018
+CP01222,AL,97.05,Soft drinks,97.87,6.9,01/10/2018
+CP01222,SK,94.66,Soft drinks,100,20.4,01/10/2018
+CP01222,SI,99.5,Soft drinks,101.41,9.5,01/10/2018
+CP01222,SE,102,Soft drinks,100.45,32.4,01/10/2018
+CP01222,RS,104.2,Soft drinks,100.8,25.1,01/10/2018
+CP01222,RO,99.57,Soft drinks,97.16,50.4,01/10/2018
+CP01222,PT,120.94,Soft drinks,123.75,25.5,01/10/2018
+CP01185,PL,110.4,Edible ices and ice cream,105.5,145.2,01/10/2018
+CP01185,PT,106.33,Edible ices and ice cream,100.89,25.5,01/10/2018
+CP01185,RO,103.43,Edible ices and ice cream,99.15,50.4,01/10/2018
+CP01185,RS,103.8,Edible ices and ice cream,103.2,25.1,01/10/2018
+CP01185,SE,108.51,Edible ices and ice cream,105.99,32.4,01/10/2018
+CP01185,SK,109.88,Edible ices and ice cream,104.96,20.4,01/10/2018
+CP01185,AL,104.48,Edible ices and ice cream,103.71,6.9,01/10/2018
+CP01185,GB,102.9,Edible ices and ice cream,100.5,135.8,01/10/2018
+CP01185,NO,109.6,Edible ices and ice cream,105.6,10.1,01/10/2018
+CP01185,NL,92.84,Edible ices and ice cream,94.98,59.2,01/10/2018
+CP01185,MT,104.39,Edible ices and ice cream,105.41,2,01/10/2018
+CP01185,MK,99.34,Edible ices and ice cream,99.22,6.5,01/10/2018
+CP01185,LU,109.66,Edible ices and ice cream,106.43,0.6,01/10/2018
+CP01185,LT,110.05,Edible ices and ice cream,107.26,7.1,01/10/2018
+CP01185,IT,97.3,Edible ices and ice cream,97.8,142.7,01/10/2018
+CP01185,IS,100.48,Edible ices and ice cream,94.36,0.8,01/10/2018
+CP01185,IE,84.8,Edible ices and ice cream,90.5,11.3,01/10/2018
+CP01185,HU,103.7,Edible ices and ice cream,102.29,20.5,01/10/2018
+CP01185,HR,102.34,Edible ices and ice cream,100.53,13.2,01/10/2018
+CP01185,FR,100.35,Edible ices and ice cream,100.41,208.7,01/10/2018
+CP01185,FI,86.24,Edible ices and ice cream,85.77,17.2,01/10/2018
+CP01185,ES,99.89,Edible ices and ice cream,98.64,109.8,01/10/2018
+CP01185,EE,108.39,Edible ices and ice cream,101.77,5.4,01/10/2018
+CP01185,DK,100.1,Edible ices and ice cream,103.8,21.7,01/10/2018
+CP01185,DE,100.8,Edible ices and ice cream,99.4,262,01/10/2018
+CP01185,CZ,101.8,Edible ices and ice cream,100.8,41.4,01/10/2018
+CP01185,CY,99.75,Edible ices and ice cream,97.61,2.4,01/10/2018
+CP01185,CH,101.65,Edible ices and ice cream,101.38,26.1,01/10/2018
+CP01185,BG,100.3,Edible ices and ice cream,102.13,23.8,01/10/2018
+CP01185,BE,104.27,Edible ices and ice cream,100.82,49.8,01/10/2018
+CP01185,AT,101.56,Edible ices and ice cream,100.79,27.7,01/10/2018
+CP01185,SI,101.76,Edible ices and ice cream,101.74,9.5,01/10/2018
+CP01185,LV,104.44,Edible ices and ice cream,101.74,5.3,01/10/2018
+CP01185,EL,99.45,Edible ices and ice cream,102.09,26.7,01/10/2018
+CP01185,EL,99.45,Edible ices and ice cream,102.09,26.7,01/10/2018
+CP01117,EL,105.43,Breakfast cereals,108.12,26.7,01/10/2018
+CP01117,EL,105.43,Breakfast cereals,108.12,26.7,01/10/2018
+CP01117,AT,101.48,Breakfast cereals,99.68,27.7,01/10/2018
+CP01117,BE,98.08,Breakfast cereals,95.44,49.8,01/10/2018
+CP01117,BG,98.01,Breakfast cereals,98.58,23.8,01/10/2018
+CP01117,CH,100.91,Breakfast cereals,100.16,26.1,01/10/2018
+CP01117,CY,105.42,Breakfast cereals,90.91,2.4,01/10/2018
+CP01117,CZ,105.4,Breakfast cereals,104.2,41.4,01/10/2018
+CP01117,DE,103.1,Breakfast cereals,102.2,262,01/10/2018
+CP01117,DK,98.7,Breakfast cereals,102.7,21.7,01/10/2018
+CP01117,EE,104.73,Breakfast cereals,105.07,5.4,01/10/2018
+CP01117,ES,101.35,Breakfast cereals,100.46,109.8,01/10/2018
+CP01117,FI,98.28,Breakfast cereals,98.16,17.2,01/10/2018
+CP01117,FR,97.26,Breakfast cereals,97.66,208.7,01/10/2018
+CP01117,HR,106.9,Breakfast cereals,103.68,13.2,01/10/2018
+CP01117,HU,107.63,Breakfast cereals,107.26,20.5,01/10/2018
+CP01117,IE,90.1,Breakfast cereals,92.4,11.3,01/10/2018
+CP01117,IS,85.88,Breakfast cereals,84.63,0.8,01/10/2018
+CP01117,IT,96,Breakfast cereals,97.3,142.7,01/10/2018
+CP01117,LT,103.73,Breakfast cereals,102.75,7.1,01/10/2018
+CP01117,LU,107.55,Breakfast cereals,99.53,0.6,01/10/2018
+CP01117,LV,101.28,Breakfast cereals,97.98,5.3,01/10/2018
+CP01117,MK,101,Breakfast cereals,102.98,6.5,01/10/2018
+CP01117,MT,102.6,Breakfast cereals,100.58,2,01/10/2018
+CP01117,NL,99.49,Breakfast cereals,99.28,59.2,01/10/2018
+CP01117,NO,107.8,Breakfast cereals,109.2,10.1,01/10/2018
+CP01117,SK,103.34,Breakfast cereals,101.79,20.4,01/10/2018
+CP01117,AL,100.62,Breakfast cereals,102.6,6.9,01/10/2018
+CP01117,SI,101.87,Breakfast cereals,101.18,9.5,01/10/2018
+CP01117,SE,102.95,Breakfast cereals,104.68,32.4,01/10/2018
+CP01117,RS,107.1,Breakfast cereals,103.3,25.1,01/10/2018
+CP01117,RO,100.29,Breakfast cereals,98.52,50.4,01/10/2018
+CP01117,PT,99.24,Breakfast cereals,97.48,25.5,01/10/2018
+CP01117,PL,101.1,Breakfast cereals,99.6,145.2,01/10/2018
+CP01191,NO,102.2,"Sauces, condiments",107.2,10.1,01/10/2018
+CP01191,PT,100.07,"Sauces, condiments",97.86,25.5,01/10/2018
+CP01191,RO,100.14,"Sauces, condiments",97.67,50.4,01/10/2018
+CP01191,RS,113.8,"Sauces, condiments",110.4,25.1,01/10/2018
+CP01191,SE,101.73,"Sauces, condiments",100.01,32.4,01/10/2018
+CP01191,SI,100.67,"Sauces, condiments",99.27,9.5,01/10/2018
+CP01191,AL,101.77,"Sauces, condiments",101.07,6.9,01/10/2018
+CP01191,SK,106.61,"Sauces, condiments",103.71,20.4,01/10/2018
+CP01191,NL,99.67,"Sauces, condiments",100.68,59.2,01/10/2018
+CP01191,MT,122.35,"Sauces, condiments",110.16,2,01/10/2018
+CP01191,MK,102.43,"Sauces, condiments",103.17,6.5,01/10/2018
+CP01191,LU,99.57,"Sauces, condiments",98.28,0.6,01/10/2018
+CP01191,LT,110.15,"Sauces, condiments",108.68,7.1,01/10/2018
+CP01191,IT,100.5,"Sauces, condiments",99.8,142.7,01/10/2018
+CP01191,IS,99.23,"Sauces, condiments",96.69,0.8,01/10/2018
+CP01191,IE,94.4,"Sauces, condiments",97.4,11.3,01/10/2018
+CP01191,HU,105.2,"Sauces, condiments",103.34,20.5,01/10/2018
+CP01191,HR,103.49,"Sauces, condiments",103.41,13.2,01/10/2018
+CP01191,FR,98.18,"Sauces, condiments",97.75,208.7,01/10/2018
+CP01191,FI,96.09,"Sauces, condiments",95.66,17.2,01/10/2018
+CP01191,ES,100.1,"Sauces, condiments",99.02,109.8,01/10/2018
+CP01191,EE,106.65,"Sauces, condiments",101.89,5.4,01/10/2018
+CP01191,DK,98.4,"Sauces, condiments",98,21.7,01/10/2018
+CP01191,CZ,108.6,"Sauces, condiments",105.6,41.4,01/10/2018
+CP01191,CY,89.13,"Sauces, condiments",95.55,2.4,01/10/2018
+CP01191,CH,100.48,"Sauces, condiments",100.05,26.1,01/10/2018
+CP01191,BE,104.79,"Sauces, condiments",104.21,49.8,01/10/2018
+CP01191,AT,108.23,"Sauces, condiments",103.25,27.7,01/10/2018
+CP01191,PL,103.8,"Sauces, condiments",103.1,145.2,01/10/2018
+CP01191,DE,104.3,"Sauces, condiments",103.1,262,01/10/2018
+CP01191,BG,107.47,"Sauces, condiments",105.69,23.8,01/10/2018
+CP01191,LV,105.78,"Sauces, condiments",105.69,5.3,01/10/2018
+CP01191,EL,108,"Sauces, condiments",103.9,26.7,01/10/2018
+CP01191,EL,108,"Sauces, condiments",103.9,26.7,01/10/2018
+CP01186,SI,102.85,Artificial sugar substitutes,,9.5,01/10/2018
+CP01186,EL,101.83,Artificial sugar substitutes,104.24,26.7,01/10/2018
+CP01186,EL,101.83,Artificial sugar substitutes,104.24,26.7,01/10/2018
+CP01186,DE,100.3,Artificial sugar substitutes,100.3,262,01/10/2018
+CP01186,FR,98.2,Artificial sugar substitutes,98.2,208.7,01/10/2018
+CP01186,HR,98.82,Artificial sugar substitutes,98.35,13.2,01/10/2018
+CP01186,HU,96.22,Artificial sugar substitutes,94.52,20.5,01/10/2018
+CP01186,RS,109.7,Artificial sugar substitutes,110,25.1,01/10/2018
+CP01186,AL,103.96,Artificial sugar substitutes,101.21,6.9,01/10/2018
+CP01186,RO,102.77,Artificial sugar substitutes,101.3,50.4,01/10/2018
+CP01186,PL,102.7,Artificial sugar substitutes,102.9,145.2,01/10/2018
+CP01186,NO,112.6,Artificial sugar substitutes,112.6,10.1,01/10/2018
+CP01186,NL,101.17,Artificial sugar substitutes,102.03,59.2,01/10/2018
+CP01186,MK,106.64,Artificial sugar substitutes,105.23,6.5,01/10/2018
+CP01186,IE,95.1,Artificial sugar substitutes,100.7,11.3,01/10/2018
