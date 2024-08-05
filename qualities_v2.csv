@@ -1,10 +1,10 @@
 CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC,QUALITY_DESC_HS6
-17010000,Sugar (all qualities of sugar under 1701),Sugar,Sugar (all qualities),Sugar (all qualities)
-17011200,Raw sugar,Sugar,Raw sugar,Raw sugar
-17011300,Raw sugar,Sugar,Raw sugar,Raw sugar
-17011100,Raw sugar,Sugar,Raw sugar,Raw sugar
-17011400,Raw sugar,Sugar,Raw sugar,Raw sugar
-17019900,White sugar,Sugar,White sugar,White sugar
+17010000,Sugar (all qualities of sugar under 1701),Sugar,Sugar (all qualities),Aggregated
+17011100,Raw sugar,Sugar,Raw sugar,Aggregated
+17011200,Raw sugar,Sugar,Raw sugar,Aggregated
+17011300,Raw sugar,Sugar,Raw sugar,Aggregated
+17011400,Raw sugar,Sugar,Raw sugar,Aggregated
+17019900,White sugar,Sugar,White sugar,Aggregated
 12091000,"Sugar beet seed, for sowing",Seeds,Sugar beet seed,Sugar beet seed
 12091100,"Sugar beet seed, for sowing",Seeds,Sugar beet seed,Sugar beet seed
 12092960,"Fodder beet seed ""Beta vulgaris var. alba"", for sowing",Seeds,Sugar beet seed,Sugar beet seed
@@ -15,13 +15,13 @@ CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC,QUALITY_DESC_HS6
 12129300,"Sugar cane, fresh, chilled, frozen or dried, whether or not ground",Sugar cane,Sugar cane,Sugar cane
 12129920,"Sugar cane, fresh, chilled, frozen or dried, whether or not ground",Sugar cane,Sugar cane,Sugar cane
 17011110,"Raw cane sugar, for refining (excl. added flavouring or colouring)",Sugar,Raw sugar for refining,Raw sugar
-17011190,Raw cane sugar (excl. for refining and added flavouring or colouring),Sugar,DC raw sugar,Raw sugar
+17011190,Raw cane sugar (excl. for refining and added flavouring or colouring),Sugar,DC raws (centrifugal),Raw sugar
 17011210,"Raw beet sugar, for refining (excl. added flavouring or colouring)",Sugar,Raw sugar for refining,Raw sugar
-17011290,Raw beet sugar (excl. for refining and added flavouring or colouring),Sugar,DC raw sugar,Raw sugar
+17011290,Raw beet sugar (excl. for refining and added flavouring or colouring),Sugar,DC raws (beet),Raw sugar
 17011310,"Raw cane sugar for refining, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.]",Sugar,Raw sugar for refining,Raw sugar
-17011390,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.] (excl. for refining)",Sugar,DC raw sugar,Raw sugar
+17011390,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter, obtained without centrifugation, with sucrose content 69° to 93°, containing only natural anhedral microcrystals [see subheading note 2.] (excl. for refining)",Sugar,DC raws (non-centrifugal),Raw sugar
 17011410,"Raw cane sugar for refining, in solid form, not containing added flavouring or colouring matter (excl. cane sugar of 1701 13)",Sugar,Raw sugar for refining,Raw sugar
-17011490,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter (excl. for refining, and cane sugar of 1701 13)",Sugar,DC raw sugar,Raw sugar
+17011490,"Raw cane sugar, in solid form, not containing added flavouring or colouring matter (excl. for refining, and cane sugar of 1701 13)",Sugar,DC raws (centrifugal),Raw sugar
 17019100,"Refined cane or beet sugar, containing added flavouring or colouring, in solid form",Sugar,White sugar,White sugar
 17019910,"White sugar, containing in dry state>= 99,5% sucrose (excl. flavoured or coloured)",Sugar,White sugar,White sugar
 17019990,"Cane or beet sugar and chemically pure sucrose, in solid form (excl. cane and beet sugar containing added flavouring or colouring, raw sugar and white sugar)",Sugar,White sugar,White sugar
