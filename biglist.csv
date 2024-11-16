@@ -3,7 +3,7 @@ Afghanistan,AF,AFG,660,ISOorg,1,1
 Åland Islands,AL,,,AddList,2,0
 Albania,AL,ALB,70,ISOorg,2,1
 Algeria,DZ,DZA,208,EU,1,1
-Am. Oceania,US,USA,810,EU,6,3
+Am. Oceania,US,USA,810,EU,7,3
 AMERICAN SAMOA,AS,,,Thais,2,0
 American Samoa,AS,ASM,830,FAO,2,1
 Andorra,AD,AND,43,FAO,1,1
@@ -491,7 +491,7 @@ Turks and Caicos Islands,TC,TCA,454,FAO,2,2
 TUVALU,TV,,,Thais,2,0
 Tuvalu,TV,TUV,807,FAO,2,1
 U. ARAB EMIRATES,AE,,,Thais,3,0
-U.S.A.,US,,,Thais,6,0
+U.S.A.,US,,,Thais,7,0
 UGANDA,UG,,,Thais,2,0
 Uganda,UG,UGA,350,ISOorg,2,1
 UK,GB,GBR,16,ISOorg,6,1
@@ -505,14 +505,15 @@ United Kingdom (excluding Northern Ireland),GB,GBR,6,EU,6,3
 United Kingdom (Northern Ireland),GB,GBR,6,EU,6,3
 United Kingdom of Great Britain and Northern Ireland,GB,GBR,15,FAO,6,1
 United Republic of Tanzania,TZ,TZA,352,FAO,6,3
-United States,US,USA,808,EU,6,2
-United States Minor Outlying Islands,US,USA,810,EU,6,3
-United States of America,US,USA,808,FAO,6,2
+United States,US,USA,808,EU,7,2
+United States General,US,USA,,TDM,7,0
+United States Minor Outlying Islands,US,USA,810,EU,7,3
+United States of America,US,USA,808,FAO,7,2
 United States Virgin Islands,VI,VIR,457,FAO,4,2
 Unknown,QU,,,AddList,2,0
 Uruguay,UY,URY,524,ISOorg,1,1
 Us Minor Outlying Islands,UM,UMI,832,EU,1,1
-USA,US,USA,810,ISOorg,6,3
+USA,US,USA,810,ISOorg,7,3
 USSR,RU,,,AddList,4,0
 Uzbekistan,UZ,UZB,81,FAO,1,1
 VANUATU,VU,,,Thais,2,0
