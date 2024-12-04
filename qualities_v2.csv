@@ -171,3 +171,21 @@ CN_CODE,LONG_DESCRIPTION,QUALITY_HEADING,QUALITY_DESC,QUALITY,QUALITY_DESC_HS6
 23032090,Bagasse and other waste of sugar manufacture (excl. beet pulp),Biomass,Bagasse,Bagasse,Bagasse
 23099091,Beef-pulp with added molasses of a kind used in animal feeding,Other,Beet pulp with added molasses,Beet pulp with added molasses,Beet pulp with added molasses
 33021029,"Preparations based on odoriferous substances, containing all flavouring agents characterizing a beverage, containing, by weight, >= 1,5% milkfat, >= 5% sucrose or isoglucose, >= 5% glucose or >= 5% starch, of a kind used in the drink industries (excl. of an actual alcoholic strength of > 0,5% vol)",Other,Soft drink concentrate,"Confectionery, soft drinks and other sweetened preparations",Soft drink concentrate
+19051000,Crispbread,Fine Pastries,Crispbread,Crispbread,Crispbread
+19052010,"Gingerbread and the like, whether or not containing cocoa, containing < 30% sucrose, incl. invert sugar expressed as sucrose",Fine Pastries,Gingerbread,Gingerbread,Gingerbread
+19052030,"Gingerbread and the like, whether or not containing cocoa, containing >= 30% but < 50% sucrose, incl. invert sugar expressed as sucrose",Fine Pastries,Gingerbread,Gingerbread,Gingerbread
+19052090,"Gingerbread and the like, whether or not containing cocoa, containing >= 50% sucrose, incl. invert sugar expressed as sucrose",Fine Pastries,Gingerbread,Gingerbread,Gingerbread
+19053111,"Sweet biscuits, whether or not containing cocoa, coated or covered with chocolate or cocoa preparations, in immediate packings of <= 85 g",Fine Pastries,Sweet biscuits,Sweet biscuits,Sweet biscuits
+19053211,"Waffles and wafers, whether or not containing cocoa, coated or covered with chocolate or cocoa preparations, in immediate packings of <= 85 g (excl. of a water content, by weight, of > 10%)",Fine Pastries,"Waffles, wafers, etc.","Waffles, wafers, etc.","Waffles, wafers, etc."
+19053119,"Sweet biscuits, whether or not containing cocoa, coated or covered with chocolate or cocoa preparations, in immediate packings of > 85 g",Fine Pastries,Sweet biscuits,Sweet biscuits,Sweet biscuits
+19053219,"Waffles and wafers, whether or not containing cocoa, coated or covered with chocolate or cocoa preparations (excl. in immediate packings of <= 85 g and waffles and wafers of a water content, by weight, of > 10%)",Fine Pastries,"Waffles, wafers, etc.","Waffles, wafers, etc.","Waffles, wafers, etc."
+19053130,"Sweet biscuits, whether or not containing cocoa, containing >= 8% milkfats (excl. coated or covered with chocolate or cocoa preparations)",Fine Pastries,Sweet biscuits,Sweet biscuits,Sweet biscuits
+19053191,"Sweet sandwich biscuits, whether or not containing cocoa, containing < 8% milkfats (excl. coated or covered with chocolate or cocoa preparations)",Fine Pastries,Sweet biscuits,Sweet biscuits,Sweet biscuits
+19053199,"Sweet biscuits, whether or not containing cocoa, containing < 8% milkfats (excl. coated or covered with chocolate or cocoa preparations and sandwich biscuits)",Fine Pastries,Sweet biscuits,Sweet biscuits,Sweet biscuits
+19053205,"Waffles and wafers of a water content, by weight, of > 10%",Fine Pastries,"Waffles, wafers, etc.","Waffles, wafers, etc.","Waffles, wafers, etc."
+19053291,"Waffles and wafers, salted, whether or not filled (excl. of a water content, by weight, of > 10%)",Fine Pastries,"Waffles, wafers, etc.","Waffles, wafers, etc.","Waffles, wafers, etc."
+19053299,"Waffles and wafers, whether or not containing cocoa, whether or not filled (excl. coated or covered with chocolate or cocoa preparations, salted and those with water content of > 10%)",Fine Pastries,"Waffles, wafers, etc.","Waffles, wafers, etc.","Waffles, wafers, etc."
+19054010,Rusks,Fine Pastries,Rusks,Rusks,Rusks
+19054090,Toasted bread and similar toasted products (excl. rusks),Fine Pastries,Rusks,Rusks,Rusks
+19059010,Matzos,Fine Pastries,Matzos,Matzos,Matzos
+19059020,"Communion wafers, empty cachets for pharmaceutical use, sealing wafers, rice paper and similar products",Fine Pastries,"Communion wafers, etc.","Communion wafers, etc.","Communion wafers, etc."
