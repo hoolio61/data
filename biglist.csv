@@ -294,8 +294,8 @@ MICRONESIA,FM,,,Thais,3,0
 Micronesia,FM,FSM,823,EU,3,2
 Micronesia (Federated States of),FM,FSM,823,FAO,3,2
 Midway Island,MI,MID,999,FAO,1,9
-Moldova,MD,MDA,74,ISOorg,3,2
-"Moldova, Republic of",MD,,,AddList,3,0
+Moldova,MD,MDA,74,ISOorg,4,2
+"Moldova, Republic of",MD,,,AddList,4,0
 Monaco,MC,MCO,999,FAO,1,9
 MONGOLIA,MN,,,Thais,2,0
 Mongolia,MN,MNG,716,FAO,2,1
@@ -370,8 +370,9 @@ Portugal,PT,PRT,40,ISOorg,1,1
 Puerto Rico,PR,PRI,999,FAO,1,9
 QATAR,QA,,,Thais,2,0
 Qatar,QA,QAT,644,FAO,2,1
+Rep. of Moldova,MD,,,TDM,4,0
 Republic of Korea,KR,KOR,728,FAO,5,3
-Republic of Moldova,MD,MDA,74,FAO,3,2
+Republic of Moldova,MD,MDA,74,FAO,4,2
 REPUBLIC OF SERBIA,RS,SRB,,Williams,7,0
 Reunion,RE,REU,372,EU,2,2
 Réunion,RE,REU,372,FAO,2,2
