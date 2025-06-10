@@ -23,7 +23,8 @@ Australia,AU,AUS,800,EU,6,2
 AUSTRIA,AT,,,Thais,2,0
 Austria,AT,AUT,38,ISOorg,2,1
 Azerbaijan,AZ,AZE,78,FAO,1,1
-Bahamas,BS,BHS,453,ISOorg,1,1
+Bahamas,BS,BHS,453,ISOorg,2,1
+"Bahamas, The",BS,,,USDA,2,0
 BAHRAIN,BH,,,Thais,4,0
 Bahrain,BH,BHR,640,FAO,4,1
 Bahrein,BH,,,Brazils,4,0
@@ -63,6 +64,7 @@ Brunei,BN,BRN,703,ISOorg,3,2
 Brunei Darussalam,BN,BRN,703,FAO,3,2
 Bulgaria,BG,BGR,68,ISOorg,1,1
 Burkina Faso,BF,BFA,236,ISOorg,1,1
+Burma,MM,,,USDA,4,0
 Burundi,BI,BDI,328,FAO,1,1
 Cabo Verde,CV,CPV,247,FAO,2,2
 CAMBODIA,KH,,,Thais,2,0
@@ -89,7 +91,7 @@ China,CN,CHN,720,ISOorg,4,2
 China (Taiwan),TW,TWN,736,ISOorg,5,3
 "China, Hong Kong SAR",HK,HKG,740,FAO,4,2
 "China, Hong Kong Special Administrative Region",HK,,,AddList,4,0
-"China, Macao SAR",MO,MAC,743,FAO,3,2
+"China, Macao SAR",MO,MAC,743,FAO,4,2
 "China, Macao Special Administrative Region",MA,MAR,,AddList,2,0
 "China, mainland",CN,F41,720,FAO,4,2
 "China, Taiwan Province of",TW,TWN,736,FAO,5,3
@@ -101,14 +103,16 @@ Colombia,CO,COL,480,FAO,2,1
 Colombia Free Zones,CO,,,TDM,2,0
 COMOROS,KM,,,Thais,2,0
 Comoros,KM,COM,375,ISOorg,2,1
-Congo,CG,COG,318,ISOorg,2,1
-CONGO (DEMOCRATIC REPUBLIC OF THE),CD,,,Datamyne,7,0
-Congo (DROC),CD,,,TDM,7,0
-Congo (ROC),CG,,,TDM,2,0
-Congo Dr,CD,COD,322,EU,7,4
-"Congo, Dem. Rep.",CD,COD,322,ISOorg,7,4
-"CONGO, DEM. REP. OF",CD,COD,,Williams,7,0
-"Congo, Dem.Rep.",CD,COD,322,ISOorg,7,4
+Congo,CG,COG,318,ISOorg,3,1
+Congo (Brazzaville),CG,,,USDA,3,0
+CONGO (DEMOCRATIC REPUBLIC OF THE),CD,,,Datamyne,8,0
+Congo (DROC),CD,,,TDM,8,0
+Congo (Kinshasa),CD,,,USDA,8,0
+Congo (ROC),CG,,,TDM,3,0
+Congo Dr,CD,COD,322,EU,8,4
+"Congo, Dem. Rep.",CD,COD,322,ISOorg,8,4
+"CONGO, DEM. REP. OF",CD,COD,,Williams,8,0
+"Congo, Dem.Rep.",CD,COD,322,ISOorg,8,4
 Cook Islands,CK,COK,837,FAO,1,1
 Costa Rica,CR,CRI,436,ISOorg,1,1
 COTE D IVOIRE,CI,CIV,,Williams,8,0
@@ -126,16 +130,16 @@ Curacao,CW,CUW,478,EU,4,1
 Curaçao,CW,,,AddList,4,0
 CURAZAO,CW,,,Datamyne,4,0
 Cyprus,CY,CYP,600,FAO,1,1
-Czech Republic,CZ,CZE,61,ISOorg,4,2
-Czechia,CZ,CZE,61,FAO,4,2
-Czechoslovak,CZ,CZE,62,EU,4,1
-Czechoslovakia,CZ,,,AddList,4,0
-Democratic People's Republic of Korea,KP,PRK,724,FAO,3,3
-Democratic Republic of the Congo,CD,COD,322,FAO,7,4
+Czech Republic,CZ,CZE,61,ISOorg,5,2
+Czechia,CZ,CZE,61,FAO,5,2
+Czechoslovak,CZ,CZE,62,EU,5,1
+Czechoslovakia,CZ,,,AddList,5,0
+Democratic People's Republic of Korea,KP,PRK,724,FAO,4,3
+Democratic Republic of the Congo,CD,COD,322,FAO,8,4
 DENMARK,DK,,,Thais,2,0
 Denmark,DK,DNK,8,ISOorg,2,1
-DJIBOUTI,DJ,,,Thais,2,0
-Djibouti,DJ,DJI,338,ISOorg,2,1
+DJIBOUTI,DJ,,,Thais,3,0
+Djibouti,DJ,DJI,338,ISOorg,3,1
 Dominica,DM,DMA,460,FAO,1,1
 Dominican Republic,DO,DOM,456,FAO,1,1
 Ecuador,EC,ECU,500,ISOorg,1,1
@@ -153,7 +157,9 @@ Eswatini (Swaziland),SZ,,,AddList,2,0
 ETHIOPIA,ET,,,Thais,3,0
 Ethiopia,ET,ETH,334,ISOorg,3,1
 Ethiopia PDR,ET,,,AddList,3,0
-European Union,EU,EUR,19,EU,1,1
+EU-15,EU,,,USDA,3,0
+EU-25,EU,,,USDA,3,0
+European Union,EU,EUR,19,EU,3,1
 Falkland Islands,FK,FLK,529,EU,3,1
 Falkland Islands (Malvinas),FK,FLK,893,FAO,3,2
 Faroe Islands,FO,FRO,25,FAO,2,1
@@ -161,11 +167,14 @@ Faroe Isles,FO,FRO,41,EU,2,1
 FIJI,FJ,,,Thais,2,0
 Fiji,FJ,FJI,815,ISOorg,2,1
 Finland,FI,FIN,32,ISOorg,1,1
+Former Czechoslovakia,CZ,,,USDA,5,0
+Former Yugoslavia,RS,,,USDA,8,0
 Fr. Guiana,GF,GUF,496,EU,3,2
+Fr.Ter.Africa-Issas,DJ,,,USDA,3,0
 FRANCE,FR,,,Thais,5,0
 France,FR,FRA,1,EU,5,2
 Free Zones,ZZ,,,TDM,16,0
-French Antilles,GP,,,TDM,2,0
+French Antilles,GP,,,TDM,3,0
 FRENCH GUIANA,GF,GUF,,Williams,3,0
 French Guiana,GU,,,AddList,3,0
 French Guyana,GF,GUF,496,FAO,3,2
@@ -174,21 +183,26 @@ FRENCH POLYNESIA (TAHITI),FR,,,Thais,5,0
 French Southern and Antarctic Lands,TF,,,TDM,2,0
 French Southern Territories,TF,ATF,894,FAO,2,1
 French Territories,FR,FRA,1,ISOorg,5,2
+French West Indies,GP,,,USDA,3,0
 Gabon,GA,GAB,314,ISOorg,1,1
-Gambia,GM,GMB,252,ISOorg,1,1
+Gambia,GM,GMB,252,ISOorg,2,1
+"Gambia, The",GM,,,USDA,2,0
 Gaza Strip and West Bank,PS,,,TDM,5,0
 Georgia,GE,GEO,76,FAO,1,1
-German Dem.R,DE,DEU,58,EU,4,1
-GERMANY,DE,,,Thais,4,0
-Germany,DE,DEU,4,FAO,4,1
-"GERMANY, FEDERAL REPUBLIC",DE,DEU,,Williams,4,0
+German Dem.R,DE,DEU,58,EU,6,1
+German Democratic Republic,DE,,,USDA,6,0
+GERMANY,DE,,,Thais,6,0
+Germany,DE,DEU,4,FAO,6,1
+"GERMANY, FEDERAL REPUBLIC",DE,DEU,,Williams,6,0
+"Germany, Federal Republic of",DE,,,USDA,6,0
 GHANA,GH,,,Thais,2,0
 Ghana,GH,GHA,276,ISOorg,2,1
 Gibraltar,GI,GIB,44,ISOorg,1,1
+Gilbert and Ellice Islands,TV,,,USDA,3,0
 Greece,GR,GRC,9,FAO,1,1
 Greenland,GL,GRL,406,FAO,1,1
 Grenada,GD,GRD,473,FAO,1,1
-Guadeloupe,GP,GLP,458,FAO,2,1
+Guadeloupe,GP,GLP,458,FAO,3,1
 GUAM,GU,,,Thais,3,0
 Guam,GU,GUM,831,FAO,3,1
 Guatemala,GT,GTM,416,ISOorg,1,1
@@ -240,9 +254,11 @@ KENYA,KE,,,Thais,2,0
 Kenya,KE,KEN,346,ISOorg,2,1
 KIRIBATI,KI,,,Thais,2,0
 Kiribati,KI,KIR,812,FAO,2,1
-KOREA (REPUBLIC OF),KR,,,Datamyne,5,0
-"Korea, DPR",KP,PRK,724,ISOorg,3,3
-"Korea, Republic of",KR,KOR,728,ISOorg,5,3
+KOREA (REPUBLIC OF),KR,,,Datamyne,6,0
+"Korea, DPR",KP,PRK,724,ISOorg,4,3
+"Korea, North",KP,,,USDA,4,0
+"Korea, Republic of",KR,KOR,728,ISOorg,6,3
+"Korea, South",KR,,,USDA,6,0
 Kosovo,XK,XKX,95,EU,1,1
 KUWAIT,KW,,,Thais,2,0
 Kuwait,KW,KWT,636,ISOorg,2,1
@@ -265,8 +281,9 @@ Liechtenstein,LI,LIE,37,FAO,1,1
 LITHUANIA,LT,,,Thais,2,0
 Lithuania,LT,LTU,55,FAO,2,1
 Luxembourg,LU,LUX,18,EU,1,1
-MACAO,MO,,,Thais,3,0
-Macao,MO,MAC,743,ISOorg,3,2
+MACAO,MO,,,Thais,4,0
+Macao,MO,MAC,743,ISOorg,4,2
+Macau,MO,,,USDA,4,0
 MACEDONIA (THE FORMER YUGOSLAV REPUBLIC OF),MK,,,Datamyne,3,0
 MADAGASCAR,MG,,,Thais,2,0
 Madagascar,MG,MDG,370,ISOorg,2,1
@@ -305,9 +322,9 @@ Montserrat,MS,MSR,470,FAO,1,1
 Morocco,MA,MAR,201,EU,2,1
 MOZAMBIQUE,MZ,,,Thais,2,0
 Mozambique,MZ,MOZ,366,ISOorg,2,1
-MYANMAR,MM,,,Thais,3,0
-Myanmar,MM,MMR,676,ISOorg,3,1
-Myanmar/Burma,MM,,,organix,3,0
+MYANMAR,MM,,,Thais,4,0
+Myanmar,MM,MMR,676,ISOorg,4,1
+Myanmar/Burma,MM,,,organix,4,0
 N. Caledonia,NC,NCL,809,EU,3,2
 N.Det.Extra,ZZ,ZZZ,960,EU,16,1
 N.Det.Intra,XX,XXX,959,EU,1,1
@@ -334,7 +351,7 @@ Niue,NU,NIU,838,FAO,1,1
 Nl Antilles,CW,CUW,475,EU,4,1
 NO DISPONIBLE 500,ZZ,,,Datamyne,16,0
 Norfolk Island,NF,NFK,836,FAO,1,1
-North Korea,KP,PRK,724,EU,3,3
+North Korea,KP,PRK,724,EU,4,3
 North Macedonia,MK,MKD,96,FAO,3,2
 North.Mar.Is,MP,MNP,820,EU,3,2
 Northern Macedonia,MK,MKD,96,ISOorg,3,2
@@ -374,25 +391,25 @@ Puerto Rico,PR,PRI,999,FAO,1,9
 QATAR,QA,,,Thais,2,0
 Qatar,QA,QAT,644,FAO,2,1
 Rep. of Moldova,MD,,,TDM,4,0
-Republic of Korea,KR,KOR,728,FAO,5,3
+Republic of Korea,KR,KOR,728,FAO,6,3
 Republic of Moldova,MD,MDA,74,FAO,4,2
-REPUBLIC OF SERBIA,RS,SRB,,Williams,7,0
+REPUBLIC OF SERBIA,RS,SRB,,Williams,8,0
 Returned Bahrain Goods,BH,,,TDM,4,0
 Reunion,RE,REU,372,EU,2,2
 Réunion,RE,REU,372,FAO,2,2
 Romania,RO,ROU,66,ISOorg,1,1
-Russia,RU,RUS,56,ISOorg,4,2
-RUSSIAN FEDERATION,RU,,,Thais,4,0
-Russian Federation,RU,RUS,56,FAO,4,2
+Russia,RU,RUS,56,ISOorg,5,2
+RUSSIAN FEDERATION,RU,,,Thais,5,0
+Russian Federation,RU,RUS,56,FAO,5,2
 Rwanda,RW,RWA,324,FAO,1,1
-S. KOREA,KR,,,Thais,5,0
+S. KOREA,KR,,,Thais,6,0
 S.Vietnam,VN,VNM,692,EU,6,2
 Saint Barthelemy,BL,BLM,466,EU,2,1
 Saint Barthélemy,BL,,,AddList,2,0
 Saint Helena,SH,SHN,329,EU,2,2
 "Saint Helena, Ascension and Tristan da Cunha",SH,SHN,329,FAO,2,2
 Saint Kitts and Nevis,KN,KNA,449,FAO,4,3
-Saint Lucia,LC,LCA,465,FAO,2,2
+Saint Lucia,LC,LCA,465,FAO,3,2
 Saint Martin (French Part),FR,,,AddList,5,0
 Saint Pierre And Miquelon,PM,SPM,408,EU,3,2
 Saint Pierre and Miquelon,PM,SPM,408,FAO,3,2
@@ -413,10 +430,10 @@ Secr.Extra,QS,ZZZ,979,EU,1,1
 Secr.Intra,ZZ,XXX,978,EU,16,1
 SENEGAL,SN,,,Thais,2,0
 Senegal,SN,SEN,248,ISOorg,2,1
-Serbia,RS,SRB,48,EU,7,1
-Serbia & Montenegro,RS,SRB,98,ISOorg,7,3
-Serbia and Montenegro,RS,SCG,94,FAO,7,1
-Serbia And Montenegro Till 31/05/2005,RS,SRB,98,EU,7,3
+Serbia,RS,SRB,48,EU,8,1
+Serbia & Montenegro,RS,SRB,98,ISOorg,8,3
+Serbia and Montenegro,RS,SCG,94,FAO,8,1
+Serbia And Montenegro Till 31/05/2005,RS,SRB,98,EU,8,3
 SEYCHELLES,SC,,,Thais,2,0
 Seychelles,SC,SYC,355,FAO,2,1
 SIERRA LEONE,SL,,,Thais,2,0
@@ -436,21 +453,22 @@ SOUTH AFRICA,ZA,,,Thais,2,0
 South Africa,ZA,ZAF,388,ISOorg,2,1
 South Georgia & S.Sandwich Is.,FK,FLK,893,EU,3,2
 South Georgia and the South Sandwich Islands,GS,SGS,999,FAO,1,9
-South Korea,KR,KOR,728,EU,5,3
+South Korea,KR,KOR,728,EU,6,3
 South Sudan,SS,SSD,225,FAO,1,1
-South Yemen,YE,YEM,652,EU,3,2
+South Yemen,YE,YEM,652,EU,5,2
 SPAIN,ES,,,Thais,2,0
 Spain,ES,ESP,11,EU,2,1
 SRI LANKA,LK,,,Thais,2,0
 Sri Lanka,LK,LKA,669,ISOorg,2,1
 St Christopher,KN,KNA,449,ISOorg,4,3
 St Kitts And Nevis,KN,KNA,449,EU,4,3
-St Lucia,LC,LCA,465,EU,2,2
+St Lucia,LC,LCA,465,EU,3,2
 ST VINCENT AND GRENADINES,VC,VCT,,Williams,3,0
 St Vincent And The Grenadines,VC,VCT,467,EU,3,2
 "St,P.Extra",ZZ,ZZZ,950,EU,16,1
 "St,P.Intra",ZZ,XXX,951,EU,16,3
 St. Kitts and Nevis,KN,,,AddList,4,0
+St. Lucia,LC,,,USDA,3,0
 St. Pierre And Miquelon,PM,,,organix,3,0
 State of Palestine,PS,,,AddList,5,0
 SUDAN,SD,,,Thais,3,0
@@ -495,8 +513,8 @@ Türkiye,TR,TUR,52,FAO,3,2
 Turkmenistan,TM,TKM,80,FAO,1,1
 Turks And Caicos Islands,TC,TCA,454,EU,2,2
 Turks and Caicos Islands,TC,TCA,454,FAO,2,2
-TUVALU,TV,,,Thais,2,0
-Tuvalu,TV,TUV,807,FAO,2,1
+TUVALU,TV,,,Thais,3,0
+Tuvalu,TV,TUV,807,FAO,3,1
 U. ARAB EMIRATES,AE,,,Thais,3,0
 U.S.A.,US,,,Thais,7,0
 UGANDA,UG,,,Thais,2,0
@@ -506,6 +524,7 @@ UKRAINE,UA,,,Thais,2,0
 Ukraine,UA,UKR,72,ISOorg,2,1
 Undefined,ZZ,,,organix,16,0
 Unidentified,ZZ,,,TDM,16,0
+Union of Soviet Socialist Repu,RU,,,USDA,5,0
 United Arab Emirates,AE,ARE,647,ISOorg,3,2
 UNITED KINGDOM,GB,,,Thais,6,0
 United Kingdom,GB,GBR,6,EU,6,3
@@ -517,15 +536,16 @@ United States,US,USA,808,EU,7,2
 United States General,US,USA,,TDM,7,0
 United States Minor Outlying Islands,US,USA,810,EU,7,3
 United States of America,US,USA,808,FAO,7,2
-United States Virgin Islands,VI,VIR,457,FAO,4,2
+United States Virgin Islands,VI,VIR,457,FAO,5,2
 Unknown,QU,,,AddList,2,0
 Uruguay,UY,URY,524,ISOorg,1,1
 Us Minor Outlying Islands,UM,UMI,832,EU,1,1
 USA,US,USA,810,ISOorg,7,3
-USSR,RU,,,AddList,4,0
+USSR,RU,,,AddList,5,0
 Uzbekistan,UZ,UZB,81,FAO,1,1
-VANUATU,VU,,,Thais,2,0
-Vanuatu,VU,VUT,816,FAO,2,1
+VANUATU,VU,,,Thais,3,0
+Vanuatu,VU,VUT,816,FAO,3,1
+Vanuatu/New Hebrides,VU,,,USDA,3,0
 Venezuela,VE,VEN,484,ISOorg,3,2
 Venezuela (Bolivarian Republic of),VE,VEN,484,FAO,3,2
 "Venezuela, Bolivarian Republic of",VE,,,AddList,3,0
@@ -534,10 +554,11 @@ VIETNAM,VN,,,Thais,6,0
 Vietnam,VN,VNM,692,EU,6,2
 Vietnam SR,VN,VNM,690,ISOorg,6,1
 "Vietnam, SR",VN,,,ISO,6,0
-VIRGENES ISLAS (ESTADOS UNIDO,VI,,,Datamyne,4,0
+VIRGENES ISLAS (ESTADOS UNIDO,VI,,,Datamyne,5,0
 Virgin Islands (UK),VG,,,Brazils,4,0
-Virgin Islands (USA),VI,,,Brazils,4,0
-"Virgin Islands, United States",VI,VIR,457,EU,4,2
+Virgin Islands (USA),VI,,,Brazils,5,0
+Virgin Islands of the U.S.,VI,,,USDA,5,0
+"Virgin Islands, United States",VI,VIR,457,EU,5,2
 Wake Island,WK,WAK,999,FAO,1,9
 Wallis And Futuna,WF,WLF,811,EU,3,2
 Wallis and Futuna,WF,,,TDM,3,0
@@ -548,10 +569,12 @@ West Indies C,JM,JAM,455,EU,4,1
 Western Sahara,EH,ESH,229,FAO,1,1
 WESTERN SAMOA,WS,,,Thais,3,0
 World,ZZ,ZZZ,2,EU,16,1
-YEMEN,YE,,,Thais,3,0
-Yemen,YE,YEM,652,ISOorg,3,2
-Yugoslav SFR,RS,SRB,,AddList,7,0
-Yugoslavia,RS,SRB,98,EU,7,3
+YEMEN,YE,,,Thais,5,0
+Yemen,YE,YEM,652,ISOorg,5,2
+Yemen (Aden),YE,,,USDA,5,0
+Yemen (Sanaa),YE,,,USDA,5,0
+Yugoslav SFR,RS,SRB,,AddList,8,0
+Yugoslavia,RS,SRB,98,EU,8,3
 Zambia,ZM,ZMB,378,ISOorg,1,1
 ZIMBABWE,ZW,,,Thais,2,0
 Zimbabwe,ZW,ZWE,382,ISOorg,2,1
