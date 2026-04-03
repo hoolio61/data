@@ -1,0 +1,1558 @@
+QUARTER_YEAR	QUALITY_DESC	ISO2 (Declarant)	ISO2 (Partner)	Quantity (mt)	Value (€)	Price (€/t) (f)
+Q1 - 2023	Beet molasses	CY	EG	0	€ 599	
+Q1 - 2023	Beet molasses	DE	EG	1	€ 1,047	
+Q1 - 2023	Beet molasses	FR	DZ	15	€ 17,854	
+Q1 - 2023	Beet molasses	IT	EG	4,650	€ 1,395,000	€ 300
+Q1 - 2023	Beet molasses	PT	EG	8,504	€ 3,083,443	
+Q1 - 2023	Cane molasses	BE	EG	0	€ 582	
+Q1 - 2023	Cane molasses	CY	ZA	24	€ 9,756	
+Q1 - 2023	Cane molasses	ES	MA	3,133	€ 861,618	€ 275
+Q1 - 2023	Cane molasses	FR	DZ	2,524	€ 978,024	€ 387
+Q1 - 2023	Cane molasses	FR	EG	8	€ 13,927	
+Q1 - 2023	Cane molasses	GB	MZ	42	€ 15,266	
+Q1 - 2023	Cane molasses	GR	EG	0	€ 187	
+Q1 - 2023	Cane molasses	IT	EG	21	€ 28,647	
+Q1 - 2023	Cane molasses	PT	EG	11	€ 17,065	
+Q1 - 2023	Caramel	BE	MA	2	€ 8,308	
+Q1 - 2023	Caramel	FR	DZ	0	€ 2,290	
+Q1 - 2023	Caramel	FR	SZ	0	€ 8,809	
+Q1 - 2023	Caramel	NL	ZA	31	€ 28,826	
+Q1 - 2023	DC raws (beet)	MT	MU	150	€ 147,500	
+Q1 - 2023	DC raws (centrifugal)	AT	MU	384	€ 326,154	
+Q1 - 2023	DC raws (centrifugal)	BE	CM	0	€ 74	
+Q1 - 2023	DC raws (centrifugal)	BE	MU	4,240	€ 3,472,033	€ 819
+Q1 - 2023	DC raws (centrifugal)	BE	SZ	2,576	€ 1,476,645	€ 574
+Q1 - 2023	DC raws (centrifugal)	BG	MU	690	€ 545,897	€ 788
+Q1 - 2023	DC raws (centrifugal)	BG	ZA	92	€ 89,517	
+Q1 - 2023	DC raws (centrifugal)	CY	MU	1	€ 2,721	
+Q1 - 2023	DC raws (centrifugal)	CZ	MU	368	€ 292,789	€ 759
+Q1 - 2023	DC raws (centrifugal)	CZ	SZ	151	€ 122,452	
+Q1 - 2023	DC raws (centrifugal)	DE	MU	1,291	€ 1,009,304	€ 787
+Q1 - 2023	DC raws (centrifugal)	DE	SZ	1,548	€ 985,145	€ 635
+Q1 - 2023	DC raws (centrifugal)	ES	MU	753	€ 609,789	€ 805
+Q1 - 2023	DC raws (centrifugal)	ES	SZ	1,035	€ 798,454	€ 817
+Q1 - 2023	DC raws (centrifugal)	FI	MU	132	€ 123,658	
+Q1 - 2023	DC raws (centrifugal)	FR	DZ	0	€ 202	
+Q1 - 2023	DC raws (centrifugal)	FR	MU	460	€ 369,942	€ 797
+Q1 - 2023	DC raws (centrifugal)	GB	MU	2,443	€ 2,179,641	€ 906
+Q1 - 2023	DC raws (centrifugal)	GB	MZ	25	€ 24,247	
+Q1 - 2023	DC raws (centrifugal)	GR	MU	656	€ 550,028	€ 841
+Q1 - 2023	DC raws (centrifugal)	GR	SZ	735	€ 609,525	€ 825
+Q1 - 2023	DC raws (centrifugal)	HR	MU	75	€ 60,375	
+Q1 - 2023	DC raws (centrifugal)	HR	SZ	43	€ 28,776	
+Q1 - 2023	DC raws (centrifugal)	HU	MU	0	€ 310	
+Q1 - 2023	DC raws (centrifugal)	IE	MU	25	€ 41,065	
+Q1 - 2023	DC raws (centrifugal)	IT	MU	4,321	€ 4,037,889	€ 825
+Q1 - 2023	DC raws (centrifugal)	IT	MZ	23	€ 30,383	
+Q1 - 2023	DC raws (centrifugal)	IT	SZ	2,911	€ 1,922,292	€ 650
+Q1 - 2023	DC raws (centrifugal)	IT	ZA	65	€ 54,825	
+Q1 - 2023	DC raws (centrifugal)	LT	MU	528	€ 455,491	€ 862
+Q1 - 2023	DC raws (centrifugal)	LT	SZ	97	€ 83,284	
+Q1 - 2023	DC raws (centrifugal)	LV	MU	24	€ 19,345	
+Q1 - 2023	DC raws (centrifugal)	MT	MU	4	€ 7,870	
+Q1 - 2023	DC raws (centrifugal)	NL	MU	88	€ 75,030	
+Q1 - 2023	DC raws (centrifugal)	NL	MZ	25	€ 23,080	
+Q1 - 2023	DC raws (centrifugal)	NL	SZ	86	€ 55,019	
+Q1 - 2023	DC raws (centrifugal)	PL	MU	1,501	€ 1,228,892	€ 821
+Q1 - 2023	DC raws (centrifugal)	PL	SZ	108	€ 79,125	
+Q1 - 2023	DC raws (centrifugal)	PT	MU	258	€ 200,148	
+Q1 - 2023	DC raws (centrifugal)	PT	MW	3	€ 5,262	
+Q1 - 2023	DC raws (centrifugal)	RO	MU	98	€ 86,114	
+Q1 - 2023	DC raws (centrifugal)	RO	SZ	298	€ 190,565	€ 634
+Q1 - 2023	DC raws (centrifugal)	SE	MU	146	€ 147,033	
+Q1 - 2023	DC raws (centrifugal)	SI	MU	133	€ 138,097	
+Q1 - 2023	DC raws (centrifugal)	SK	MU	23	€ 21,161	
+Q1 - 2023	DC raws (non-centrifugal)	FR	MU	25	€ 22,375	
+Q1 - 2023	DC raws (non-centrifugal)	FR	TZ	0	€ 131	
+Q1 - 2023	DC raws (non-centrifugal)	IE	MU	110	€ 106,591	
+Q1 - 2023	DC raws (non-centrifugal)	IE	SZ	43	€ 28,638	
+Q1 - 2023	Glucose	BE	EG	120	€ 126,504	
+Q1 - 2023	Glucose	BE	MA	3	€ 4,455	
+Q1 - 2023	Glucose	DE	SD	2	€ 3,806	
+Q1 - 2023	Glucose	ES	MA	0	€ 164	
+Q1 - 2023	Glucose	FR	DZ	8	€ 13,357	
+Q1 - 2023	Glucose	GR	EG	52	€ 29,625	
+Q1 - 2023	Glucose	RO	EG	131	€ 70,308	
+Q1 - 2023	Invert sugars	ES	EG	50	€ 55,000	
+Q1 - 2023	Invert sugars	ES	MA	48	€ 52,502	
+Q1 - 2023	Invert sugars	FR	DZ	22	€ 6,215	
+Q1 - 2023	Invert sugars	FR	EG	2	€ 3,271	
+Q1 - 2023	Invert sugars	IE	SZ	4	€ 6,929	
+Q1 - 2023	Invert sugars	NL	ZA	21	€ 54,048	
+Q1 - 2023	Invert sugars	SE	MA	0	€ 430	
+Q1 - 2023	Isoglucose	FR	DZ	8	€ 12,455	
+Q1 - 2023	Maltodextrine	GR	EG	1	€ 1,252	
+Q1 - 2023	Maple sugar	SE	ET	0	€ 892	
+Q1 - 2023	Raw sugar for refining	ES	ZA	29,843	€ 20,828,400	€ 698
+Q1 - 2023	Raw sugar for refining	HR	ZA	33,042	€ 22,539,000	€ 682
+Q1 - 2023	White sugar	AT	MU	24	€ 21,740	
+Q1 - 2023	White sugar	BE	MA	108	€ 118,073	
+Q1 - 2023	White sugar	BE	MU	840	€ 702,240	€ 845
+Q1 - 2023	White sugar	BE	MZ	40	€ 43,713	
+Q1 - 2023	White sugar	BG	EG	240	€ 118,050	€ 492
+Q1 - 2023	White sugar	BG	MU	1,008	€ 856,813	
+Q1 - 2023	White sugar	CY	MA	1,154	€ 1,095,101	€ 929
+Q1 - 2023	White sugar	CY	MU	393	€ 386,970	
+Q1 - 2023	White sugar	DE	MU	497	€ 447,638	€ 895
+Q1 - 2023	White sugar	DE	MZ	227	€ 218,849	€ 969
+Q1 - 2023	White sugar	DE	ZA	1	€ 10,959	
+Q1 - 2023	White sugar	ES	EG	2,952	€ 1,980,344	€ 678
+Q1 - 2023	White sugar	ES	MA	13,243	€ 7,662,215	€ 577
+Q1 - 2023	White sugar	ES	MU	13,749	€ 10,467,348	€ 765
+Q1 - 2023	White sugar	ES	MZ	24	€ 27,048	
+Q1 - 2023	White sugar	ES	SZ	624	€ 572,868	€ 905
+Q1 - 2023	White sugar	FR	DZ	4	€ 11,520	
+Q1 - 2023	White sugar	FR	MA	28	€ 84,505	
+Q1 - 2023	White sugar	FR	MU	4,125	€ 3,383,266	€ 805
+Q1 - 2023	White sugar	FR	TZ	0	€ 292	
+Q1 - 2023	White sugar	GB	MU	3,580	€ 2,935,464	€ 812
+Q1 - 2023	White sugar	GB	ZA	108	€ 76,464	
+Q1 - 2023	White sugar	GR	MU	426	€ 351,496	
+Q1 - 2023	White sugar	HR	MU	25	€ 25,402	
+Q1 - 2023	White sugar	IE	MU	3	€ 5,731	
+Q1 - 2023	White sugar	IT	DZ	109	€ 45,594	
+Q1 - 2023	White sugar	IT	EG	2,540	€ 1,577,466	€ 587
+Q1 - 2023	White sugar	IT	MA	1,030	€ 778,928	€ 755
+Q1 - 2023	White sugar	IT	MU	7,103	€ 6,070,563	€ 710
+Q1 - 2023	White sugar	IT	MZ	388	€ 354,576	€ 948
+Q1 - 2023	White sugar	IT	SZ	280	€ 256,705	
+Q1 - 2023	White sugar	LT	SZ	22	€ 22,554	
+Q1 - 2023	White sugar	MT	MA	60	€ 23,285	
+Q1 - 2023	White sugar	MT	MU	876	€ 819,660	€ 956
+Q1 - 2023	White sugar	NL	MZ	1,081	€ 1,132,626	€ 1,068
+Q1 - 2023	White sugar	PT	MU	5,640	€ 5,186,689	€ 937
+Q1 - 2023	White sugar	PT	MW	5	€ 11,656	
+Q1 - 2023	White sugar	RO	EG	816	€ 399,166	€ 489
+Q1 - 2023	White sugar	SI	MU	4	€ 5,972	
+Q1 - 2024	Beet molasses	CY	EG	49	€ 14,759	
+Q1 - 2024	Beet molasses	ES	EG	22,702	€ 4,551,585	
+Q1 - 2024	Beet molasses	FR	DZ	1	€ 874	
+Q1 - 2024	Beet molasses	IT	EG	5,818	€ 1,185,439	
+Q1 - 2024	Cane molasses	AT	EG	3	€ 5,052	
+Q1 - 2024	Cane molasses	BE	EG	2	€ 4,233	
+Q1 - 2024	Cane molasses	ES	EG	88	€ 96,250	
+Q1 - 2024	Cane molasses	FR	DZ	2,864	€ 755,148	€ 264
+Q1 - 2024	Cane molasses	FR	EG	9	€ 12,005	
+Q1 - 2024	Cane molasses	GB	EG	1	€ 1,197	
+Q1 - 2024	Cane molasses	GR	EG	17	€ 32,325	
+Q1 - 2024	Cane molasses	IE	EG	0	€ 822	
+Q1 - 2024	Cane molasses	IT	EG	44	€ 53,901	
+Q1 - 2024	Caramel	FR	DZ	3	€ 12,399	
+Q1 - 2024	Caramel	GB	EG	1	€ 1,835	
+Q1 - 2024	DC raws (centrifugal)	AT	MU	168	€ 165,425	
+Q1 - 2024	DC raws (centrifugal)	BE	MU	740	€ 666,956	€ 898
+Q1 - 2024	DC raws (centrifugal)	BE	SZ	3,225	€ 2,311,071	€ 719
+Q1 - 2024	DC raws (centrifugal)	BG	MU	219	€ 197,153	
+Q1 - 2024	DC raws (centrifugal)	BG	SZ	74	€ 48,782	
+Q1 - 2024	DC raws (centrifugal)	CZ	MW	252	€ 176,373	€ 713
+Q1 - 2024	DC raws (centrifugal)	CZ	SZ	602	€ 468,628	€ 796
+Q1 - 2024	DC raws (centrifugal)	DE	MU	794	€ 738,297	€ 949
+Q1 - 2024	DC raws (centrifugal)	DE	MW	552	€ 491,285	€ 890
+Q1 - 2024	DC raws (centrifugal)	DE	SZ	672	€ 478,689	€ 716
+Q1 - 2024	DC raws (centrifugal)	ES	MU	820	€ 756,920	€ 932
+Q1 - 2024	DC raws (centrifugal)	FI	MU	132	€ 129,627	
+Q1 - 2024	DC raws (centrifugal)	FR	MA	1	€ 481	
+Q1 - 2024	DC raws (centrifugal)	FR	MU	1,490	€ 1,336,388	€ 888
+Q1 - 2024	DC raws (centrifugal)	FR	TN	22	€ 21,720	
+Q1 - 2024	DC raws (centrifugal)	GB	MU	6,563	€ 6,203,078	€ 953
+Q1 - 2024	DC raws (centrifugal)	GB	MZ	50	€ 51,172	
+Q1 - 2024	DC raws (centrifugal)	GB	SZ	280	€ 244,490	
+Q1 - 2024	DC raws (centrifugal)	GR	MU	391	€ 359,198	
+Q1 - 2024	DC raws (centrifugal)	GR	SZ	502	€ 409,940	€ 820
+Q1 - 2024	DC raws (centrifugal)	HR	MU	3	€ 5,643	
+Q1 - 2024	DC raws (centrifugal)	HR	SZ	22	€ 17,978	
+Q1 - 2024	DC raws (centrifugal)	HU	MU	1	€ 1,584	
+Q1 - 2024	DC raws (centrifugal)	IE	MU	22	€ 35,474	
+Q1 - 2024	DC raws (centrifugal)	IT	MU	2,311	€ 2,096,734	€ 912
+Q1 - 2024	DC raws (centrifugal)	IT	MW	300	€ 300,000	€ 1,000
+Q1 - 2024	DC raws (centrifugal)	IT	SZ	2,064	€ 1,658,529	€ 806
+Q1 - 2024	DC raws (centrifugal)	IT	ZM	1	€ 1,273	
+Q1 - 2024	DC raws (centrifugal)	LT	MU	242	€ 224,334	€ 927
+Q1 - 2024	DC raws (centrifugal)	MT	MU	6	€ 13,123	
+Q1 - 2024	DC raws (centrifugal)	NL	MU	3	€ 5,315	
+Q1 - 2024	DC raws (centrifugal)	NL	MZ	25	€ 31,675	
+Q1 - 2024	DC raws (centrifugal)	NL	SZ	86	€ 67,216	
+Q1 - 2024	DC raws (centrifugal)	PL	MU	922	€ 750,688	€ 809
+Q1 - 2024	DC raws (centrifugal)	PL	SZ	298	€ 212,045	
+Q1 - 2024	DC raws (centrifugal)	PT	MU	173	€ 170,569	
+Q1 - 2024	DC raws (centrifugal)	PT	SZ	452	€ 385,130	€ 853
+Q1 - 2024	DC raws (centrifugal)	RO	SZ	716	€ 551,437	€ 779
+Q1 - 2024	DC raws (centrifugal)	SE	MU	264	€ 282,703	€ 1,026
+Q1 - 2024	DC raws (centrifugal)	SI	MU	26	€ 36,655	
+Q1 - 2024	DC raws (non-centrifugal)	IE	MU	85	€ 88,230	
+Q1 - 2024	Glucose	BE	EG	1	€ 740	
+Q1 - 2024	Glucose	BE	MA	2	€ 1,836	
+Q1 - 2024	Glucose	ES	EG	0	€ 391	
+Q1 - 2024	Glucose	FR	DZ	41	€ 78,178	
+Q1 - 2024	Glucose	GR	EG	52	€ 23,520	
+Q1 - 2024	Glucose	RO	EG	25	€ 11,523	
+Q1 - 2024	Inulin	GB	EG	5	€ 7,649	
+Q1 - 2024	Invert sugars	FR	DZ	53	€ 16,392	
+Q1 - 2024	Invert sugars	GR	EG	4	€ 3,621	
+Q1 - 2024	Invert sugars	IE	SZ	13	€ 23,872	
+Q1 - 2024	Maltodextrine	ES	EG	25	€ 15,661	
+Q1 - 2024	Maltose	FR	DZ	10	€ 2,875	
+Q1 - 2024	Raw sugar for refining	ES	ZA	59,911	€ 41,352,877	€ 690
+Q1 - 2024	Raw sugar for refining	GB	ZA	38,941	€ 26,482,522	€ 680
+Q1 - 2024	White sugar	AT	MU	25	€ 22,550	
+Q1 - 2024	White sugar	BE	DZ	3,014	€ 2,583,234	€ 857
+Q1 - 2024	White sugar	BE	MA	42	€ 53,051	
+Q1 - 2024	White sugar	BE	MU	1,910	€ 1,378,844	€ 722
+Q1 - 2024	White sugar	BE	MW	956	€ 703,395	€ 699
+Q1 - 2024	White sugar	BG	MA	2	€ 1,876	
+Q1 - 2024	White sugar	BG	MU	25	€ 23,250	
+Q1 - 2024	White sugar	BG	MZ	25	€ 25,957	
+Q1 - 2024	White sugar	CY	EG	480	€ 360,682	€ 683
+Q1 - 2024	White sugar	CY	MA	484	€ 323,465	€ 668
+Q1 - 2024	White sugar	CY	MU	395	€ 376,296	€ 943
+Q1 - 2024	White sugar	CZ	MZ	600	€ 492,633	€ 821
+Q1 - 2024	White sugar	DE	MU	166	€ 163,472	
+Q1 - 2024	White sugar	DE	MZ	101	€ 97,300	
+Q1 - 2024	White sugar	DK	MZ	50	€ 52,513	
+Q1 - 2024	White sugar	ES	EG	3,696	€ 2,587,009	€ 693
+Q1 - 2024	White sugar	ES	MA	4,910	€ 3,121,059	€ 634
+Q1 - 2024	White sugar	ES	MU	3,696	€ 3,195,318	€ 864
+Q1 - 2024	White sugar	ES	SZ	645	€ 579,823	€ 899
+Q1 - 2024	White sugar	FR	DZ	1,047	€ 484,229	€ 457
+Q1 - 2024	White sugar	FR	MA	51	€ 83,543	
+Q1 - 2024	White sugar	FR	MU	4,120	€ 3,602,709	€ 874
+Q1 - 2024	White sugar	GB	MU	1,264	€ 1,093,923	€ 822
+Q1 - 2024	White sugar	GB	ZA	3	€ 46,850	
+Q1 - 2024	White sugar	GR	MZ	1,512	€ 1,277,640	€ 845
+Q1 - 2024	White sugar	HR	MU	2	€ 4,469	
+Q1 - 2024	White sugar	HU	MU	0	€ 1,133	
+Q1 - 2024	White sugar	IE	MU	8	€ 17,576	
+Q1 - 2024	White sugar	IT	DZ	597	€ 540,426	€ 879
+Q1 - 2024	White sugar	IT	EG	3,483	€ 3,252,312	€ 928
+Q1 - 2024	White sugar	IT	MA	7	€ 28,257	
+Q1 - 2024	White sugar	IT	MU	2,336	€ 1,870,752	€ 788
+Q1 - 2024	White sugar	IT	MZ	1,249	€ 1,074,491	€ 819
+Q1 - 2024	White sugar	IT	SZ	43	€ 38,886	
+Q1 - 2024	White sugar	LV	MZ	24	€ 27,354	
+Q1 - 2024	White sugar	MT	MU	49	€ 50,110	
+Q1 - 2024	White sugar	NL	MU	3	€ 7,037	
+Q1 - 2024	White sugar	NL	MZ	125	€ 137,562	
+Q1 - 2024	White sugar	NL	ZA	38	€ 43,636	
+Q1 - 2024	White sugar	PL	MU	192	€ 173,212	
+Q1 - 2024	White sugar	PT	MU	0	€ 515	
+Q1 - 2024	White sugar	SE	EG	0	€ 565	
+Q1 - 2024	White sugar	SE	MA	0	€ 482	
+Q1 - 2024	White sugar	SE	ZA	0	€ 3,119	
+Q1 - 2024	White sugar	SI	MU	5	€ 7,683	
+Q1 - 2025	Beet molasses	CY	EG	1	€ 1,343	
+Q1 - 2025	Beet molasses	ES	EG	970	€ 164,900	
+Q1 - 2025	Beet molasses	IT	EG	3,749	€ 603,012	
+Q1 - 2025	Cane molasses	BE	EG	1	€ 1,061	
+Q1 - 2025	Cane molasses	ES	EG	1	€ 1,418	
+Q1 - 2025	Cane molasses	FR	DZ	3,481	€ 985,905	€ 298
+Q1 - 2025	Cane molasses	FR	EG	4	€ 4,265	
+Q1 - 2025	Cane molasses	GB	EG	1	€ 1,689	
+Q1 - 2025	Cane molasses	GB	ZA	582	€ 97,732	€ 170
+Q1 - 2025	Cane molasses	IT	EG	3	€ 2,040	
+Q1 - 2025	Cane molasses	RO	EG	1	€ 624	
+Q1 - 2025	Caramel	FR	DZ	17	€ 8,996	
+Q1 - 2025	DC raws (centrifugal)	AT	MU	192	€ 172,109	
+Q1 - 2025	DC raws (centrifugal)	BE	CM	1	€ 1,672	
+Q1 - 2025	DC raws (centrifugal)	BE	MU	2,655	€ 2,242,795	€ 852
+Q1 - 2025	DC raws (centrifugal)	BE	SZ	3,655	€ 2,589,916	€ 705
+Q1 - 2025	DC raws (centrifugal)	BG	MU	47	€ 42,819	
+Q1 - 2025	DC raws (centrifugal)	BG	SZ	94	€ 72,607	
+Q1 - 2025	DC raws (centrifugal)	CZ	MU	73	€ 65,083	
+Q1 - 2025	DC raws (centrifugal)	CZ	SZ	144	€ 107,730	
+Q1 - 2025	DC raws (centrifugal)	DE	MU	814	€ 664,365	€ 831
+Q1 - 2025	DC raws (centrifugal)	DE	SZ	860	€ 638,602	€ 739
+Q1 - 2025	DC raws (centrifugal)	ES	MU	2,476	€ 1,962,293	€ 792
+Q1 - 2025	DC raws (centrifugal)	ES	SZ	137	€ 104,670	
+Q1 - 2025	DC raws (centrifugal)	FR	MA	1	€ 206	
+Q1 - 2025	DC raws (centrifugal)	FR	MG	15	€ 36,572	
+Q1 - 2025	DC raws (centrifugal)	FR	MU	1,969	€ 1,555,020	€ 790
+Q1 - 2025	DC raws (centrifugal)	FR	SZ	209	€ 186,788	
+Q1 - 2025	DC raws (centrifugal)	GB	MU	4,479	€ 4,078,700	€ 875
+Q1 - 2025	DC raws (centrifugal)	GB	SZ	237	€ 149,872	
+Q1 - 2025	DC raws (centrifugal)	GR	MU	380	€ 304,955	€ 780
+Q1 - 2025	DC raws (centrifugal)	GR	SZ	258	€ 192,210	€ 745
+Q1 - 2025	DC raws (centrifugal)	HR	MU	225	€ 214,504	
+Q1 - 2025	DC raws (centrifugal)	HR	SZ	89	€ 71,714	
+Q1 - 2025	DC raws (centrifugal)	IE	MU	22	€ 39,738	
+Q1 - 2025	DC raws (centrifugal)	IE	SZ	20	€ 13,280	
+Q1 - 2025	DC raws (centrifugal)	IT	MU	2,062	€ 1,711,788	€ 824
+Q1 - 2025	DC raws (centrifugal)	IT	MW	80	€ 72,000	
+Q1 - 2025	DC raws (centrifugal)	IT	SZ	2,173	€ 1,611,959	€ 741
+Q1 - 2025	DC raws (centrifugal)	LT	MU	44	€ 37,032	
+Q1 - 2025	DC raws (centrifugal)	LV	MU	44	€ 38,870	
+Q1 - 2025	DC raws (centrifugal)	MT	MU	5	€ 10,957	
+Q1 - 2025	DC raws (centrifugal)	NL	MU	1	€ 629	
+Q1 - 2025	DC raws (centrifugal)	NL	SZ	302	€ 201,586	
+Q1 - 2025	DC raws (centrifugal)	PL	MU	1,333	€ 1,096,790	€ 819
+Q1 - 2025	DC raws (centrifugal)	PL	MW	20	€ 15,740	
+Q1 - 2025	DC raws (centrifugal)	PL	SZ	24	€ 19,032	
+Q1 - 2025	DC raws (centrifugal)	PT	MU	547	€ 449,902	€ 828
+Q1 - 2025	DC raws (centrifugal)	RO	MU	25	€ 21,251	
+Q1 - 2025	DC raws (centrifugal)	RO	SZ	96	€ 77,116	
+Q1 - 2025	DC raws (centrifugal)	SE	MU	234	€ 208,339	€ 873
+Q1 - 2025	DC raws (centrifugal)	SI	MU	27	€ 28,827	
+Q1 - 2025	DC raws (centrifugal)	SK	MU	75	€ 69,011	
+Q1 - 2025	DC raws (non-centrifugal)	FR	MU	0	€ 163	
+Q1 - 2025	DC raws (non-centrifugal)	IE	MU	0	€ 823	
+Q1 - 2025	DC raws (non-centrifugal)	NL	UG	0	€ 341	
+Q1 - 2025	Fructose	BE	EG	1	€ 2,625	
+Q1 - 2025	Fructose	DE	TN	1	€ 1,512	
+Q1 - 2025	Glucose	BE	EG	50	€ 48,443	
+Q1 - 2025	Glucose	FR	DZ	117	€ 104,482	
+Q1 - 2025	Glucose	GR	EG	390	€ 161,954	
+Q1 - 2025	Invert sugars	FR	DZ	19	€ 6,795	
+Q1 - 2025	Invert sugars	FR	TN	0	€ 293	
+Q1 - 2025	Invert sugars	GB	ZA	0	€ 6,654	
+Q1 - 2025	Invert sugars	IE	SZ	2	€ 3,594	
+Q1 - 2025	Isoglucose	FR	DZ	0	€ 164	
+Q1 - 2025	Maltodextrine	DE	EG	13	€ 9,187	
+Q1 - 2025	Maple sugar	FR	DZ	8	€ 6,070	
+Q1 - 2025	Raw sugar for refining	GB	MZ	39,800	€ 20,798,028	€ 523
+Q1 - 2025	White sugar	BE	MA	89	€ 134,645	
+Q1 - 2025	White sugar	BE	MU	740	€ 483,818	€ 646
+Q1 - 2025	White sugar	BE	MZ	150	€ 171,662	
+Q1 - 2025	White sugar	BE	TN	0	€ 2,704	
+Q1 - 2025	White sugar	BG	MU	25	€ 23,362	
+Q1 - 2025	White sugar	CY	EG	240	€ 144,514	€ 602
+Q1 - 2025	White sugar	DE	MU	287	€ 220,401	
+Q1 - 2025	White sugar	ES	EG	288	€ 172,800	€ 600
+Q1 - 2025	White sugar	ES	MA	6,804	€ 3,568,111	€ 532
+Q1 - 2025	White sugar	ES	MU	2,730	€ 1,705,230	€ 619
+Q1 - 2025	White sugar	ES	SZ	22	€ 16,426	
+Q1 - 2025	White sugar	FR	DZ	1,472	€ 695,997	€ 469
+Q1 - 2025	White sugar	FR	MA	382	€ 311,811	€ 558
+Q1 - 2025	White sugar	FR	MU	2,854	€ 1,879,799	€ 637
+Q1 - 2025	White sugar	FR	TN	3	€ 25,783	
+Q1 - 2025	White sugar	FR	TZ	0	€ 99	
+Q1 - 2025	White sugar	GB	MU	2,822	€ 2,365,435	€ 839
+Q1 - 2025	White sugar	HR	MU	1	€ 2,113	
+Q1 - 2025	White sugar	IE	MU	3	€ 5,325	
+Q1 - 2025	White sugar	IT	EG	1,186	€ 682,835	€ 575
+Q1 - 2025	White sugar	IT	MA	687	€ 384,227	€ 544
+Q1 - 2025	White sugar	IT	MU	624	€ 453,648	€ 727
+Q1 - 2025	White sugar	IT	MZ	185	€ 193,808	
+Q1 - 2025	White sugar	MT	MU	25	€ 26,146	
+Q1 - 2025	White sugar	NL	MA	0	€ 1,914	
+Q1 - 2025	White sugar	NL	MU	2	€ 4,361	
+Q1 - 2025	White sugar	NL	MZ	185	€ 190,942	
+Q1 - 2026	Beet molasses	IT	EG	6,806	€ 1,195,048	
+Q1 - 2026	Cane molasses	FR	DZ	126	€ 12,168	
+Q1 - 2026	Cane molasses	GB	DZ	3,000	€ 899,720	€ 300
+Q1 - 2026	Cane molasses	NL	EG	1	€ 600	
+Q1 - 2026	Caramel	FR	DZ	1	€ 1,705	
+Q1 - 2026	Caramel	IT	EG	0	€ 1,273	
+Q1 - 2026	DC raws (centrifugal)	AT	MU	48	€ 39,347	
+Q1 - 2026	DC raws (centrifugal)	AT	SZ	215	€ 158,772	€ 738
+Q1 - 2026	DC raws (centrifugal)	BE	MU	1,386	€ 1,032,570	€ 745
+Q1 - 2026	DC raws (centrifugal)	BE	MW	189	€ 141,750	
+Q1 - 2026	DC raws (centrifugal)	BE	SZ	301	€ 181,145	€ 602
+Q1 - 2026	DC raws (centrifugal)	BG	MU	24	€ 21,600	
+Q1 - 2026	DC raws (centrifugal)	BG	SZ	24	€ 18,960	
+Q1 - 2026	DC raws (centrifugal)	CZ	MU	118	€ 98,853	
+Q1 - 2026	DC raws (centrifugal)	DE	MU	628	€ 444,223	€ 707
+Q1 - 2026	DC raws (centrifugal)	DE	SZ	151	€ 116,584	
+Q1 - 2026	DC raws (centrifugal)	ES	MU	176	€ 138,160	
+Q1 - 2026	DC raws (centrifugal)	FI	MU	220	€ 165,000	€ 750
+Q1 - 2026	DC raws (centrifugal)	FR	MU	1,062	€ 783,315	€ 738
+Q1 - 2026	DC raws (centrifugal)	FR	SZ	1	€ 853	
+Q1 - 2026	DC raws (centrifugal)	FR	TN	10	€ 11,446	
+Q1 - 2026	DC raws (centrifugal)	GB	MU	274	€ 246,776	
+Q1 - 2026	DC raws (centrifugal)	GR	MU	677	€ 506,599	€ 748
+Q1 - 2026	DC raws (centrifugal)	IE	MU	42	€ 32,922	
+Q1 - 2026	DC raws (centrifugal)	IT	MU	369	€ 308,084	€ 835
+Q1 - 2026	DC raws (centrifugal)	IT	MW	40	€ 36,000	
+Q1 - 2026	DC raws (centrifugal)	LT	MU	244	€ 184,606	€ 757
+Q1 - 2026	DC raws (centrifugal)	LV	MU	24	€ 18,945	
+Q1 - 2026	DC raws (centrifugal)	NL	SZ	430	€ 288,160	€ 670
+Q1 - 2026	DC raws (centrifugal)	PL	MU	892	€ 682,961	€ 766
+Q1 - 2026	DC raws (centrifugal)	PL	SZ	215	€ 147,789	€ 687
+Q1 - 2026	DC raws (centrifugal)	PT	MU	439	€ 348,052	€ 793
+Q1 - 2026	DC raws (centrifugal)	RO	SZ	215	€ 148,674	€ 692
+Q1 - 2026	DC raws (centrifugal)	SE	MU	28	€ 39,381	
+Q1 - 2026	DC raws (centrifugal)	SI	MU	41	€ 60,367	
+Q1 - 2026	DC raws (non-centrifugal)	IE	MU	20	€ 21,994	
+Q1 - 2026	Glucose	FR	DZ	3	€ 1,334	
+Q1 - 2026	Invert sugars	NL	ZA	0	€ 365	
+Q1 - 2026	Lactose	PT	DZ	2	€ 20,497	
+Q1 - 2026	Maltodextrine	GB	GA	5	€ 13,063	
+Q1 - 2026	Maltose	FR	TN	0	€ 902	
+Q1 - 2026	Raw sugar for refining	GB	MZ	36,000	€ 11,870,489	€ 330
+Q1 - 2026	White sugar	BE	MA	2	€ 12,131	
+Q1 - 2026	White sugar	BE	MU	240	€ 132,000	€ 550
+Q1 - 2026	White sugar	CY	MA	22	€ 13,090	
+Q1 - 2026	White sugar	CY	MU	25	€ 18,500	
+Q1 - 2026	White sugar	CZ	MZ	20	€ 19,392	
+Q1 - 2026	White sugar	DE	MU	237	€ 190,677	
+Q1 - 2026	White sugar	ES	EG	448	€ 236,259	€ 527
+Q1 - 2026	White sugar	ES	MA	3,366	€ 1,456,222	€ 433
+Q1 - 2026	White sugar	ES	MU	192	€ 103,680	
+Q1 - 2026	White sugar	FR	DZ	0	€ 672	
+Q1 - 2026	White sugar	FR	MA	446	€ 246,861	€ 497
+Q1 - 2026	White sugar	FR	MU	2,799	€ 1,562,485	€ 552
+Q1 - 2026	White sugar	FR	TN	1	€ 3,019	
+Q1 - 2026	White sugar	GB	MU	131	€ 98,462	
+Q1 - 2026	White sugar	GR	MU	264	€ 134,640	€ 510
+Q1 - 2026	White sugar	IT	EG	1,104	€ 549,111	€ 497
+Q1 - 2026	White sugar	IT	MA	355	€ 198,875	€ 526
+Q1 - 2026	White sugar	IT	MU	274	€ 189,340	
+Q1 - 2026	White sugar	SI	MU	6	€ 8,398	
+Q2 - 2023	Beet molasses	ES	EG	18,272	€ 4,984,878	€ 273
+Q2 - 2023	Beet molasses	GB	EG	1,200	€ 203,120	€ 169
+Q2 - 2023	Beet molasses	IT	EG	17,473	€ 4,961,158	€ 283
+Q2 - 2023	Beet molasses	PT	EG	4,702	€ 1,276,301	€ 271
+Q2 - 2023	Cane molasses	BE	EG	1	€ 2,343	
+Q2 - 2023	Cane molasses	FR	EG	7	€ 12,153	
+Q2 - 2023	Cane molasses	FR	MA	2,593	€ 901,426	€ 348
+Q2 - 2023	Cane molasses	GB	EG	1,816	€ 322,574	€ 171
+Q2 - 2023	Cane molasses	GR	EG	1	€ 1,720	
+Q2 - 2023	Cane molasses	IT	EG	7	€ 3,615	
+Q2 - 2023	Cane molasses	NL	EG	0	€ 90	
+Q2 - 2023	Cane molasses	PL	MU	2	€ 2,786	
+Q2 - 2023	Cane molasses	SI	EG	1	€ 1,448	
+Q2 - 2023	Caramel	FR	DZ	0	€ 1,121	
+Q2 - 2023	Caramel	FR	SZ	0	€ 10,877	
+Q2 - 2023	DC raws (centrifugal)	AT	MU	648	€ 568,079	€ 882
+Q2 - 2023	DC raws (centrifugal)	BE	MU	2,610	€ 2,079,855	€ 789
+Q2 - 2023	DC raws (centrifugal)	BE	SZ	839	€ 501,395	€ 602
+Q2 - 2023	DC raws (centrifugal)	BG	MU	338	€ 296,100	
+Q2 - 2023	DC raws (centrifugal)	BG	MZ	161	€ 131,101	
+Q2 - 2023	DC raws (centrifugal)	BG	SZ	3,127	€ 2,036,811	€ 646
+Q2 - 2023	DC raws (centrifugal)	CY	MU	1	€ 1,691	
+Q2 - 2023	DC raws (centrifugal)	CZ	MU	324	€ 259,636	
+Q2 - 2023	DC raws (centrifugal)	CZ	MZ	20	€ 12,756	
+Q2 - 2023	DC raws (centrifugal)	CZ	SZ	215	€ 155,220	€ 722
+Q2 - 2023	DC raws (centrifugal)	DE	MU	3,092	€ 2,482,254	€ 807
+Q2 - 2023	DC raws (centrifugal)	DE	SZ	516	€ 332,134	€ 644
+Q2 - 2023	DC raws (centrifugal)	EE	MU	15	€ 23,176	
+Q2 - 2023	DC raws (centrifugal)	ES	MU	1,037	€ 824,507	€ 789
+Q2 - 2023	DC raws (centrifugal)	ES	SZ	1,315	€ 884,590	€ 664
+Q2 - 2023	DC raws (centrifugal)	ES	ZA	972	€ 637,693	€ 656
+Q2 - 2023	DC raws (centrifugal)	FI	MU	132	€ 123,108	
+Q2 - 2023	DC raws (centrifugal)	FR	MA	0	€ 165	
+Q2 - 2023	DC raws (centrifugal)	FR	MG	15	€ 35,526	
+Q2 - 2023	DC raws (centrifugal)	FR	MU	980	€ 784,877	€ 801
+Q2 - 2023	DC raws (centrifugal)	FR	SZ	166	€ 123,328	
+Q2 - 2023	DC raws (centrifugal)	GB	MU	4,256	€ 3,799,177	€ 844
+Q2 - 2023	DC raws (centrifugal)	GB	MZ	25	€ 22,985	
+Q2 - 2023	DC raws (centrifugal)	GR	MU	658	€ 543,241	€ 824
+Q2 - 2023	DC raws (centrifugal)	HR	MU	50	€ 39,850	
+Q2 - 2023	DC raws (centrifugal)	HR	SZ	91	€ 65,348	
+Q2 - 2023	DC raws (centrifugal)	IE	MU	2	€ 4,390	
+Q2 - 2023	DC raws (centrifugal)	IT	MU	5,591	€ 6,156,682	€ 1,090
+Q2 - 2023	DC raws (centrifugal)	IT	MW	102	€ 63,230	
+Q2 - 2023	DC raws (centrifugal)	IT	SZ	3,787	€ 2,806,829	€ 748
+Q2 - 2023	DC raws (centrifugal)	LT	MU	389	€ 298,201	€ 867
+Q2 - 2023	DC raws (centrifugal)	LT	SZ	22	€ 18,877	
+Q2 - 2023	DC raws (centrifugal)	LV	MU	24	€ 18,705	
+Q2 - 2023	DC raws (centrifugal)	MT	MU	3	€ 7,622	
+Q2 - 2023	DC raws (centrifugal)	NL	MU	90	€ 79,366	
+Q2 - 2023	DC raws (centrifugal)	NL	SZ	194	€ 124,892	
+Q2 - 2023	DC raws (centrifugal)	PL	MU	1,044	€ 863,589	€ 830
+Q2 - 2023	DC raws (centrifugal)	PL	SZ	196	€ 145,248	
+Q2 - 2023	DC raws (centrifugal)	PT	MU	172	€ 137,564	
+Q2 - 2023	DC raws (centrifugal)	PT	MW	3	€ 5,558	
+Q2 - 2023	DC raws (centrifugal)	PT	MZ	1	€ 203	
+Q2 - 2023	DC raws (centrifugal)	PT	ZA	4	€ 1,833	
+Q2 - 2023	DC raws (centrifugal)	RO	MU	262	€ 222,545	€ 847
+Q2 - 2023	DC raws (centrifugal)	RO	SZ	297	€ 214,362	
+Q2 - 2023	DC raws (centrifugal)	SE	MU	388	€ 375,123	€ 937
+Q2 - 2023	DC raws (centrifugal)	SI	MU	61	€ 52,580	
+Q2 - 2023	DC raws (non-centrifugal)	IE	MU	202	€ 212,884	
+Q2 - 2023	DC raws (non-centrifugal)	IE	MW	0	€ 865	
+Q2 - 2023	Glucose	BE	EG	60	€ 63,252	
+Q2 - 2023	Glucose	DE	SD	3	€ 3,430	
+Q2 - 2023	Glucose	FR	DZ	16	€ 13,376	
+Q2 - 2023	Glucose	GR	EG	26	€ 14,344	
+Q2 - 2023	Glucose	IT	EG	192	€ 98,109	
+Q2 - 2023	Glucose	RO	EG	105	€ 54,228	
+Q2 - 2023	Inulin	GB	EG	2	€ 4,718	
+Q2 - 2023	Invert sugars	DE	MA	17	€ 28,319	
+Q2 - 2023	Invert sugars	ES	EG	50	€ 55,000	
+Q2 - 2023	Invert sugars	ES	MA	24	€ 28,174	
+Q2 - 2023	Invert sugars	FR	DZ	50	€ 21,962	
+Q2 - 2023	Invert sugars	FR	TZ	0	€ 41	
+Q2 - 2023	Invert sugars	GB	EG	6	€ 10,548	
+Q2 - 2023	Invert sugars	IE	SZ	9	€ 16,506	
+Q2 - 2023	Invert sugars	NL	ZA	1	€ 1,523	
+Q2 - 2023	Invert sugars	SE	MA	0	€ 424	
+Q2 - 2023	Isoglucose	FR	DZ	0	€ 195	
+Q2 - 2023	Maltodextrine	ES	EG	25	€ 19,345	
+Q2 - 2023	Maltodextrine	GR	EG	5	€ 4,032	
+Q2 - 2023	Raw sugar for refining	BE	ZA	20,000	€ 13,073,400	€ 654
+Q2 - 2023	Raw sugar for refining	BG	SZ	27,060	€ 17,002,359	€ 628
+Q2 - 2023	Raw sugar for refining	ES	ZA	29,000	€ 18,746,880	€ 646
+Q2 - 2023	Raw sugar for refining	GB	ZA	32,000	€ 17,174,596	€ 537
+Q2 - 2023	Raw sugar for refining	IT	MZ	4,977	€ 3,090,202	€ 621
+Q2 - 2023	Raw sugar for refining	IT	SZ	28,003	€ 17,151,330	€ 612
+Q2 - 2023	Raw sugar for refining	PT	MZ	6,333	€ 3,013,148	€ 476
+Q2 - 2023	Raw sugar for refining	PT	SZ	22,025	€ 10,478,534	€ 476
+Q2 - 2023	White sugar	BE	MA	27	€ 27,194	
+Q2 - 2023	White sugar	BE	MU	170	€ 149,389	
+Q2 - 2023	White sugar	BE	MZ	69	€ 69,917	
+Q2 - 2023	White sugar	BE	SZ	796	€ 599,163	€ 753
+Q2 - 2023	White sugar	BG	MU	117	€ 100,650	
+Q2 - 2023	White sugar	CY	MA	1,256	€ 1,015,612	€ 815
+Q2 - 2023	White sugar	CY	MU	294	€ 283,336	€ 959
+Q2 - 2023	White sugar	DE	MU	409	€ 335,608	
+Q2 - 2023	White sugar	DE	MZ	49	€ 49,815	
+Q2 - 2023	White sugar	EE	MU	5	€ 8,189	
+Q2 - 2023	White sugar	ES	EG	7,998	€ 4,916,998	€ 615
+Q2 - 2023	White sugar	ES	MA	12,386	€ 7,051,582	€ 569
+Q2 - 2023	White sugar	ES	MU	9,287	€ 6,879,936	€ 745
+Q2 - 2023	White sugar	ES	MZ	24	€ 27,168	
+Q2 - 2023	White sugar	ES	SZ	258	€ 186,800	
+Q2 - 2023	White sugar	FR	DZ	3	€ 5,440	
+Q2 - 2023	White sugar	FR	MA	300	€ 209,646	€ 628
+Q2 - 2023	White sugar	FR	MU	3,533	€ 2,869,761	€ 816
+Q2 - 2023	White sugar	FR	MZ	25	€ 24,128	
+Q2 - 2023	White sugar	GB	MU	4,570	€ 3,679,960	€ 822
+Q2 - 2023	White sugar	GB	ZA	452	€ 306,870	€ 621
+Q2 - 2023	White sugar	GR	EG	1,250	€ 1,102,500	€ 882
+Q2 - 2023	White sugar	GR	MU	744	€ 606,032	€ 807
+Q2 - 2023	White sugar	IE	MU	6	€ 11,567	
+Q2 - 2023	White sugar	IT	EG	9,311	€ 6,588,711	€ 716
+Q2 - 2023	White sugar	IT	MA	159	€ 148,009	
+Q2 - 2023	White sugar	IT	MU	13,015	€ 10,516,948	€ 822
+Q2 - 2023	White sugar	IT	MZ	635	€ 628,279	€ 1,083
+Q2 - 2023	White sugar	IT	SZ	387	€ 331,960	€ 840
+Q2 - 2023	White sugar	IT	TZ	1	€ 1,527	
+Q2 - 2023	White sugar	IT	UG	240	€ 248,400	
+Q2 - 2023	White sugar	IT	ZA	22	€ 15,007	
+Q2 - 2023	White sugar	LT	MU	100	€ 88,000	
+Q2 - 2023	White sugar	LV	MZ	23	€ 27,291	
+Q2 - 2023	White sugar	MT	MU	603	€ 575,754	€ 958
+Q2 - 2023	White sugar	NL	MU	0	€ 112	
+Q2 - 2023	White sugar	NL	MZ	351	€ 349,830	€ 1,033
+Q2 - 2023	White sugar	NL	UG	264	€ 273,240	€ 1,035
+Q2 - 2023	White sugar	PL	MU	44	€ 34,518	
+Q2 - 2023	White sugar	PT	MW	5	€ 13,018	
+Q2 - 2023	White sugar	RO	EG	624	€ 294,096	€ 471
+Q2 - 2023	White sugar	SE	ZA	1	€ 2,740	
+Q2 - 2024	Beet molasses	CY	EG	100	€ 30,193	
+Q2 - 2024	Beet molasses	ES	EG	26,402	€ 3,858,174	€ 157
+Q2 - 2024	Beet molasses	FR	DZ	0	€ 192	
+Q2 - 2024	Beet molasses	IT	EG	7,110	€ 1,349,370	€ 184
+Q2 - 2024	Beet molasses	PT	EG	9,394	€ 1,768,519	€ 170
+Q2 - 2024	Beet molasses	PT	ZA	1	€ 330	
+Q2 - 2024	Cane molasses	BE	EG	5	€ 8,406	
+Q2 - 2024	Cane molasses	ES	EG	3,025	€ 603,750	€ 190
+Q2 - 2024	Cane molasses	FR	DZ	570	€ 58,329	
+Q2 - 2024	Cane molasses	FR	EG	14	€ 22,279	
+Q2 - 2024	Cane molasses	GB	MA	5,800	€ 1,502,043	€ 259
+Q2 - 2024	Cane molasses	GB	MZ	20,245	€ 5,753,310	€ 287
+Q2 - 2024	Cane molasses	IT	DZ	2,037	€ 541,404	€ 266
+Q2 - 2024	Cane molasses	PL	MU	2	€ 2,943	
+Q2 - 2024	Caramel	FR	DZ	1	€ 1,404	
+Q2 - 2024	Caramel	GB	DZ	2	€ 2,373	
+Q2 - 2024	Caramel	GB	EG	7	€ 17,263	
+Q2 - 2024	DC raws (beet)	FR	KM	50	€ 56,921	
+Q2 - 2024	DC raws (centrifugal)	AT	MU	576	€ 555,551	€ 965
+Q2 - 2024	DC raws (centrifugal)	BE	CM	1	€ 700	
+Q2 - 2024	DC raws (centrifugal)	BE	MU	1,234	€ 1,031,902	€ 839
+Q2 - 2024	DC raws (centrifugal)	BE	MW	231	€ 136,290	€ 590
+Q2 - 2024	DC raws (centrifugal)	BE	SZ	3,978	€ 2,921,273	€ 740
+Q2 - 2024	DC raws (centrifugal)	BG	MU	202	€ 189,607	
+Q2 - 2024	DC raws (centrifugal)	BG	SZ	72	€ 58,340	
+Q2 - 2024	DC raws (centrifugal)	CY	MU	1	€ 2,740	
+Q2 - 2024	DC raws (centrifugal)	CZ	MU	235	€ 215,042	
+Q2 - 2024	DC raws (centrifugal)	CZ	SZ	903	€ 727,321	€ 796
+Q2 - 2024	DC raws (centrifugal)	DE	MU	1,136	€ 1,039,040	€ 910
+Q2 - 2024	DC raws (centrifugal)	DE	MW	84	€ 74,802	
+Q2 - 2024	DC raws (centrifugal)	DE	SZ	1,675	€ 1,294,644	€ 758
+Q2 - 2024	DC raws (centrifugal)	EE	MU	10	€ 16,086	
+Q2 - 2024	DC raws (centrifugal)	ES	MU	1,505	€ 1,372,698	€ 908
+Q2 - 2024	DC raws (centrifugal)	FI	MU	218	€ 216,349	€ 992
+Q2 - 2024	DC raws (centrifugal)	FR	MG	16	€ 43,903	
+Q2 - 2024	DC raws (centrifugal)	FR	MU	1,598	€ 1,429,433	€ 899
+Q2 - 2024	DC raws (centrifugal)	FR	SZ	215	€ 176,164	
+Q2 - 2024	DC raws (centrifugal)	GB	MU	3,385	€ 3,221,207	€ 965
+Q2 - 2024	DC raws (centrifugal)	GB	MZ	25	€ 25,265	
+Q2 - 2024	DC raws (centrifugal)	GB	SZ	215	€ 185,894	
+Q2 - 2024	DC raws (centrifugal)	GB	ZA	22	€ 17,620	
+Q2 - 2024	DC raws (centrifugal)	GR	MU	576	€ 530,760	€ 919
+Q2 - 2024	DC raws (centrifugal)	GR	SZ	244	€ 197,735	€ 812
+Q2 - 2024	DC raws (centrifugal)	HR	MU	179	€ 167,708	
+Q2 - 2024	DC raws (centrifugal)	HR	SZ	43	€ 35,366	
+Q2 - 2024	DC raws (centrifugal)	HU	SZ	65	€ 49,890	
+Q2 - 2024	DC raws (centrifugal)	IE	MU	4	€ 8,172	
+Q2 - 2024	DC raws (centrifugal)	IT	MU	3,489	€ 3,182,259	€ 897
+Q2 - 2024	DC raws (centrifugal)	IT	MW	20	€ 20,000	
+Q2 - 2024	DC raws (centrifugal)	IT	MZ	151	€ 114,380	
+Q2 - 2024	DC raws (centrifugal)	IT	SZ	3,525	€ 2,710,415	€ 767
+Q2 - 2024	DC raws (centrifugal)	LT	MU	593	€ 521,774	€ 854
+Q2 - 2024	DC raws (centrifugal)	LV	MU	22	€ 19,780	
+Q2 - 2024	DC raws (centrifugal)	MT	MU	24	€ 26,281	
+Q2 - 2024	DC raws (centrifugal)	NL	MA	0	€ 210	
+Q2 - 2024	DC raws (centrifugal)	NL	MU	21	€ 30,412	
+Q2 - 2024	DC raws (centrifugal)	NL	MZ	80	€ 78,875	
+Q2 - 2024	DC raws (centrifugal)	NL	SZ	473	€ 326,909	€ 701
+Q2 - 2024	DC raws (centrifugal)	PL	MU	1,064	€ 964,378	€ 907
+Q2 - 2024	DC raws (centrifugal)	PL	SZ	110	€ 93,149	
+Q2 - 2024	DC raws (centrifugal)	PT	MU	885	€ 835,140	€ 949
+Q2 - 2024	DC raws (centrifugal)	PT	SZ	258	€ 220,074	
+Q2 - 2024	DC raws (centrifugal)	RO	MU	25	€ 22,675	
+Q2 - 2024	DC raws (centrifugal)	RO	SZ	1,254	€ 984,534	€ 781
+Q2 - 2024	DC raws (centrifugal)	SE	MU	460	€ 491,901	€ 1,012
+Q2 - 2024	DC raws (centrifugal)	SI	MU	65	€ 91,404	
+Q2 - 2024	DC raws (centrifugal)	SK	MU	50	€ 47,173	
+Q2 - 2024	DC raws (non-centrifugal)	FR	MU	0	€ 634	
+Q2 - 2024	DC raws (non-centrifugal)	IE	MA	0	€ 741	
+Q2 - 2024	DC raws (non-centrifugal)	IE	MU	322	€ 359,133	
+Q2 - 2024	Fructose	DE	EG	1	€ 1,011	
+Q2 - 2024	Glucose	AT	UG	19	€ 24,510	
+Q2 - 2024	Glucose	FR	DZ	7	€ 11,540	
+Q2 - 2024	Glucose	PT	EG	24	€ 10,513	
+Q2 - 2024	Glucose	RO	EG	105	€ 47,182	
+Q2 - 2024	Invert sugars	FR	DZ	7	€ 3,720	
+Q2 - 2024	Invert sugars	FR	ZA	0	€ 12,334	
+Q2 - 2024	Invert sugars	HR	ZA	0	€ 1,325	
+Q2 - 2024	Invert sugars	IE	SZ	20	€ 37,174	
+Q2 - 2024	Maltodextrine	DE	EG	25	€ 17,323	
+Q2 - 2024	Maltodextrine	ES	EG	25	€ 15,769	
+Q2 - 2024	Maltose	FR	DZ	2	€ 185	
+Q2 - 2024	Maple sugar	FR	MG	0	€ 500	
+Q2 - 2024	Raw sugar for refining	GB	SZ	32,160	€ 21,859,860	
+Q2 - 2024	Raw sugar for refining	IT	SZ	31,789	€ 17,509,378	€ 551
+Q2 - 2024	White sugar	BE	EG	48	€ 34,172	
+Q2 - 2024	White sugar	BE	MA	82	€ 91,650	
+Q2 - 2024	White sugar	BE	MU	577	€ 535,871	€ 931
+Q2 - 2024	White sugar	BE	MW	252	€ 148,680	€ 590
+Q2 - 2024	White sugar	BE	MZ	60	€ 64,056	
+Q2 - 2024	White sugar	BG	MU	25	€ 23,250	
+Q2 - 2024	White sugar	BG	SZ	24	€ 19,501	
+Q2 - 2024	White sugar	CY	EG	1,416	€ 1,034,497	€ 745
+Q2 - 2024	White sugar	CY	MA	396	€ 232,140	€ 586
+Q2 - 2024	White sugar	CY	MU	28	€ 28,725	
+Q2 - 2024	White sugar	DE	MU	326	€ 259,872	
+Q2 - 2024	White sugar	DK	SZ	22	€ 19,666	
+Q2 - 2024	White sugar	EE	MU	10	€ 16,350	
+Q2 - 2024	White sugar	ES	EG	8,214	€ 5,624,556	€ 684
+Q2 - 2024	White sugar	ES	MA	11,537	€ 7,795,819	€ 675
+Q2 - 2024	White sugar	ES	MU	7,776	€ 6,707,422	€ 863
+Q2 - 2024	White sugar	ES	SZ	538	€ 439,381	€ 817
+Q2 - 2024	White sugar	FR	DZ	1	€ 1,342	
+Q2 - 2024	White sugar	FR	MA	951	€ 789,752	€ 799
+Q2 - 2024	White sugar	FR	MU	4,995	€ 4,221,094	€ 828
+Q2 - 2024	White sugar	FR	MZ	126	€ 123,450	
+Q2 - 2024	White sugar	GB	MU	2,601	€ 2,174,294	€ 831
+Q2 - 2024	White sugar	GB	MW	40	€ 35,900	
+Q2 - 2024	White sugar	GB	MZ	25	€ 25,996	
+Q2 - 2024	White sugar	GB	ZA	50	€ 47,861	
+Q2 - 2024	White sugar	GR	MU	50	€ 43,500	
+Q2 - 2024	White sugar	HU	MU	0	€ 1,222	
+Q2 - 2024	White sugar	IT	EG	4,159	€ 2,681,261	€ 679
+Q2 - 2024	White sugar	IT	MA	645	€ 434,869	€ 660
+Q2 - 2024	White sugar	IT	MU	3,880	€ 3,090,496	€ 810
+Q2 - 2024	White sugar	IT	MZ	160	€ 164,153	
+Q2 - 2024	White sugar	IT	SZ	74	€ 61,063	
+Q2 - 2024	White sugar	LT	MU	5	€ 4,575	
+Q2 - 2024	White sugar	MT	MU	149	€ 153,570	
+Q2 - 2024	White sugar	NL	MU	1	€ 2,443	
+Q2 - 2024	White sugar	NL	MZ	317	€ 310,228	
+Q2 - 2024	White sugar	NL	ZA	85	€ 97,176	
+Q2 - 2024	White sugar	PT	MW	6	€ 17,863	
+Q2 - 2024	White sugar	PT	ZA	1	€ 330	
+Q2 - 2024	White sugar	SE	ZA	0	€ 3,368	
+Q2 - 2025	Beet molasses	ES	EG	21,716	€ 2,643,352	
+Q2 - 2025	Beet molasses	FR	DZ	0	€ 125	
+Q2 - 2025	Beet molasses	GB	EG	9,652	€ 1,812,165	€ 187
+Q2 - 2025	Beet molasses	GB	ZA	5	€ 27,315	
+Q2 - 2025	Beet molasses	IT	EG	7,649	€ 1,290,349	
+Q2 - 2025	Beet molasses	IT	ZA	1	€ 11,160	
+Q2 - 2025	Beet molasses	PT	EG	7,170	€ 1,193,772	
+Q2 - 2025	Cane molasses	AT	EG	2	€ 3,480	
+Q2 - 2025	Cane molasses	CY	EG	2	€ 618	
+Q2 - 2025	Cane molasses	DE	EG	146	€ 43,603	
+Q2 - 2025	Cane molasses	FR	DZ	414	€ 41,366	
+Q2 - 2025	Cane molasses	FR	MA	3,938	€ 890,811	€ 226
+Q2 - 2025	Cane molasses	GB	DZ	2,800	€ 914,918	€ 327
+Q2 - 2025	Cane molasses	GB	MA	3,000	€ 780,055	€ 260
+Q2 - 2025	Cane molasses	GB	ZA	446	€ 65,171	€ 146
+Q2 - 2025	Cane molasses	GR	EG	0	€ 175	
+Q2 - 2025	Cane molasses	IE	EG	5,150	€ 922,426	€ 179
+Q2 - 2025	Cane molasses	IT	EG	20	€ 24,222	
+Q2 - 2025	Cane molasses	RO	EG	1	€ 669	
+Q2 - 2025	Cane molasses	SI	EG	0	€ 372	
+Q2 - 2025	Caramel	FR	DZ	1	€ 1,407	
+Q2 - 2025	Caramel	SI	ZA	5	€ 23,897	
+Q2 - 2025	DC raws (beet)	LT	MU	50	€ 38,675	
+Q2 - 2025	DC raws (centrifugal)	AT	MU	49	€ 42,813	
+Q2 - 2025	DC raws (centrifugal)	BE	MU	2,740	€ 2,211,310	€ 807
+Q2 - 2025	DC raws (centrifugal)	BE	SZ	4,257	€ 2,968,437	€ 701
+Q2 - 2025	DC raws (centrifugal)	BG	MU	585	€ 455,147	€ 749
+Q2 - 2025	DC raws (centrifugal)	BG	SZ	22	€ 16,985	
+Q2 - 2025	DC raws (centrifugal)	CY	MU	2	€ 3,629	
+Q2 - 2025	DC raws (centrifugal)	CZ	MU	1,228	€ 975,848	€ 795
+Q2 - 2025	DC raws (centrifugal)	CZ	SZ	22	€ 15,888	
+Q2 - 2025	DC raws (centrifugal)	DE	MU	1,709	€ 1,366,791	€ 796
+Q2 - 2025	DC raws (centrifugal)	DE	SZ	1,161	€ 893,255	€ 769
+Q2 - 2025	DC raws (centrifugal)	ES	MU	2,464	€ 2,007,465	€ 834
+Q2 - 2025	DC raws (centrifugal)	ES	SZ	43	€ 33,110	
+Q2 - 2025	DC raws (centrifugal)	FI	MU	110	€ 93,830	
+Q2 - 2025	DC raws (centrifugal)	FR	MA	0	€ 107	
+Q2 - 2025	DC raws (centrifugal)	FR	MG	3	€ 7,640	
+Q2 - 2025	DC raws (centrifugal)	FR	MU	2,402	€ 1,922,842	€ 794
+Q2 - 2025	DC raws (centrifugal)	FR	SZ	1,068	€ 843,388	€ 787
+Q2 - 2025	DC raws (centrifugal)	FR	ZA	2	€ 1,650	
+Q2 - 2025	DC raws (centrifugal)	GB	MU	4,090	€ 3,754,167	€ 883
+Q2 - 2025	DC raws (centrifugal)	GB	SZ	43	€ 26,459	
+Q2 - 2025	DC raws (centrifugal)	GR	MU	926	€ 710,260	€ 770
+Q2 - 2025	DC raws (centrifugal)	GR	SZ	495	€ 358,188	€ 723
+Q2 - 2025	DC raws (centrifugal)	HR	MU	250	€ 212,750	
+Q2 - 2025	DC raws (centrifugal)	HU	MU	1	€ 2,068	
+Q2 - 2025	DC raws (centrifugal)	HU	SZ	43	€ 30,324	
+Q2 - 2025	DC raws (centrifugal)	IE	MU	6	€ 11,525	
+Q2 - 2025	DC raws (centrifugal)	IT	MU	3,412	€ 2,784,014	€ 810
+Q2 - 2025	DC raws (centrifugal)	IT	MW	100	€ 90,000	
+Q2 - 2025	DC raws (centrifugal)	IT	MZ	144	€ 100,224	
+Q2 - 2025	DC raws (centrifugal)	IT	SZ	5,105	€ 3,672,805	€ 720
+Q2 - 2025	DC raws (centrifugal)	LT	MU	1,084	€ 909,423	€ 852
+Q2 - 2025	DC raws (centrifugal)	LV	MU	66	€ 58,515	
+Q2 - 2025	DC raws (centrifugal)	MT	MU	20	€ 22,547	
+Q2 - 2025	DC raws (centrifugal)	NL	MU	23	€ 34,780	
+Q2 - 2025	DC raws (centrifugal)	NL	SZ	199	€ 135,635	
+Q2 - 2025	DC raws (centrifugal)	PL	MU	2,588	€ 2,025,328	€ 779
+Q2 - 2025	DC raws (centrifugal)	PT	MU	393	€ 326,319	
+Q2 - 2025	DC raws (centrifugal)	RO	MU	74	€ 64,667	
+Q2 - 2025	DC raws (centrifugal)	RO	SZ	264	€ 204,430	
+Q2 - 2025	DC raws (centrifugal)	SE	MU	415	€ 428,452	€ 974
+Q2 - 2025	DC raws (centrifugal)	SI	MU	164	€ 202,921	
+Q2 - 2025	DC raws (non-centrifugal)	BE	MU	2	€ 1,980	
+Q2 - 2025	DC raws (non-centrifugal)	FR	MU	24	€ 26,407	
+Q2 - 2025	DC raws (non-centrifugal)	IE	MU	232	€ 244,127	
+Q2 - 2025	DC raws (non-centrifugal)	IE	MW	0	€ 368	
+Q2 - 2025	Fructose	NL	EG	8	€ 15,724	
+Q2 - 2025	Glucose	BE	MA	4	€ 4,300	
+Q2 - 2025	Glucose	FR	DZ	2	€ 2,206	
+Q2 - 2025	Glucose	GR	EG	26	€ 10,591	
+Q2 - 2025	Invert sugars	FR	DZ	11	€ 4,708	
+Q2 - 2025	Invert sugars	FR	TN	2	€ 2,710	
+Q2 - 2025	Invert sugars	GB	ZA	0	€ 8,814	
+Q2 - 2025	Invert sugars	IE	SZ	5	€ 9,325	
+Q2 - 2025	Maltodextrine	ES	EG	25	€ 15,960	
+Q2 - 2025	Maple sugar	FR	DZ	4	€ 3,000	
+Q2 - 2025	Raw sugar for refining	GB	MZ	38,500	€ 23,295,540	€ 605
+Q2 - 2025	White sugar	AT	MU	25	€ 21,235	
+Q2 - 2025	White sugar	BE	MA	26	€ 36,214	
+Q2 - 2025	White sugar	BE	MU	744	€ 461,390	€ 617
+Q2 - 2025	White sugar	BE	MZ	60	€ 56,840	
+Q2 - 2025	White sugar	BG	EG	270	€ 151,200	€ 560
+Q2 - 2025	White sugar	BG	MU	25	€ 20,336	
+Q2 - 2025	White sugar	DE	MU	453	€ 353,392	€ 767
+Q2 - 2025	White sugar	ES	EG	1,632	€ 797,168	€ 488
+Q2 - 2025	White sugar	ES	MA	2,960	€ 1,464,857	€ 493
+Q2 - 2025	White sugar	ES	MU	1,437	€ 883,080	€ 570
+Q2 - 2025	White sugar	FR	DZ	893	€ 390,819	€ 437
+Q2 - 2025	White sugar	FR	MA	245	€ 137,229	€ 556
+Q2 - 2025	White sugar	FR	MU	3,855	€ 2,327,472	€ 602
+Q2 - 2025	White sugar	FR	MZ	40	€ 46,120	
+Q2 - 2025	White sugar	FR	TN	12	€ 38,168	
+Q2 - 2025	White sugar	GB	MU	2,102	€ 1,834,315	€ 877
+Q2 - 2025	White sugar	HU	MU	0	€ 220	
+Q2 - 2025	White sugar	IE	MU	4	€ 7,917	
+Q2 - 2025	White sugar	IT	EG	1,330	€ 756,118	€ 568
+Q2 - 2025	White sugar	IT	MA	863	€ 451,974	€ 513
+Q2 - 2025	White sugar	IT	MU	1,276	€ 922,881	€ 726
+Q2 - 2025	White sugar	IT	MZ	505	€ 542,907	€ 1,078
+Q2 - 2025	White sugar	LT	MU	49	€ 40,285	
+Q2 - 2025	White sugar	MT	MU	6	€ 4,860	
+Q2 - 2025	White sugar	NL	MZ	144	€ 166,608	
+Q2 - 2025	White sugar	SI	DZ	0	€ 233	
+Q2 - 2025	White sugar	SI	MU	10	€ 14,038	
+Q3 - 2023	Beet molasses	CY	EG	3	€ 1,434	
+Q3 - 2023	Beet molasses	DK	EG	0	€ 35	
+Q3 - 2023	Beet molasses	ES	EG	31,900	€ 6,559,903	€ 207
+Q3 - 2023	Beet molasses	GB	EG	1,919	€ 306,085	
+Q3 - 2023	Beet molasses	IT	EG	20,139	€ 4,965,198	€ 247
+Q3 - 2023	Beet molasses	SE	EG	2	€ 3,267	
+Q3 - 2023	Cane molasses	FI	MZ	23	€ 15,678	
+Q3 - 2023	Cane molasses	FR	DZ	72	€ 10,680	
+Q3 - 2023	Cane molasses	GB	EG	915	€ 148,641	€ 160
+Q3 - 2023	Cane molasses	GB	MZ	3,250	€ 954,536	€ 294
+Q3 - 2023	Cane molasses	GR	EG	12	€ 27,057	
+Q3 - 2023	Cane molasses	IE	EG	0	€ 474	
+Q3 - 2023	Cane molasses	IT	DZ	2,821	€ 746,382	€ 265
+Q3 - 2023	Cane molasses	NL	EG	0	€ 225	
+Q3 - 2023	Cane molasses	NL	MZ	1	€ 419	
+Q3 - 2023	Cane molasses	PT	MZ	3,151	€ 969,464	€ 308
+Q3 - 2023	Caramel	FR	SZ	0	€ 18,466	
+Q3 - 2023	Caramel	NL	ZA	4	€ 3,655	
+Q3 - 2023	DC raws (centrifugal)	AT	MU	384	€ 331,819	€ 864
+Q3 - 2023	DC raws (centrifugal)	BE	SZ	3,118	€ 1,777,734	€ 578
+Q3 - 2023	DC raws (centrifugal)	BG	MU	165	€ 141,684	
+Q3 - 2023	DC raws (centrifugal)	BG	SZ	156	€ 115,745	
+Q3 - 2023	DC raws (centrifugal)	CZ	MU	222	€ 191,673	
+Q3 - 2023	DC raws (centrifugal)	CZ	MW	300	€ 165,088	€ 550
+Q3 - 2023	DC raws (centrifugal)	CZ	SZ	774	€ 620,252	€ 804
+Q3 - 2023	DC raws (centrifugal)	DE	EG	0	€ 1,297	
+Q3 - 2023	DC raws (centrifugal)	DE	MU	3,452	€ 2,747,308	€ 792
+Q3 - 2023	DC raws (centrifugal)	DE	SZ	1,333	€ 990,737	€ 745
+Q3 - 2023	DC raws (centrifugal)	EE	MU	2	€ 3,020	
+Q3 - 2023	DC raws (centrifugal)	ES	MU	585	€ 487,041	€ 855
+Q3 - 2023	DC raws (centrifugal)	FR	MA	0	€ 324	
+Q3 - 2023	DC raws (centrifugal)	FR	MU	702	€ 561,480	€ 810
+Q3 - 2023	DC raws (centrifugal)	FR	SZ	72	€ 53,280	
+Q3 - 2023	DC raws (centrifugal)	GB	MU	2,362	€ 2,128,259	€ 890
+Q3 - 2023	DC raws (centrifugal)	GB	MZ	51	€ 47,172	
+Q3 - 2023	DC raws (centrifugal)	GB	SZ	43	€ 36,145	
+Q3 - 2023	DC raws (centrifugal)	GB	ZA	346	€ 269,184	€ 757
+Q3 - 2023	DC raws (centrifugal)	GR	MU	650	€ 542,804	€ 840
+Q3 - 2023	DC raws (centrifugal)	GR	SZ	516	€ 412,585	€ 820
+Q3 - 2023	DC raws (centrifugal)	HR	MU	25	€ 19,925	
+Q3 - 2023	DC raws (centrifugal)	HR	SZ	165	€ 130,931	
+Q3 - 2023	DC raws (centrifugal)	HU	MU	0	€ 655	
+Q3 - 2023	DC raws (centrifugal)	IE	MU	4	€ 7,346	
+Q3 - 2023	DC raws (centrifugal)	IE	SZ	43	€ 37,539	
+Q3 - 2023	DC raws (centrifugal)	IT	MU	840	€ 821,007	€ 1,005
+Q3 - 2023	DC raws (centrifugal)	IT	SZ	2,781	€ 2,192,765	€ 799
+Q3 - 2023	DC raws (centrifugal)	LT	MU	462	€ 370,629	€ 783
+Q3 - 2023	DC raws (centrifugal)	LT	SZ	22	€ 18,877	
+Q3 - 2023	DC raws (centrifugal)	LV	MU	70	€ 55,275	
+Q3 - 2023	DC raws (centrifugal)	MT	MU	3	€ 6,712	
+Q3 - 2023	DC raws (centrifugal)	NL	MU	21	€ 30,719	
+Q3 - 2023	DC raws (centrifugal)	NL	MZ	50	€ 48,102	
+Q3 - 2023	DC raws (centrifugal)	PL	MU	2,666	€ 2,150,040	€ 798
+Q3 - 2023	DC raws (centrifugal)	PL	SZ	89	€ 62,332	
+Q3 - 2023	DC raws (centrifugal)	PT	MU	171	€ 137,307	
+Q3 - 2023	DC raws (centrifugal)	PT	MW	4	€ 7,421	
+Q3 - 2023	DC raws (centrifugal)	PT	MZ	0	€ 188	
+Q3 - 2023	DC raws (centrifugal)	PT	SZ	196	€ 156,162	
+Q3 - 2023	DC raws (centrifugal)	RO	MU	26	€ 21,238	
+Q3 - 2023	DC raws (centrifugal)	RO	SZ	383	€ 267,669	€ 669
+Q3 - 2023	DC raws (centrifugal)	SE	MU	74	€ 144,942	
+Q3 - 2023	DC raws (centrifugal)	SI	MU	146	€ 169,075	
+Q3 - 2023	DC raws (non-centrifugal)	GB	MU	24	€ 19,818	
+Q3 - 2023	DC raws (non-centrifugal)	IE	MU	44	€ 44,900	
+Q3 - 2023	DC raws (non-centrifugal)	IE	MW	0	€ 1,106	
+Q3 - 2023	Glucose	FR	DZ	3	€ 3,431	
+Q3 - 2023	Glucose	GB	EG	12	€ 14,637	
+Q3 - 2023	Glucose	GR	EG	52	€ 27,999	
+Q3 - 2023	Glucose	IE	ZA	1	€ 2,723	
+Q3 - 2023	Glucose	IT	EG	96	€ 49,136	
+Q3 - 2023	Glucose	RO	EG	78	€ 36,757	
+Q3 - 2023	Invert sugars	ES	EG	50	€ 55,000	
+Q3 - 2023	Invert sugars	FR	DZ	9	€ 5,381	
+Q3 - 2023	Invert sugars	IE	SZ	3	€ 6,333	
+Q3 - 2023	Invert sugars	NL	ZA	2	€ 7,659	
+Q3 - 2023	Invert sugars	SE	MA	0	€ 346	
+Q3 - 2023	Maltodextrine	DE	EG	25	€ 19,822	
+Q3 - 2023	Maltodextrine	ES	EG	25	€ 20,255	
+Q3 - 2023	Raw sugar for refining	BG	ZA	26,800	€ 17,916,611	€ 669
+Q3 - 2023	Raw sugar for refining	GB	ZA	39,000	€ 20,785,399	€ 533
+Q3 - 2023	Raw sugar for refining	IT	MZ	3,217	€ 1,736,659	€ 540
+Q3 - 2023	Raw sugar for refining	IT	ZW	24,994	€ 12,921,063	€ 517
+Q3 - 2023	White sugar	BE	CM	1	€ 442	
+Q3 - 2023	White sugar	BE	DZ	763	€ 656,045	€ 859
+Q3 - 2023	White sugar	BE	MU	1,032	€ 760,711	€ 732
+Q3 - 2023	White sugar	BG	MU	68	€ 58,685	
+Q3 - 2023	White sugar	CY	EG	1,080	€ 879,454	€ 814
+Q3 - 2023	White sugar	CY	MA	742	€ 557,610	€ 688
+Q3 - 2023	White sugar	CY	MU	25	€ 23,975	
+Q3 - 2023	White sugar	DE	MU	73	€ 72,282	
+Q3 - 2023	White sugar	DE	MZ	24	€ 26,773	
+Q3 - 2023	White sugar	EE	MU	1	€ 1,063	
+Q3 - 2023	White sugar	ES	EG	4,330	€ 2,733,706	€ 673
+Q3 - 2023	White sugar	ES	MA	15,004	€ 8,457,163	€ 565
+Q3 - 2023	White sugar	ES	MU	12,533	€ 10,108,403	€ 813
+Q3 - 2023	White sugar	ES	MZ	24	€ 26,400	
+Q3 - 2023	White sugar	ES	SZ	1,720	€ 1,631,123	€ 928
+Q3 - 2023	White sugar	FR	DZ	1,594	€ 703,785	€ 445
+Q3 - 2023	White sugar	FR	MA	23	€ 41,164	
+Q3 - 2023	White sugar	FR	MU	4,964	€ 4,187,585	€ 842
+Q3 - 2023	White sugar	FR	MZ	227	€ 213,129	
+Q3 - 2023	White sugar	FR	TZ	0	€ 153	
+Q3 - 2023	White sugar	GB	MA	25	€ 20,410	
+Q3 - 2023	White sugar	GB	MU	1,212	€ 1,107,689	€ 829
+Q3 - 2023	White sugar	GB	MW	160	€ 107,293	
+Q3 - 2023	White sugar	GB	ZA	215	€ 183,059	€ 851
+Q3 - 2023	White sugar	GR	EG	1,075	€ 800,125	€ 746
+Q3 - 2023	White sugar	GR	MA	250	€ 219,250	€ 877
+Q3 - 2023	White sugar	GR	MU	100	€ 92,000	
+Q3 - 2023	White sugar	GR	MW	23	€ 14,175	
+Q3 - 2023	White sugar	HU	MU	0	€ 171	
+Q3 - 2023	White sugar	IE	MU	3	€ 5,533	
+Q3 - 2023	White sugar	IT	EG	5,948	€ 4,695,268	€ 786
+Q3 - 2023	White sugar	IT	MA	59	€ 49,896	
+Q3 - 2023	White sugar	IT	MU	9,853	€ 9,179,461	€ 917
+Q3 - 2023	White sugar	IT	MZ	315	€ 302,652	€ 940
+Q3 - 2023	White sugar	IT	SZ	2,731	€ 2,522,640	€ 944
+Q3 - 2023	White sugar	LT	MU	525	€ 410,625	€ 719
+Q3 - 2023	White sugar	LV	MZ	24	€ 27,433	
+Q3 - 2023	White sugar	MT	MU	387	€ 368,715	
+Q3 - 2023	White sugar	NL	MZ	877	€ 880,649	€ 979
+Q3 - 2023	White sugar	NL	ZA	25	€ 55,386	
+Q3 - 2023	White sugar	PL	MU	75	€ 57,406	
+Q3 - 2023	White sugar	PT	MW	4	€ 10,826	
+Q3 - 2023	White sugar	PT	ZA	0	€ 151	
+Q3 - 2023	White sugar	SI	MU	14	€ 20,841	
+Q3 - 2024	Beet molasses	CY	EG	48	€ 14,538	
+Q3 - 2024	Beet molasses	DE	EG	1	€ 604	
+Q3 - 2024	Beet molasses	ES	EG	28,460	€ 4,020,723	€ 143
+Q3 - 2024	Beet molasses	GB	EG	5	€ 5,537	
+Q3 - 2024	Beet molasses	GB	ZA	5	€ 29,350	
+Q3 - 2024	Beet molasses	IT	EG	5,058	€ 792,266	€ 155
+Q3 - 2024	Beet molasses	IT	ZA	0	€ 2,626	
+Q3 - 2024	Beet molasses	PT	EG	6,293	€ 1,242,880	€ 197
+Q3 - 2024	Cane molasses	BE	EG	5	€ 9,036	
+Q3 - 2024	Cane molasses	DE	EG	0	€ 57	
+Q3 - 2024	Cane molasses	DE	ZA	0	€ 89	
+Q3 - 2024	Cane molasses	FR	DZ	484	€ 57,155	
+Q3 - 2024	Cane molasses	GB	DZ	3,000	€ 1,338,808	
+Q3 - 2024	Cane molasses	GR	EG	1	€ 639	
+Q3 - 2024	Caramel	FR	DZ	9	€ 3,415	
+Q3 - 2024	Caramel	FR	EG	0	€ 301	
+Q3 - 2024	Caramel	GB	EG	0	€ 1,659	
+Q3 - 2024	DC raws (centrifugal)	BE	CM	1	€ 770	
+Q3 - 2024	DC raws (centrifugal)	BE	MU	2,185	€ 1,893,439	€ 849
+Q3 - 2024	DC raws (centrifugal)	BE	MW	672	€ 414,330	€ 590
+Q3 - 2024	DC raws (centrifugal)	BE	SZ	1,978	€ 1,429,257	€ 721
+Q3 - 2024	DC raws (centrifugal)	BG	MU	220	€ 207,093	
+Q3 - 2024	DC raws (centrifugal)	BG	SZ	72	€ 59,307	
+Q3 - 2024	DC raws (centrifugal)	CY	MU	1	€ 1,071	
+Q3 - 2024	DC raws (centrifugal)	CZ	MU	472	€ 417,927	€ 887
+Q3 - 2024	DC raws (centrifugal)	CZ	SZ	430	€ 371,144	€ 859
+Q3 - 2024	DC raws (centrifugal)	DE	EG	1	€ 1,368	
+Q3 - 2024	DC raws (centrifugal)	DE	MU	1,170	€ 1,096,918	€ 937
+Q3 - 2024	DC raws (centrifugal)	DE	MW	80	€ 71,224	
+Q3 - 2024	DC raws (centrifugal)	DE	SZ	1,654	€ 1,235,331	€ 732
+Q3 - 2024	DC raws (centrifugal)	ES	MU	2,337	€ 2,115,239	€ 904
+Q3 - 2024	DC raws (centrifugal)	ES	SZ	43	€ 32,465	
+Q3 - 2024	DC raws (centrifugal)	FI	MU	132	€ 129,699	
+Q3 - 2024	DC raws (centrifugal)	FR	MU	1,552	€ 1,360,569	€ 876
+Q3 - 2024	DC raws (centrifugal)	GB	MU	4,604	€ 4,374,861	€ 965
+Q3 - 2024	DC raws (centrifugal)	GB	MZ	25	€ 25,207	
+Q3 - 2024	DC raws (centrifugal)	GB	SZ	22	€ 13,982	
+Q3 - 2024	DC raws (centrifugal)	GB	ZA	258	€ 223,955	
+Q3 - 2024	DC raws (centrifugal)	GR	MU	176	€ 156,754	
+Q3 - 2024	DC raws (centrifugal)	GR	SZ	115	€ 93,245	
+Q3 - 2024	DC raws (centrifugal)	HR	MU	100	€ 92,000	
+Q3 - 2024	DC raws (centrifugal)	HR	SZ	46	€ 36,752	
+Q3 - 2024	DC raws (centrifugal)	HU	MU	1	€ 1,702	
+Q3 - 2024	DC raws (centrifugal)	IE	MU	59	€ 95,023	
+Q3 - 2024	DC raws (centrifugal)	IT	MU	1,652	€ 1,513,523	€ 930
+Q3 - 2024	DC raws (centrifugal)	IT	MW	100	€ 100,000	
+Q3 - 2024	DC raws (centrifugal)	IT	SZ	2,196	€ 1,642,320	€ 739
+Q3 - 2024	DC raws (centrifugal)	LT	MU	175	€ 146,600	
+Q3 - 2024	DC raws (centrifugal)	LT	SZ	52	€ 44,824	
+Q3 - 2024	DC raws (centrifugal)	LV	MU	60	€ 59,001	
+Q3 - 2024	DC raws (centrifugal)	MT	MU	70	€ 80,937	
+Q3 - 2024	DC raws (centrifugal)	NL	MU	0	€ 510	
+Q3 - 2024	DC raws (centrifugal)	NL	MZ	50	€ 48,448	
+Q3 - 2024	DC raws (centrifugal)	NL	SZ	258	€ 180,080	€ 698
+Q3 - 2024	DC raws (centrifugal)	PL	MU	853	€ 767,267	€ 903
+Q3 - 2024	DC raws (centrifugal)	PL	SZ	258	€ 218,128	
+Q3 - 2024	DC raws (centrifugal)	PT	MU	92	€ 95,755	
+Q3 - 2024	DC raws (centrifugal)	RO	SZ	576	€ 470,247	€ 820
+Q3 - 2024	DC raws (centrifugal)	SE	MU	70	€ 136,385	
+Q3 - 2024	DC raws (centrifugal)	SI	MU	76	€ 129,313	
+Q3 - 2024	DC raws (centrifugal)	SK	MU	75	€ 70,335	
+Q3 - 2024	DC raws (non-centrifugal)	FR	MU	0	€ 186	
+Q3 - 2024	DC raws (non-centrifugal)	IE	MU	42	€ 44,418	
+Q3 - 2024	Fructose	BE	EG	0	€ 58	
+Q3 - 2024	Fructose	IT	EG	45	€ 45,360	
+Q3 - 2024	Glucose	AT	UG	38	€ 49,020	
+Q3 - 2024	Glucose	BE	EG	64	€ 139,362	
+Q3 - 2024	Glucose	DE	TN	0	€ 1,765	
+Q3 - 2024	Glucose	FR	DZ	8	€ 30,458	
+Q3 - 2024	Glucose	GR	EG	104	€ 45,439	
+Q3 - 2024	Glucose	RO	EG	53	€ 24,622	
+Q3 - 2024	Invert sugars	DE	ZA	1	€ 3,101	
+Q3 - 2024	Invert sugars	FR	DZ	3	€ 2,719	
+Q3 - 2024	Invert sugars	FR	TZ	0	€ 246	
+Q3 - 2024	Invert sugars	HR	TN	1	€ 6,455	
+Q3 - 2024	Invert sugars	IE	SZ	16	€ 31,585	
+Q3 - 2024	Maltodextrine	ES	EG	44	€ 31,008	
+Q3 - 2024	Maltose	FR	DZ	2	€ 155	
+Q3 - 2024	Maple sugar	FR	DZ	1	€ 428	
+Q3 - 2024	Raw sugar for refining	GB	ZA	32,059	€ 17,335,903	€ 541
+Q3 - 2024	White sugar	BE	MA	36	€ 34,289	
+Q3 - 2024	White sugar	BE	MU	664	€ 580,780	€ 845
+Q3 - 2024	White sugar	BG	MU	25	€ 23,363	
+Q3 - 2024	White sugar	CY	EG	1,032	€ 697,098	€ 708
+Q3 - 2024	White sugar	CY	MA	360	€ 224,007	€ 622
+Q3 - 2024	White sugar	CY	MU	1	€ 839	
+Q3 - 2024	White sugar	DE	MU	314	€ 296,595	€ 909
+Q3 - 2024	White sugar	DE	ZA	1	€ 15,149	
+Q3 - 2024	White sugar	DK	SZ	43	€ 39,345	
+Q3 - 2024	White sugar	ES	EG	3,744	€ 2,428,859	€ 626
+Q3 - 2024	White sugar	ES	MA	11,140	€ 7,569,968	€ 681
+Q3 - 2024	White sugar	ES	MU	3,366	€ 2,924,775	€ 863
+Q3 - 2024	White sugar	ES	SZ	602	€ 493,899	€ 820
+Q3 - 2024	White sugar	FR	DZ	1	€ 591	
+Q3 - 2024	White sugar	FR	MA	276	€ 276,574	
+Q3 - 2024	White sugar	FR	MU	3,500	€ 2,957,353	€ 827
+Q3 - 2024	White sugar	FR	MZ	76	€ 73,296	
+Q3 - 2024	White sugar	FR	TZ	1	€ 929	
+Q3 - 2024	White sugar	GB	MU	3,845	€ 3,277,279	€ 848
+Q3 - 2024	White sugar	HU	MU	0	€ 518	
+Q3 - 2024	White sugar	IT	EG	5,116	€ 3,003,582	€ 614
+Q3 - 2024	White sugar	IT	MU	2,124	€ 1,677,098	€ 783
+Q3 - 2024	White sugar	IT	MZ	350	€ 366,705	€ 1,086
+Q3 - 2024	White sugar	IT	SZ	278	€ 224,443	
+Q3 - 2024	White sugar	MT	MA	280	€ 182,332	€ 645
+Q3 - 2024	White sugar	MT	MU	464	€ 571,438	€ 952
+Q3 - 2024	White sugar	NL	MU	3	€ 8,440	
+Q3 - 2024	White sugar	NL	MZ	302	€ 300,623	€ 989
+Q3 - 2024	White sugar	NL	ZA	85	€ 90,105	
+Q3 - 2024	White sugar	PT	MU	0	€ 503	
+Q3 - 2024	White sugar	PT	MW	5	€ 14,623	
+Q3 - 2024	White sugar	SE	MA	0	€ 583	
+Q3 - 2024	White sugar	SI	MU	5	€ 7,549	
+Q3 - 2025	Beet molasses	BE	EG	1	€ 1,030	
+Q3 - 2025	Beet molasses	DK	EG	25,209	€ 3,561,634	€ 141
+Q3 - 2025	Beet molasses	ES	EG	53,827	€ 8,382,991	€ 156
+Q3 - 2025	Beet molasses	FI	EG	4	€ 174	
+Q3 - 2025	Beet molasses	GB	EG	3,077	€ 559,759	€ 181
+Q3 - 2025	Beet molasses	GB	ZA	6	€ 27,171	
+Q3 - 2025	Beet molasses	IT	EG	8,997	€ 1,529,741	€ 169
+Q3 - 2025	Beet molasses	PT	EG	13,883	€ 2,399,265	€ 173
+Q3 - 2025	Cane molasses	BE	EG	2	€ 2,057	
+Q3 - 2025	Cane molasses	FR	DZ	808	€ 97,010	€ 120
+Q3 - 2025	Cane molasses	GB	DZ	2,800	€ 861,478	€ 308
+Q3 - 2025	Cane molasses	GB	EG	0	€ 1,131	
+Q3 - 2025	Cane molasses	GB	MZ	9,500	€ 2,526,157	€ 266
+Q3 - 2025	Cane molasses	GB	ZA	802	€ 115,287	€ 144
+Q3 - 2025	Cane molasses	GR	EG	22	€ 40,204	
+Q3 - 2025	Cane molasses	IE	EG	4,300	€ 778,300	€ 181
+Q3 - 2025	Cane molasses	IT	MA	9,122	€ 2,292,580	€ 250
+Q3 - 2025	Cane molasses	NL	EG	0	€ 257	
+Q3 - 2025	Caramel	FR	DZ	1	€ 221	
+Q3 - 2025	Caramel	IE	TZ	1	€ 2,856	
+Q3 - 2025	Caramel	SI	ZA	5	€ 12,924	
+Q3 - 2025	DC raws (centrifugal)	AT	SZ	237	€ 169,721	€ 718
+Q3 - 2025	DC raws (centrifugal)	BE	CM	1	€ 1,298	
+Q3 - 2025	DC raws (centrifugal)	BE	MU	1,784	€ 1,389,176	€ 761
+Q3 - 2025	DC raws (centrifugal)	BE	MW	63	€ 47,250	
+Q3 - 2025	DC raws (centrifugal)	BE	SZ	645	€ 441,806	€ 686
+Q3 - 2025	DC raws (centrifugal)	BG	MU	336	€ 268,480	
+Q3 - 2025	DC raws (centrifugal)	BG	SZ	47	€ 34,860	
+Q3 - 2025	DC raws (centrifugal)	CY	MU	0	€ 342	
+Q3 - 2025	DC raws (centrifugal)	CZ	MU	556	€ 427,478	€ 760
+Q3 - 2025	DC raws (centrifugal)	DE	MU	800	€ 625,482	€ 772
+Q3 - 2025	DC raws (centrifugal)	DE	SZ	1,550	€ 1,155,868	€ 748
+Q3 - 2025	DC raws (centrifugal)	EE	MU	2	€ 3,126	
+Q3 - 2025	DC raws (centrifugal)	ES	MU	2,131	€ 1,684,877	€ 800
+Q3 - 2025	DC raws (centrifugal)	ES	SZ	65	€ 50,142	
+Q3 - 2025	DC raws (centrifugal)	FR	MU	727	€ 573,116	€ 792
+Q3 - 2025	DC raws (centrifugal)	FR	SZ	353	€ 280,783	€ 794
+Q3 - 2025	DC raws (centrifugal)	GB	MU	1,262	€ 1,235,402	€ 887
+Q3 - 2025	DC raws (centrifugal)	GB	SZ	129	€ 80,106	
+Q3 - 2025	DC raws (centrifugal)	GR	MU	1,133	€ 876,898	€ 765
+Q3 - 2025	DC raws (centrifugal)	HR	MU	50	€ 41,250	
+Q3 - 2025	DC raws (centrifugal)	HR	SZ	43	€ 33,540	
+Q3 - 2025	DC raws (centrifugal)	HU	SZ	22	€ 14,892	
+Q3 - 2025	DC raws (centrifugal)	IE	MU	36	€ 54,691	
+Q3 - 2025	DC raws (centrifugal)	IT	MA	27	€ 25,053	
+Q3 - 2025	DC raws (centrifugal)	IT	MU	1,870	€ 1,661,484	€ 877
+Q3 - 2025	DC raws (centrifugal)	IT	SZ	1,190	€ 852,349	€ 709
+Q3 - 2025	DC raws (centrifugal)	LT	MU	1,272	€ 1,024,972	€ 805
+Q3 - 2025	DC raws (centrifugal)	LV	MU	66	€ 53,430	
+Q3 - 2025	DC raws (centrifugal)	MT	MU	5	€ 9,579	
+Q3 - 2025	DC raws (centrifugal)	NL	MU	2	€ 2,947	
+Q3 - 2025	DC raws (centrifugal)	NL	SZ	925	€ 629,417	€ 681
+Q3 - 2025	DC raws (centrifugal)	PL	MU	2,013	€ 1,602,838	€ 792
+Q3 - 2025	DC raws (centrifugal)	PL	SZ	48	€ 36,528	
+Q3 - 2025	DC raws (centrifugal)	PT	MU	60	€ 70,998	
+Q3 - 2025	DC raws (centrifugal)	RO	SZ	929	€ 685,547	€ 745
+Q3 - 2025	DC raws (centrifugal)	SE	MU	380	€ 369,687	€ 934
+Q3 - 2025	DC raws (centrifugal)	SI	MU	64	€ 99,462	
+Q3 - 2025	DC raws (non-centrifugal)	FR	MU	10	€ 10,000	
+Q3 - 2025	DC raws (non-centrifugal)	IE	MU	187	€ 170,159	
+Q3 - 2025	DC raws (non-centrifugal)	IE	MW	0	€ 365	
+Q3 - 2025	DC raws (non-centrifugal)	NL	MU	7	€ 6,938	
+Q3 - 2025	Glucose	BE	EG	50	€ 48,487	
+Q3 - 2025	Glucose	FR	DZ	2	€ 1,512	
+Q3 - 2025	Glucose	SE	EG	0	€ 595	
+Q3 - 2025	Invert sugars	FR	DZ	1	€ 519	
+Q3 - 2025	Invert sugars	FR	TN	11	€ 28,494	
+Q3 - 2025	Invert sugars	IE	SZ	6	€ 11,340	
+Q3 - 2025	Maltodextrine	ES	EG	50	€ 29,183	
+Q3 - 2025	Maltodextrine	GR	EG	50	€ 27,546	
+Q3 - 2025	Maple sugar	FR	DZ	1	€ 500	
+Q3 - 2025	Raw sugar for refining	ES	ZA	35,224	€ 13,500,081	€ 383
+Q3 - 2025	Raw sugar for refining	GB	ZA	33,000	€ 12,226,681	€ 371
+Q3 - 2025	White sugar	BE	MU	252	€ 210,864	€ 837
+Q3 - 2025	White sugar	BE	MZ	10	€ 9,458	
+Q3 - 2025	White sugar	BG	EG	720	€ 316,983	€ 440
+Q3 - 2025	White sugar	BG	MU	25	€ 20,625	
+Q3 - 2025	White sugar	CY	MA	682	€ 410,920	€ 603
+Q3 - 2025	White sugar	CY	MU	0	€ 530	
+Q3 - 2025	White sugar	DE	MU	141	€ 110,548	
+Q3 - 2025	White sugar	ES	DZ	8,130	€ 3,845,376	€ 474
+Q3 - 2025	White sugar	ES	EG	1,945	€ 1,001,965	€ 511
+Q3 - 2025	White sugar	ES	MA	6,398	€ 2,874,115	€ 449
+Q3 - 2025	White sugar	ES	MU	776	€ 445,320	€ 576
+Q3 - 2025	White sugar	FR	DZ	1,356	€ 552,306	€ 407
+Q3 - 2025	White sugar	FR	MA	626	€ 369,828	€ 541
+Q3 - 2025	White sugar	FR	MG	1	€ 244	
+Q3 - 2025	White sugar	FR	MU	4,696	€ 2,970,892	€ 628
+Q3 - 2025	White sugar	FR	TZ	1	€ 410	
+Q3 - 2025	White sugar	GB	MU	571	€ 456,836	€ 800
+Q3 - 2025	White sugar	GR	MU	480	€ 283,200	€ 590
+Q3 - 2025	White sugar	IE	MU	1	€ 2,071	
+Q3 - 2025	White sugar	IT	DZ	814	€ 397,574	€ 488
+Q3 - 2025	White sugar	IT	EG	10,725	€ 5,572,517	€ 510
+Q3 - 2025	White sugar	IT	MA	901	€ 476,674	€ 503
+Q3 - 2025	White sugar	IT	MU	716	€ 516,052	€ 715
+Q3 - 2025	White sugar	LT	MU	24	€ 21,882	
+Q3 - 2025	White sugar	MT	MU	1	€ 1,331	
+Q3 - 2025	White sugar	NL	MZ	60	€ 57,638	
+Q3 - 2025	White sugar	PL	EG	0	€ 7	
+Q3 - 2025	White sugar	SI	MU	1	€ 1,542	
+Q4 - 2022	Beet molasses	BE	EG	7,656	€ 2,832,535	
+Q4 - 2022	Beet molasses	DE	EG	1	€ 2,211	
+Q4 - 2022	Beet molasses	ES	TN	3,058	€ 966,328	
+Q4 - 2022	Beet molasses	FR	DZ	0	€ 171	
+Q4 - 2022	Beet molasses	GB	EG	2,500	€ 434,158	€ 174
+Q4 - 2022	Beet molasses	IT	EG	94	€ 16,350	
+Q4 - 2022	Cane molasses	AT	EG	2	€ 3,619	
+Q4 - 2022	Cane molasses	DK	EG	1	€ 716	
+Q4 - 2022	Cane molasses	FR	DZ	292	€ 37,964	
+Q4 - 2022	Cane molasses	FR	MA	2,748	€ 1,117,831	€ 407
+Q4 - 2022	Cane molasses	GB	DZ	2,800	€ 1,029,749	€ 368
+Q4 - 2022	Cane molasses	GR	EG	12	€ 26,721	
+Q4 - 2022	Cane molasses	HR	ZA	0	€ 5,380	
+Q4 - 2022	Cane molasses	IE	MZ	13,911	€ 3,888,474	€ 280
+Q4 - 2022	Cane molasses	IT	EG	2	€ 1,881	
+Q4 - 2022	Cane molasses	NL	EG	0	€ 159	
+Q4 - 2022	Cane molasses	NL	MU	1	€ 180	
+Q4 - 2022	Cane molasses	NL	MZ	5,534	€ 1,475,286	€ 267
+Q4 - 2022	Caramel	IE	MU	0	€ 164	
+Q4 - 2022	DC raws (beet)	FR	MU	230	€ 148,176	€ 646
+Q4 - 2022	DC raws (centrifugal)	AT	MU	336	€ 248,467	€ 724
+Q4 - 2022	DC raws (centrifugal)	BE	CM	0	€ 818	
+Q4 - 2022	DC raws (centrifugal)	BE	MU	4,357	€ 3,524,149	€ 801
+Q4 - 2022	DC raws (centrifugal)	BE	SZ	2,107	€ 1,176,725	€ 557
+Q4 - 2022	DC raws (centrifugal)	BE	UG	1	€ 1,014	
+Q4 - 2022	DC raws (centrifugal)	BG	MU	692	€ 531,183	€ 775
+Q4 - 2022	DC raws (centrifugal)	BG	SZ	72	€ 46,018	
+Q4 - 2022	DC raws (centrifugal)	BG	ZA	288	€ 193,327	
+Q4 - 2022	DC raws (centrifugal)	CY	MU	29	€ 27,003	
+Q4 - 2022	DC raws (centrifugal)	CZ	MU	327	€ 259,536	€ 783
+Q4 - 2022	DC raws (centrifugal)	CZ	SZ	649	€ 479,081	€ 692
+Q4 - 2022	DC raws (centrifugal)	DE	EG	0	€ 2,959	
+Q4 - 2022	DC raws (centrifugal)	DE	MU	1,762	€ 1,354,049	€ 794
+Q4 - 2022	DC raws (centrifugal)	DE	SZ	968	€ 494,883	€ 669
+Q4 - 2022	DC raws (centrifugal)	EE	MU	21	€ 29,683	
+Q4 - 2022	DC raws (centrifugal)	ES	MU	2,360	€ 1,787,275	€ 758
+Q4 - 2022	DC raws (centrifugal)	FI	MU	231	€ 306,992	€ 931
+Q4 - 2022	DC raws (centrifugal)	FR	MG	0	€ 205	
+Q4 - 2022	DC raws (centrifugal)	FR	MU	509	€ 374,710	€ 723
+Q4 - 2022	DC raws (centrifugal)	FR	TZ	0	€ 110	
+Q4 - 2022	DC raws (centrifugal)	GB	MU	4,776	€ 3,640,891	€ 749
+Q4 - 2022	DC raws (centrifugal)	GR	MU	1,297	€ 1,074,957	€ 831
+Q4 - 2022	DC raws (centrifugal)	GR	SZ	43	€ 29,240	
+Q4 - 2022	DC raws (centrifugal)	HR	MU	71	€ 54,268	
+Q4 - 2022	DC raws (centrifugal)	HR	ZA	110	€ 64,915	
+Q4 - 2022	DC raws (centrifugal)	HU	MU	1	€ 1,014	
+Q4 - 2022	DC raws (centrifugal)	HU	SZ	22	€ 2,447	
+Q4 - 2022	DC raws (centrifugal)	HU	ZA	4,484	€ 2,654,226	€ 592
+Q4 - 2022	DC raws (centrifugal)	IE	MU	4	€ 6,806	
+Q4 - 2022	DC raws (centrifugal)	IT	MU	2,769	€ 2,209,975	€ 734
+Q4 - 2022	DC raws (centrifugal)	IT	MZ	753	€ 460,104	€ 629
+Q4 - 2022	DC raws (centrifugal)	IT	SZ	3,096	€ 1,960,999	€ 614
+Q4 - 2022	DC raws (centrifugal)	IT	ZA	215	€ 121,410	€ 565
+Q4 - 2022	DC raws (centrifugal)	LT	MU	1,171	€ 980,620	€ 875
+Q4 - 2022	DC raws (centrifugal)	LV	MU	111	€ 91,465	
+Q4 - 2022	DC raws (centrifugal)	MT	MU	5	€ 8,331	
+Q4 - 2022	DC raws (centrifugal)	NL	MU	108	€ 97,145	
+Q4 - 2022	DC raws (centrifugal)	NL	SZ	172	€ 105,857	
+Q4 - 2022	DC raws (centrifugal)	PL	MU	2,575	€ 2,014,338	€ 787
+Q4 - 2022	DC raws (centrifugal)	PL	SZ	239	€ 169,426	€ 709
+Q4 - 2022	DC raws (centrifugal)	PT	MU	571	€ 412,808	€ 724
+Q4 - 2022	DC raws (centrifugal)	RO	MU	52	€ 42,290	
+Q4 - 2022	DC raws (centrifugal)	RO	SZ	499	€ 313,180	€ 620
+Q4 - 2022	DC raws (centrifugal)	SE	MU	709	€ 733,314	€ 967
+Q4 - 2022	DC raws (centrifugal)	SI	MU	54	€ 74,804	
+Q4 - 2022	DC raws (centrifugal)	SK	MU	69	€ 61,209	
+Q4 - 2022	DC raws (non-centrifugal)	DE	MU	0	€ 495	
+Q4 - 2022	DC raws (non-centrifugal)	IE	MU	67	€ 61,052	
+Q4 - 2022	DC raws (non-centrifugal)	IE	MW	0	€ 361	
+Q4 - 2022	DC raws (non-centrifugal)	NL	MZ	1	€ 1,469	
+Q4 - 2022	DC raws (non-centrifugal)	SE	UG	0	€ 243	
+Q4 - 2022	Fructose	RO	EG	24	€ 16,683	
+Q4 - 2022	Glucose	BE	EG	120	€ 126,504	
+Q4 - 2022	Glucose	FR	DZ	2	€ 1,506	
+Q4 - 2022	Glucose	FR	KE	24	€ 21,092	
+Q4 - 2022	Glucose	NL	EG	25	€ 30,125	
+Q4 - 2022	Glucose	RO	EG	101	€ 64,441	
+Q4 - 2022	Invert sugars	ES	EG	50	€ 55,000	
+Q4 - 2022	Invert sugars	FR	DZ	10	€ 4,356	
+Q4 - 2022	Invert sugars	IE	SZ	12	€ 21,547	
+Q4 - 2022	Invert sugars	NL	ZA	14	€ 34,782	
+Q4 - 2022	Invert sugars	SE	MA	0	€ 468	
+Q4 - 2022	Maltodextrine	ES	EG	25	€ 30,663	
+Q4 - 2022	Maple sugar	SE	ET	0	€ 1,444	
+Q4 - 2022	Raw sugar for refining	BG	ZA	4,919	€ 2,485,038	€ 505
+Q4 - 2022	Raw sugar for refining	GB	ZA	32,420	€ 16,660,328	€ 514
+Q4 - 2022	Raw sugar for refining	HU	ZA	10,512	€ 6,308,261	€ 600
+Q4 - 2022	White sugar	BE	MA	78	€ 76,510	
+Q4 - 2022	White sugar	BE	MU	1,009	€ 809,903	€ 800
+Q4 - 2022	White sugar	BE	MZ	160	€ 124,941	
+Q4 - 2022	White sugar	BG	MU	74	€ 48,840	
+Q4 - 2022	White sugar	CY	MA	2,420	€ 1,990,299	€ 819
+Q4 - 2022	White sugar	CY	MU	100	€ 90,893	
+Q4 - 2022	White sugar	DE	MU	742	€ 588,250	
+Q4 - 2022	White sugar	DE	MZ	521	€ 541,611	€ 1,039
+Q4 - 2022	White sugar	EE	MU	20	€ 24,546	
+Q4 - 2022	White sugar	ES	EG	744	€ 502,523	€ 678
+Q4 - 2022	White sugar	ES	MA	8,998	€ 5,762,641	€ 637
+Q4 - 2022	White sugar	ES	MU	5,902	€ 4,670,616	€ 806
+Q4 - 2022	White sugar	FR	MA	283	€ 216,392	
+Q4 - 2022	White sugar	FR	MU	4,557	€ 3,309,892	€ 653
+Q4 - 2022	White sugar	FR	MZ	252	€ 250,716	€ 995
+Q4 - 2022	White sugar	GB	MU	3,109	€ 2,344,783	€ 707
+Q4 - 2022	White sugar	GB	MZ	101	€ 106,066	
+Q4 - 2022	White sugar	GR	MA	188	€ 149,142	
+Q4 - 2022	White sugar	GR	MU	1,933	€ 1,548,898	€ 801
+Q4 - 2022	White sugar	IE	MU	0	€ 1,619	
+Q4 - 2022	White sugar	IT	EG	2	€ 1,140	
+Q4 - 2022	White sugar	IT	MA	4,032	€ 2,469,479	€ 592
+Q4 - 2022	White sugar	IT	MU	3,312	€ 2,390,648	€ 704
+Q4 - 2022	White sugar	IT	MZ	206	€ 204,159	€ 991
+Q4 - 2022	White sugar	IT	UG	48	€ 42,720	
+Q4 - 2022	White sugar	IT	ZA	1	€ 4,124	
+Q4 - 2022	White sugar	MT	MU	173	€ 160,237	
+Q4 - 2022	White sugar	NL	MZ	1,497	€ 1,576,737	€ 1,051
+Q4 - 2022	White sugar	PL	MU	626	€ 500,770	€ 790
+Q4 - 2022	White sugar	PT	MU	2,352	€ 2,116,902	€ 900
+Q4 - 2022	White sugar	RO	EG	336	€ 184,171	€ 548
+Q4 - 2022	White sugar	SE	EG	0	€ 542	
+Q4 - 2022	White sugar	SI	MU	2	€ 2,742	
+Q4 - 2023	Beet molasses	CY	EG	4	€ 4,290	
+Q4 - 2023	Beet molasses	ES	EG	35,268	€ 6,716,656	€ 195
+Q4 - 2023	Beet molasses	FR	DZ	2	€ 1,200	
+Q4 - 2023	Beet molasses	GB	ZA	5	€ 21,713	
+Q4 - 2023	Beet molasses	IT	EG	17,275	€ 3,538,714	€ 203
+Q4 - 2023	Beet molasses	PT	EG	5,945	€ 1,447,603	
+Q4 - 2023	Cane molasses	BE	EG	2	€ 3,471	
+Q4 - 2023	Cane molasses	FR	DZ	3,410	€ 1,052,851	€ 156
+Q4 - 2023	Cane molasses	GB	EG	1	€ 1,040	
+Q4 - 2023	Cane molasses	GR	EG	1	€ 341	
+Q4 - 2023	Cane molasses	IT	EG	4	€ 2,740	
+Q4 - 2023	Cane molasses	NL	EG	0	€ 278	
+Q4 - 2023	Caramel	FR	DZ	1	€ 979	
+Q4 - 2023	Caramel	FR	SZ	0	€ 16,074	
+Q4 - 2023	Caramel	FR	TN	0	€ 1,585	
+Q4 - 2023	DC raws (centrifugal)	AT	MU	864	€ 850,316	€ 983
+Q4 - 2023	DC raws (centrifugal)	BE	CM	1	€ 1,047	
+Q4 - 2023	DC raws (centrifugal)	BE	MU	126	€ 113,400	
+Q4 - 2023	DC raws (centrifugal)	BE	MW	525	€ 360,675	€ 645
+Q4 - 2023	DC raws (centrifugal)	BE	SZ	4,615	€ 2,997,783	€ 648
+Q4 - 2023	DC raws (centrifugal)	BG	MU	178	€ 163,546	
+Q4 - 2023	DC raws (centrifugal)	BG	MZ	150	€ 118,501	
+Q4 - 2023	DC raws (centrifugal)	BG	SZ	158	€ 106,080	
+Q4 - 2023	DC raws (centrifugal)	BG	ZA	174	€ 133,706	
+Q4 - 2023	DC raws (centrifugal)	CY	MU	1	€ 2,722	
+Q4 - 2023	DC raws (centrifugal)	CZ	MU	188	€ 162,591	
+Q4 - 2023	DC raws (centrifugal)	CZ	MW	390	€ 264,800	€ 787
+Q4 - 2023	DC raws (centrifugal)	CZ	SZ	731	€ 581,369	€ 807
+Q4 - 2023	DC raws (centrifugal)	DE	MU	4,204	€ 3,448,831	€ 829
+Q4 - 2023	DC raws (centrifugal)	DE	MW	540	€ 482,205	€ 893
+Q4 - 2023	DC raws (centrifugal)	DE	SZ	1,586	€ 1,219,926	€ 761
+Q4 - 2023	DC raws (centrifugal)	EE	MU	20	€ 33,935	
+Q4 - 2023	DC raws (centrifugal)	ES	MU	1,072	€ 954,904	€ 893
+Q4 - 2023	DC raws (centrifugal)	ES	MW	42	€ 25,410	
+Q4 - 2023	DC raws (centrifugal)	ES	SZ	151	€ 114,163	
+Q4 - 2023	DC raws (centrifugal)	FI	MU	132	€ 129,860	
+Q4 - 2023	DC raws (centrifugal)	FR	MA	0	€ 131	
+Q4 - 2023	DC raws (centrifugal)	FR	MG	15	€ 40,847	
+Q4 - 2023	DC raws (centrifugal)	FR	MU	619	€ 546,479	€ 892
+Q4 - 2023	DC raws (centrifugal)	GB	MU	5,593	€ 4,911,520	€ 858
+Q4 - 2023	DC raws (centrifugal)	GB	SZ	280	€ 191,317	€ 618
+Q4 - 2023	DC raws (centrifugal)	GB	ZA	43	€ 37,765	
+Q4 - 2023	DC raws (centrifugal)	GR	MU	352	€ 284,081	
+Q4 - 2023	DC raws (centrifugal)	GR	SZ	817	€ 668,650	€ 818
+Q4 - 2023	DC raws (centrifugal)	HR	MU	50	€ 46,250	
+Q4 - 2023	DC raws (centrifugal)	HR	SZ	52	€ 45,500	
+Q4 - 2023	DC raws (centrifugal)	HU	SZ	22	€ 13,365	
+Q4 - 2023	DC raws (centrifugal)	IE	MU	43	€ 70,338	
+Q4 - 2023	DC raws (centrifugal)	IT	MU	1,357	€ 1,123,078	€ 842
+Q4 - 2023	DC raws (centrifugal)	IT	MW	462	€ 272,824	€ 591
+Q4 - 2023	DC raws (centrifugal)	IT	MZ	215	€ 179,525	€ 835
+Q4 - 2023	DC raws (centrifugal)	IT	SZ	1,830	€ 1,499,600	€ 812
+Q4 - 2023	DC raws (centrifugal)	IT	ZA	22	€ 18,705	
+Q4 - 2023	DC raws (centrifugal)	LT	MU	576	€ 428,772	€ 747
+Q4 - 2023	DC raws (centrifugal)	LT	SZ	74	€ 63,924	
+Q4 - 2023	DC raws (centrifugal)	LV	MU	68	€ 53,575	
+Q4 - 2023	DC raws (centrifugal)	MT	MU	8	€ 15,210	
+Q4 - 2023	DC raws (centrifugal)	NL	MU	44	€ 40,547	
+Q4 - 2023	DC raws (centrifugal)	NL	RW	3	€ 4,312	
+Q4 - 2023	DC raws (centrifugal)	NL	SZ	258	€ 202,076	
+Q4 - 2023	DC raws (centrifugal)	PL	MU	1,685	€ 1,381,182	€ 820
+Q4 - 2023	DC raws (centrifugal)	PL	SZ	125	€ 98,955	
+Q4 - 2023	DC raws (centrifugal)	PT	MU	933	€ 890,278	€ 958
+Q4 - 2023	DC raws (centrifugal)	RO	SZ	667	€ 494,431	€ 751
+Q4 - 2023	DC raws (centrifugal)	SE	MU	556	€ 628,926	€ 1,117
+Q4 - 2023	DC raws (centrifugal)	SI	MU	46	€ 56,751	
+Q4 - 2023	DC raws (centrifugal)	SK	MU	46	€ 43,522	
+Q4 - 2023	DC raws (non-centrifugal)	FR	MU	48	€ 45,044	
+Q4 - 2023	DC raws (non-centrifugal)	IE	MU	103	€ 150,709	
+Q4 - 2023	DC raws (non-centrifugal)	IE	MW	0	€ 365	
+Q4 - 2023	DC raws (non-centrifugal)	NL	MU	3	€ 11,957	
+Q4 - 2023	Fructose	GB	EG	24	€ 15,232	
+Q4 - 2023	Glucose	FR	DZ	17	€ 13,070	
+Q4 - 2023	Glucose	GR	EG	51	€ 24,322	
+Q4 - 2023	Glucose	RO	EG	66	€ 28,648	
+Q4 - 2023	Invert sugars	ES	MA	24	€ 27,774	
+Q4 - 2023	Invert sugars	FR	DZ	14	€ 5,120	
+Q4 - 2023	Invert sugars	IE	SZ	11	€ 19,892	
+Q4 - 2023	Invert sugars	NL	MA	21	€ 31,062	
+Q4 - 2023	Invert sugars	SE	MA	0	€ 442	
+Q4 - 2023	Maltodextrine	ES	EG	50	€ 32,359	
+Q4 - 2023	Maltose	FR	DZ	1	€ 1,191	
+Q4 - 2023	Raw sugar for refining	BE	ZA	10,000	€ 7,220,000	€ 722
+Q4 - 2023	Raw sugar for refining	PT	SZ	29,997	€ 20,348,184	€ 678
+Q4 - 2023	White sugar	AT	MU	24	€ 21,740	
+Q4 - 2023	White sugar	BE	DZ	2,498	€ 2,143,926	€ 858
+Q4 - 2023	White sugar	BE	MA	58	€ 69,255	
+Q4 - 2023	White sugar	BE	MU	1,872	€ 1,332,101	€ 713
+Q4 - 2023	White sugar	BE	MW	147	€ 116,865	
+Q4 - 2023	White sugar	CY	EG	480	€ 457,868	€ 954
+Q4 - 2023	White sugar	CY	MA	660	€ 509,614	€ 807
+Q4 - 2023	White sugar	CY	MU	294	€ 291,090	
+Q4 - 2023	White sugar	DE	MU	185	€ 168,339	
+Q4 - 2023	White sugar	DE	MZ	202	€ 224,169	
+Q4 - 2023	White sugar	DK	ZA	0	€ 1,972	
+Q4 - 2023	White sugar	ES	EG	2,594	€ 1,720,783	€ 682
+Q4 - 2023	White sugar	ES	MA	9,922	€ 6,151,074	€ 614
+Q4 - 2023	White sugar	ES	MU	8,305	€ 7,262,439	€ 882
+Q4 - 2023	White sugar	ES	SZ	4,988	€ 4,716,054	€ 935
+Q4 - 2023	White sugar	FR	DZ	4,207	€ 1,928,851	€ 461
+Q4 - 2023	White sugar	FR	MA	66	€ 78,268	
+Q4 - 2023	White sugar	FR	MU	6,063	€ 5,197,007	€ 845
+Q4 - 2023	White sugar	FR	MZ	100	€ 188,513	
+Q4 - 2023	White sugar	FR	SZ	100	€ 95,600	
+Q4 - 2023	White sugar	FR	TZ	0	€ 174	
+Q4 - 2023	White sugar	GB	MU	3,788	€ 3,246,289	€ 850
+Q4 - 2023	White sugar	GB	MW	100	€ 89,237	
+Q4 - 2023	White sugar	GB	ZA	3	€ 40,423	
+Q4 - 2023	White sugar	GR	EG	175	€ 159,250	
+Q4 - 2023	White sugar	GR	MU	100	€ 92,000	
+Q4 - 2023	White sugar	GR	MZ	1,488	€ 1,257,360	€ 845
+Q4 - 2023	White sugar	IE	MU	3	€ 5,957	
+Q4 - 2023	White sugar	IT	DZ	3,630	€ 3,266,281	€ 906
+Q4 - 2023	White sugar	IT	EG	2,705	€ 2,263,446	€ 847
+Q4 - 2023	White sugar	IT	MA	1,100	€ 674,397	€ 593
+Q4 - 2023	White sugar	IT	MU	6,027	€ 5,456,170	€ 902
+Q4 - 2023	White sugar	IT	MZ	1,216	€ 1,078,208	€ 850
+Q4 - 2023	White sugar	IT	SZ	2,817	€ 2,646,116	€ 926
+Q4 - 2023	White sugar	LV	MZ	24	€ 27,545	
+Q4 - 2023	White sugar	MT	MU	248	€ 252,959	
+Q4 - 2023	White sugar	NL	MU	0	€ 205	
+Q4 - 2023	White sugar	NL	MZ	1,332	€ 1,290,851	€ 965
+Q4 - 2023	White sugar	NL	SZ	43	€ 26,637	
+Q4 - 2023	White sugar	NL	ZA	94	€ 155,762	
+Q4 - 2023	White sugar	PL	MU	381	€ 346,586	
+Q4 - 2024	Beet molasses	BE	EG	0	€ 86	
+Q4 - 2024	Beet molasses	CY	EG	59	€ 17,925	
+Q4 - 2024	Beet molasses	ES	EG	16,993	€ 2,426,990	
+Q4 - 2024	Beet molasses	IT	EG	5,203	€ 821,915	
+Q4 - 2024	Beet molasses	IT	ZA	0	€ 4,027	
+Q4 - 2024	Cane molasses	BE	EG	1	€ 1,715	
+Q4 - 2024	Cane molasses	FR	DZ	738	€ 87,094	
+Q4 - 2024	Cane molasses	FR	EG	5	€ 10,079	
+Q4 - 2024	Cane molasses	GB	DZ	2,500	€ 634,762	€ 254
+Q4 - 2024	Cane molasses	GB	MA	4,747	€ 1,182,677	€ 249
+Q4 - 2024	Cane molasses	GB	MZ	15,963	€ 4,223,220	€ 262
+Q4 - 2024	Cane molasses	GR	EG	16	€ 44,653	
+Q4 - 2024	Cane molasses	IT	EG	19	€ 22,280	
+Q4 - 2024	Cane molasses	PT	EG	11	€ 17,552	
+Q4 - 2024	Cane molasses	PT	MZ	2,992	€ 708,770	€ 237
+Q4 - 2024	Caramel	FR	DZ	19	€ 9,474	
+Q4 - 2024	Caramel	NL	SZ	6	€ 13,560	
+Q4 - 2024	DC raws (centrifugal)	AT	MU	360	€ 331,156	€ 931
+Q4 - 2024	DC raws (centrifugal)	BE	MU	510	€ 452,436	
+Q4 - 2024	DC raws (centrifugal)	BE	MW	525	€ 355,950	€ 678
+Q4 - 2024	DC raws (centrifugal)	BE	SZ	1,699	€ 1,201,483	€ 709
+Q4 - 2024	DC raws (centrifugal)	BG	MU	217	€ 203,916	
+Q4 - 2024	DC raws (centrifugal)	BG	SZ	24	€ 19,475	
+Q4 - 2024	DC raws (centrifugal)	CY	MU	1	€ 2,632	
+Q4 - 2024	DC raws (centrifugal)	CZ	MU	210	€ 186,945	€ 828
+Q4 - 2024	DC raws (centrifugal)	CZ	MW	21	€ 17,888	
+Q4 - 2024	DC raws (centrifugal)	CZ	SZ	468	€ 352,019	€ 759
+Q4 - 2024	DC raws (centrifugal)	DE	MU	377	€ 386,257	
+Q4 - 2024	DC raws (centrifugal)	DE	SZ	1,505	€ 1,082,939	€ 720
+Q4 - 2024	DC raws (centrifugal)	EE	MU	8	€ 13,866	
+Q4 - 2024	DC raws (centrifugal)	ES	MU	888	€ 755,091	€ 858
+Q4 - 2024	DC raws (centrifugal)	ES	SZ	46	€ 34,953	
+Q4 - 2024	DC raws (centrifugal)	FI	MU	220	€ 216,438	€ 984
+Q4 - 2024	DC raws (centrifugal)	FR	MG	15	€ 34,302	
+Q4 - 2024	DC raws (centrifugal)	FR	MU	2,898	€ 2,224,320	€ 759
+Q4 - 2024	DC raws (centrifugal)	GB	MU	3,358	€ 3,112,192	€ 805
+Q4 - 2024	DC raws (centrifugal)	GB	MZ	50	€ 48,456	
+Q4 - 2024	DC raws (centrifugal)	GB	SZ	323	€ 207,740	
+Q4 - 2024	DC raws (centrifugal)	GB	ZA	237	€ 203,596	€ 861
+Q4 - 2024	DC raws (centrifugal)	GR	MU	858	€ 719,193	€ 840
+Q4 - 2024	DC raws (centrifugal)	GR	MW	147	€ 114,660	
+Q4 - 2024	DC raws (centrifugal)	HR	MU	133	€ 131,124	
+Q4 - 2024	DC raws (centrifugal)	HR	SZ	153	€ 123,854	
+Q4 - 2024	DC raws (centrifugal)	IE	MU	8	€ 17,178	
+Q4 - 2024	DC raws (centrifugal)	IE	SZ	24	€ 16,211	
+Q4 - 2024	DC raws (centrifugal)	IT	MU	2,657	€ 2,231,279	€ 842
+Q4 - 2024	DC raws (centrifugal)	IT	MW	80	€ 80,000	
+Q4 - 2024	DC raws (centrifugal)	IT	SZ	3,052	€ 2,267,347	€ 739
+Q4 - 2024	DC raws (centrifugal)	LT	MU	723	€ 646,860	€ 903
+Q4 - 2024	DC raws (centrifugal)	MT	MU	9	€ 17,321	
+Q4 - 2024	DC raws (centrifugal)	NL	MU	24	€ 35,666	
+Q4 - 2024	DC raws (centrifugal)	NL	MZ	340	€ 334,968	€ 993
+Q4 - 2024	DC raws (centrifugal)	NL	SZ	306	€ 201,568	
+Q4 - 2024	DC raws (centrifugal)	PL	MU	1,021	€ 890,657	€ 870
+Q4 - 2024	DC raws (centrifugal)	PL	MW	1,010	€ 788,702	€ 778
+Q4 - 2024	DC raws (centrifugal)	PL	SZ	24	€ 18,750	
+Q4 - 2024	DC raws (centrifugal)	PT	MU	587	€ 500,288	€ 826
+Q4 - 2024	DC raws (centrifugal)	RO	MU	4	€ 8,401	
+Q4 - 2024	DC raws (centrifugal)	SE	MU	512	€ 519,420	€ 987
+Q4 - 2024	DC raws (centrifugal)	SI	MU	115	€ 163,790	
+Q4 - 2024	DC raws (centrifugal)	SK	MU	25	€ 23,542	
+Q4 - 2024	DC raws (non-centrifugal)	FR	MU	0	€ 121	
+Q4 - 2024	DC raws (non-centrifugal)	IE	MU	21	€ 42,980	
+Q4 - 2024	Glucose	BE	EG	98	€ 141,795	
+Q4 - 2024	Glucose	FR	DZ	88	€ 48,915	
+Q4 - 2024	Glucose	RO	EG	80	€ 35,490	
+Q4 - 2024	Invert sugars	AT	EG	0	€ 240	
+Q4 - 2024	Invert sugars	FR	DZ	1	€ 480	
+Q4 - 2024	Invert sugars	FR	TN	0	€ 1,316	
+Q4 - 2024	Invert sugars	GB	DZ	3	€ 504	
+Q4 - 2024	Invert sugars	HR	TN	2	€ 6,938	
+Q4 - 2024	Invert sugars	IE	SZ	20	€ 37,315	
+Q4 - 2024	Maltodextrine	ES	EG	50	€ 33,571	
+Q4 - 2024	White sugar	AT	MU	25	€ 22,650	
+Q4 - 2024	White sugar	BE	MA	59	€ 82,743	
+Q4 - 2024	White sugar	BE	MU	720	€ 464,498	€ 645
+Q4 - 2024	White sugar	BE	MZ	50	€ 54,736	
+Q4 - 2024	White sugar	BG	MU	25	€ 23,363	
+Q4 - 2024	White sugar	BG	MZ	25	€ 27,721	
+Q4 - 2024	White sugar	CY	EG	552	€ 319,245	€ 587
+Q4 - 2024	White sugar	CY	MU	78	€ 70,107	
+Q4 - 2024	White sugar	DE	MU	108	€ 95,168	
+Q4 - 2024	White sugar	DE	MZ	50	€ 52,416	
+Q4 - 2024	White sugar	DK	SZ	22	€ 19,672	
+Q4 - 2024	White sugar	EE	MU	13	€ 20,783	
+Q4 - 2024	White sugar	ES	EG	745	€ 427,052	€ 573
+Q4 - 2024	White sugar	ES	MA	5,500	€ 3,610,518	€ 656
+Q4 - 2024	White sugar	ES	MU	2,404	€ 1,363,382	€ 565
+Q4 - 2024	White sugar	FR	DZ	29	€ 13,788	
+Q4 - 2024	White sugar	FR	MA	293	€ 241,601	€ 558
+Q4 - 2024	White sugar	FR	MU	3,491	€ 2,223,964	€ 650
+Q4 - 2024	White sugar	FR	MZ	50	€ 48,864	
+Q4 - 2024	White sugar	FR	TZ	0	€ 488	
+Q4 - 2024	White sugar	GB	MU	1,757	€ 1,509,318	€ 862
+Q4 - 2024	White sugar	GB	MZ	50	€ 48,563	
+Q4 - 2024	White sugar	GR	MU	0	€ 774	
+Q4 - 2024	White sugar	HR	MU	3	€ 5,991	
+Q4 - 2024	White sugar	HU	MU	0	€ 1,170	
+Q4 - 2024	White sugar	IE	MU	28	€ 25,592	
+Q4 - 2024	White sugar	IT	EG	688	€ 438,330	€ 633
+Q4 - 2024	White sugar	IT	MU	1,712	€ 1,361,857	€ 753
+Q4 - 2024	White sugar	IT	MZ	580	€ 593,581	€ 1,023
+Q4 - 2024	White sugar	IT	SZ	108	€ 89,903	
+Q4 - 2024	White sugar	MT	MU	291	€ 268,706	€ 907
+Q4 - 2024	White sugar	NL	MU	7	€ 13,110	
+Q4 - 2024	White sugar	NL	MZ	380	€ 372,623	€ 978
+Q4 - 2024	White sugar	NL	ZA	19	€ 20,217	
+Q4 - 2024	White sugar	PT	MU	0	€ 792	
+Q4 - 2024	White sugar	SE	ZA	0	€ 3,186	
+Q4 - 2024	White sugar	SI	MU	5	€ 7,692	
+Q4 - 2025	Beet molasses	CY	EG	23	€ 6,687	
+Q4 - 2025	Beet molasses	ES	EG	16,425	€ 2,945,925	
+Q4 - 2025	Beet molasses	GB	EG	3	€ 4,630	
+Q4 - 2025	Beet molasses	IT	EG	13,763	€ 2,418,985	
+Q4 - 2025	Cane molasses	FR	DZ	453	€ 43,556	
+Q4 - 2025	Cane molasses	FR	EG	9	€ 12,726	
+Q4 - 2025	Cane molasses	GB	DZ	2,850	€ 631,559	€ 222
+Q4 - 2025	Cane molasses	GB	ZA	206	€ 31,403	€ 152
+Q4 - 2025	Cane molasses	GR	EG	21	€ 51,342	
+Q4 - 2025	Cane molasses	IT	EG	17	€ 19,528	
+Q4 - 2025	Cane molasses	IT	MA	1,000	€ 244,270	€ 244
+Q4 - 2025	Cane molasses	NL	SZ	0	€ 10	
+Q4 - 2025	Cane molasses	PT	EG	11	€ 16,857	
+Q4 - 2025	Caramel	FR	DZ	0	€ 180	
+Q4 - 2025	Caramel	NL	EG	0	€ 1,457	
+Q4 - 2025	DC raws (centrifugal)	AT	MU	240	€ 196,524	
+Q4 - 2025	DC raws (centrifugal)	AT	SZ	430	€ 318,532	€ 741
+Q4 - 2025	DC raws (centrifugal)	BE	MU	3,710	€ 2,762,270	€ 745
+Q4 - 2025	DC raws (centrifugal)	BE	SZ	646	€ 435,990	€ 685
+Q4 - 2025	DC raws (centrifugal)	BG	MU	363	€ 294,426	
+Q4 - 2025	DC raws (centrifugal)	BG	SZ	46	€ 33,580	
+Q4 - 2025	DC raws (centrifugal)	CY	MU	10	€ 21,582	
+Q4 - 2025	DC raws (centrifugal)	CZ	MU	1,196	€ 947,728	€ 780
+Q4 - 2025	DC raws (centrifugal)	CZ	MZ	96	€ 58,220	
+Q4 - 2025	DC raws (centrifugal)	DE	MU	242	€ 202,591	
+Q4 - 2025	DC raws (centrifugal)	DE	SZ	702	€ 595,466	€ 769
+Q4 - 2025	DC raws (centrifugal)	ES	MU	1,529	€ 1,241,989	€ 814
+Q4 - 2025	DC raws (centrifugal)	ES	SZ	120	€ 92,677	
+Q4 - 2025	DC raws (centrifugal)	FR	CM	1	€ 1,796	
+Q4 - 2025	DC raws (centrifugal)	FR	MU	1,932	€ 1,516,120	€ 818
+Q4 - 2025	DC raws (centrifugal)	FR	SZ	346	€ 262,533	€ 794
+Q4 - 2025	DC raws (centrifugal)	GB	MU	3,858	€ 3,225,393	€ 772
+Q4 - 2025	DC raws (centrifugal)	GB	SZ	344	€ 202,985	
+Q4 - 2025	DC raws (centrifugal)	GB	ZA	172	€ 101,491	
+Q4 - 2025	DC raws (centrifugal)	GR	MU	614	€ 462,970	€ 756
+Q4 - 2025	DC raws (centrifugal)	GR	SZ	215	€ 141,814	
+Q4 - 2025	DC raws (centrifugal)	HR	MU	44	€ 33,440	
+Q4 - 2025	DC raws (centrifugal)	HR	SZ	89	€ 69,030	
+Q4 - 2025	DC raws (centrifugal)	HU	MU	2	€ 3,008	
+Q4 - 2025	DC raws (centrifugal)	HU	SZ	22	€ 15,029	
+Q4 - 2025	DC raws (centrifugal)	IE	MU	39	€ 63,225	
+Q4 - 2025	DC raws (centrifugal)	IT	EG	4	€ 1,400	
+Q4 - 2025	DC raws (centrifugal)	IT	MU	1,605	€ 1,332,612	€ 795
+Q4 - 2025	DC raws (centrifugal)	IT	MW	40	€ 36,000	
+Q4 - 2025	DC raws (centrifugal)	IT	SZ	1,502	€ 1,021,698	€ 682
+Q4 - 2025	DC raws (centrifugal)	LT	MU	773	€ 613,483	€ 776
+Q4 - 2025	DC raws (centrifugal)	LV	MU	22	€ 17,520	
+Q4 - 2025	DC raws (centrifugal)	MT	MU	7	€ 12,845	
+Q4 - 2025	DC raws (centrifugal)	NL	MU	441	€ 308,965	€ 700
+Q4 - 2025	DC raws (centrifugal)	NL	SZ	2,291	€ 1,533,203	€ 668
+Q4 - 2025	DC raws (centrifugal)	PL	MU	942	€ 747,455	€ 776
+Q4 - 2025	DC raws (centrifugal)	PL	SZ	108	€ 73,960	
+Q4 - 2025	DC raws (centrifugal)	PT	MU	63	€ 50,274	
+Q4 - 2025	DC raws (centrifugal)	RO	SZ	216	€ 164,552	
+Q4 - 2025	DC raws (centrifugal)	SE	MU	585	€ 536,375	€ 832
+Q4 - 2025	DC raws (centrifugal)	SI	MU	56	€ 68,974	
+Q4 - 2025	DC raws (non-centrifugal)	BE	MU	10	€ 12,118	
+Q4 - 2025	DC raws (non-centrifugal)	FR	MU	44	€ 52,117	
+Q4 - 2025	DC raws (non-centrifugal)	IE	MU	22	€ 45,920	
+Q4 - 2025	DC raws (non-centrifugal)	IE	MW	0	€ 363	
+Q4 - 2025	DC raws (non-centrifugal)	NL	MU	0	€ 531	
+Q4 - 2025	Glucose	BE	MA	3	€ 3,264	
+Q4 - 2025	Glucose	FR	DZ	46	€ 43,904	
+Q4 - 2025	Invert sugars	FR	DZ	12	€ 9,974	
+Q4 - 2025	Invert sugars	FR	TN	9	€ 3,988	
+Q4 - 2025	Invert sugars	GB	ZA	0	€ 6,980	
+Q4 - 2025	Invert sugars	HR	TN	1	€ 4,692	
+Q4 - 2025	Maltodextrine	ES	EG	25	€ 14,385	
+Q4 - 2025	Maltodextrine	GR	EG	25	€ 13,925	
+Q4 - 2025	Maple sugar	FR	DZ	9	€ 19,869	
+Q4 - 2025	Raw sugar for refining	ES	ZA	36,300	€ 12,821,523	€ 353
+Q4 - 2025	Raw sugar for refining	GB	ZA	32,800	€ 12,483,106	€ 381
+Q4 - 2025	White sugar	AT	EG	0	€ 371	
+Q4 - 2025	White sugar	BE	DZ	1	€ 100	
+Q4 - 2025	White sugar	BE	MA	57	€ 67,962	
+Q4 - 2025	White sugar	BE	MU	1,050	€ 561,170	€ 558
+Q4 - 2025	White sugar	BG	MU	25	€ 20,625	
+Q4 - 2025	White sugar	CY	CM	0	€ 493	
+Q4 - 2025	White sugar	CY	MA	880	€ 500,760	€ 536
+Q4 - 2025	White sugar	CY	MU	50	€ 41,218	
+Q4 - 2025	White sugar	DE	MU	26	€ 22,982	
+Q4 - 2025	White sugar	DE	MZ	40	€ 42,400	
+Q4 - 2025	White sugar	ES	DZ	2,004	€ 1,008,786	€ 500
+Q4 - 2025	White sugar	ES	EG	3,041	€ 1,553,446	€ 497
+Q4 - 2025	White sugar	ES	MA	6,502	€ 2,919,570	€ 447
+Q4 - 2025	White sugar	ES	MU	4,742	€ 2,841,790	€ 601
+Q4 - 2025	White sugar	FR	DZ	520	€ 227,863	€ 414
+Q4 - 2025	White sugar	FR	MA	555	€ 372,073	€ 501
+Q4 - 2025	White sugar	FR	MU	4,239	€ 2,703,911	€ 640
+Q4 - 2025	White sugar	FR	TZ	0	€ 893	
+Q4 - 2025	White sugar	GB	MA	60	€ 31,349	
+Q4 - 2025	White sugar	GB	MU	2,470	€ 1,852,653	€ 718
+Q4 - 2025	White sugar	GR	MU	1,272	€ 701,520	€ 544
+Q4 - 2025	White sugar	IE	MU	42	€ 33,012	
+Q4 - 2025	White sugar	IT	DZ	330	€ 173,250	€ 525
+Q4 - 2025	White sugar	IT	EG	9,002	€ 4,307,017	€ 480
+Q4 - 2025	White sugar	IT	MA	949	€ 512,263	€ 511
+Q4 - 2025	White sugar	IT	MU	940	€ 680,740	€ 725
+Q4 - 2025	White sugar	IT	MZ	360	€ 332,220	€ 923
+Q4 - 2025	White sugar	LT	MU	24	€ 20,400	
+Q4 - 2025	White sugar	NL	MZ	156	€ 168,422	
+Q4 - 2025	White sugar	SI	EG	408	€ 223,624	€ 548
